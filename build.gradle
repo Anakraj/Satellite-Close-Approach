@@ -12,10 +12,21 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.orekit:orekit:10.3'
     runtimeOnly 'org.orekit:orekit:10.3'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation 'org.orekit:orekit:10.3'
+    implementation  'org.hipparchus:hipparchus-clustering:1.6'
+    implementation  'org.hipparchus:hipparchus-stat:1.6'
+    implementation  'org.hipparchus:hipparchus-samples:1.6'
+    implementation  'org.hipparchus:hipparchus-ode:1.6'
+    implementation  'org.hipparchus:hipparchus-optim:1.6'
+    implementation  'org.hipparchus:hipparchus-fitting:1.6'
+    implementation  'org.hipparchus:hipparchus-filtering:1.6'
+    implementation  'org.hipparchus:hipparchus-core:1.6'
+    implementation  'org.hipparchus:hipparchus-fft:1.6'
+    implementation  'org.hipparchus:hipparchus-geometry:1.6'
+    implementation  'org.hipparchus:hipparchus:1.6'
 }
 
 test {
