@@ -1,13 +1,12 @@
 package com.example.orbittracker;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.Locale;
 
 import org.hipparchus.util.FastMath;
+import org.orekit.data.DataProvidersManager;
+import org.orekit.data.DirectoryCrawler;
 import org.orekit.frames.Frame;
 import org.orekit.frames.FramesFactory;
 import org.orekit.orbits.KeplerianOrbit;
@@ -21,6 +20,10 @@ import org.orekit.time.UTCScale;
 
 public class Main {
     public static void main(String[] args) {
+
+        File orekitData = new File("./src/main/resources/orekit-data");
+        DataProvidersManager manager = DataProvidersManager.getInstance();
+        manager.addProvider(new DirectoryCrawler(orekitData));
         //Hello Universe
         System.out.println("Hello universe");
 
