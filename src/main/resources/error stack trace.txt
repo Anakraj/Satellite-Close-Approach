@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.NoClassDefFoundError: org/orekit/data/DataProvider
+        at com.example.orbittracker.Main.main(Main.java:24)
+Caused by: java.lang.ClassNotFoundException: org.orekit.data.DataProvider
+        at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606)
+        at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168)
+        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)

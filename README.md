@@ -18,3 +18,8 @@ In order to import Orekit, I added in the following
 line under the dependencies section
 
 compile 'org.orekit:orekit:10.3'
+
+Links used to create fat jar
+https://github.com/eugenp/tutorials/blob/master/gradle/gradle-fat-jar/build.gradle
+
+https://www.baeldung.com/gradle-fat-jar
