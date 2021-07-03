@@ -19,9 +19,17 @@ import org.orekit.time.TimeScalesFactory;
 import org.orekit.time.UTCScale;
 import com.example.orbittracker.KeplerianOrbitTester;
 
+import java.io.File;
+
+
 public class Main {
     public static void main(String[] args) {
-        KeplerianOrbitTester orbitTester = new KeplerianOrbitTester();
-        orbitTester.propagateKeplerOrbit();
+//        KeplerianOrbitTester orbitTester = new KeplerianOrbitTester();
+//        orbitTester.propagateKeplerOrbit();
+
+        String[] tlePaths = {"./src/main/resources/celestrak_active.txt"};
+        TLEReader tleReader = new TLEReader(tlePaths);
+        tleReader.readTLEs();
+        System.out.println(tleReader.getTles()[0]);
     }
 }
