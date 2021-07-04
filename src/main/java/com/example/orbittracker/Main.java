@@ -14,6 +14,7 @@ import org.orekit.orbits.Orbit;
 import org.orekit.orbits.PositionAngle;
 import org.orekit.propagation.SpacecraftState;
 import org.orekit.propagation.analytical.KeplerianPropagator;
+import org.orekit.propagation.analytical.tle.TLE;
 import org.orekit.time.AbsoluteDate;
 import org.orekit.time.TimeScalesFactory;
 import org.orekit.time.UTCScale;
@@ -27,9 +28,13 @@ public class Main {
 //        KeplerianOrbitTester orbitTester = new KeplerianOrbitTester();
 //        orbitTester.propagateKeplerOrbit();
 
-        String[] tlePaths = {"./src/main/resources/celestrak_active.txt"};
+        String[] tlePaths = {"./src/main/resources/celestrak_active.txt", "./src/main/resources/space-track_iridium.txt"};
         TLEReader tleReader = new TLEReader(tlePaths);
-        tleReader.readTLEs();
+        tleReader.readNumTLEs(10);
         System.out.println(tleReader.getTles()[0]);
+        System.out.println(tleReader.getTles().length);
+        for(TLE t : tleReader.getTles()) {
+            System.out.println(t);
+        }
     }
 }
