@@ -25,14 +25,17 @@ import java.io.File;
 
 public class Main {
     public static void main(String[] args) {
-//        KeplerianOrbitTester orbitTester = new KeplerianOrbitTester();
-//        orbitTester.propagateKeplerOrbit();
 
+        //load in the paths of the files containing tles to load in
         String[] tlePaths = {"./src/main/resources/celestrak_active.txt", "./src/main/resources/space-track_iridium.txt"};
         TLEReader tleReader = new TLEReader(tlePaths);
+
+        //get the first 10 entries in each files, and put them into an array
         tleReader.readNumTLEs(10);
+
         System.out.println(tleReader.getTles()[0]);
         System.out.println(tleReader.getTles().length);
+
         for(TLE t : tleReader.getTles()) {
             System.out.println(t);
         }
