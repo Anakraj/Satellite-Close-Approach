@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.piccolo2d:piccolo2d-core:3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.piccolo2d/piccolo2d-core/3.0/8f2df2fa7b28064533961a92be0a37718d2e4a4e/piccolo2d-core-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.piccolo2d/piccolo2d-core/3.0/1f792f6dd0ec4bf26ef71ff6508585baca1d53fc/piccolo2d-core-3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
