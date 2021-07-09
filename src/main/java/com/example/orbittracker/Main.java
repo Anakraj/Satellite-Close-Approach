@@ -26,7 +26,7 @@ import java.io.File;
 
 public class Main {
     public static void main(String[] args) {
-
+        //test
         //load in the paths of the files containing tles to load in
         String[] tlePaths = {"./src/main/resources/celestrak_active.txt", "./src/main/resources/space-track_iridium.txt"};
         ArrayList<NamedTLE> testTLEs;
