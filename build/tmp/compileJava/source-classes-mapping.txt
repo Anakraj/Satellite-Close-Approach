@@ -2,5 +2,9 @@ com/example/orbittracker/KeplerianOrbitTester.java
  com.example.orbittracker.KeplerianOrbitTester
 com/example/orbittracker/TLEReader.java
  com.example.orbittracker.TLEReader
+com/example/orbittracker/TLEUtil.java
+ com.example.orbittracker.TLEUtil
+com/example/orbittracker/NamedTLE.java
+ com.example.orbittracker.NamedTLE
 com/example/orbittracker/Main.java
  com.example.orbittracker.Main

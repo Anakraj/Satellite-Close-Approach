@@ -124,6 +124,7 @@ public class TLEReader {
                     String line1 = reader.readLine().stripTrailing();
                     String line2 = reader.readLine().stripTrailing();
 
+                    System.out.println(line1);
 
                     if(TLE.isFormatOK(line1, line2)) {
                         TLE tle = new TLE(line1, line2);

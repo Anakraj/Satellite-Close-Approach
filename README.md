@@ -23,3 +23,6 @@ Links used to create fat jar
 https://github.com/eugenp/tutorials/blob/master/gradle/gradle-fat-jar/build.gradle
 
 https://www.baeldung.com/gradle-fat-jar
+
+JUnit tutorial:
+https://blog.jetbrains.com/idea/2020/09/writing-tests-with-junit-5/

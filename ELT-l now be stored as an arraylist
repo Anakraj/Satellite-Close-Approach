@@ -1,0 +1,121 @@
+[33mcommit cf194c2f883765fb8cbb716c9ea7e79a9c82be86[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Thu Jul 8 17:24:03 2021 -0700
+
+    -refactored code to use NamedTLe class, which includes the name of the satellite associated with the TLE
+    -created TLEUtil class which handles parsing text into TLE format, TLEReader is now obselete
+    -TLEs will now be stored as an arraylist
+    -.idea folder is now added in gitignore
+
+[33mcommit 7feb6093c38e91e7a4cd97b117036763fc0d97d3[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Akash’s Laptop <akash@Akashss-MacBook-Pro.local>
+Date:   Wed Jul 7 17:25:02 2021 -0700
+
+    added outline
+
+[33mcommit e67f0f69887dd6a14391dc0ee5347108e1f0b81e[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Sun Jul 4 16:05:47 2021 -0700
+
+    Added comments to Main.java and TLEReader.java
+
+[33mcommit f274b269c5b1a7137829448f615dc5fe8f35f1b0[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Sun Jul 4 14:47:50 2021 -0700
+
+    Changed .gitignore and created new one outside of .idea, hopefully it'll work this time
+
+[33mcommit 4b47128b181b2b6d32ece8be0e494eb193e5ad2c[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Sun Jul 4 14:05:49 2021 -0700
+
+    Added satellite data of the iridium satellite collection from spacetrack.
+    Added readNumTLEs method in TLEReader class, which selects the k first TLEs from each source of data. This is meant to be used for testing, so that we don't have to load in thousands of satellites each time.
+    Added emptyTLEs method in TLEReader class, which sets its TLE list to null.
+
+[33mcommit c0e01d5c3509e462ebeeb52624a7010298484074[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Sat Jul 3 14:42:26 2021 -0700
+
+    Added in celestrak_active.txt as tle orbit data sets.
+    Started on TLEReader.java, a class that handles reading in the tles from an array of files in tle format, and returns an array of TLEs in orekit format.
+
+[33mcommit 8d5b89e78a573a6b0ced6a682d66e933a8940172[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Wed Jun 30 14:32:22 2021 -0700
+
+    Changed .gitignore file to ignore .gradle and build directories
+
+[33mcommit fae51c2231d4ac796248c3c4c6fe00ee1d63ba1c[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Wed Jun 30 14:21:56 2021 -0700
+
+    Modified the build.gradle to use build a "fat jar" instead of "thin jar".
+    This solved the problem of having missing dependencies when trying to run the jar file from the gradle build.
+    Name of the jar file is now "OrbitTracker.jar"
+
+[33mcommit 16559840615f53ae1d86764d18e59b8c5d476bb8[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Wed Jun 30 10:46:56 2021 -0700
+
+    Moved the orekit test code to a separate class, main class is now empty and available for outlining
+
+[33mcommit 0f3abf89f3bf50c655bee5e3f89b158912051da7[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Tue Jun 29 22:08:57 2021 -0700
+
+    Added the resources folder, which was previously omitted
+
+[33mcommit 1758f89efbec3b37032b17e319df4363369a1b05[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Tue Jun 29 22:05:19 2021 -0700
+
+    Added necessary data for orekit in resources folder, and coded it so that it gets used.
+    The program still doesn't run when it is built into a jar, but it does run when compiled by intellij. You have to change the build and run from the default gradle to using IntelliJ instead. When doing this, the expected output is given.
+
+[33mcommit 7d8975b2f4ac5d114e3de20dc101dad3c94bbf7d[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Tue Jun 29 20:50:45 2021 -0700
+
+    Imported orekit from build.gradle, and attempted to create an orbit propagation demo. Code seems to compile, but ran into classdefnotfound error during runtime.
+
+[33mcommit 07a557c35e14fc07ea67d8b7b155cc8dd2e50269[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Tue Jun 29 18:37:22 2021 -0700
+
+    attempted to add orekit
+
+[33mcommit 6a09f1aac3d7c8cafc9848f953468da5b24ffd35[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Tue Jun 29 17:57:51 2021 -0700
+
+    New file vcs.xml
+
+[33mcommit 13705126291258b3b298e3f5ff54b7a5ffaef1f3[m
+Author: Steven Shi <stevendiwenshi1113@gmail.com>
+Date:   Wed Jun 30 00:56:24 2021 +0000
+
+    Update README.md
+
+[33mcommit 615668a48be1b6c5110601095ecd68b757a00fbc[m
+Merge: 638aa63 cc62f62
+Author: Steven Shi <stevendiwenshi1113@gmail.com>
+Date:   Wed Jun 30 00:55:34 2021 +0000
+
+    Merge branch 'master' into 'main'
+    
+    Initial commit
+    
+    See merge request my-awesome-group575/orbittracker!1
+
+[33mcommit 638aa63ec8520f3e4263a9aed1398ff32b30f84e[m
+Author: Steven Shi <stevendiwenshi1113@gmail.com>
+Date:   Wed Jun 30 00:48:56 2021 +0000
+
+    Initial commit
+
+[33mcommit cc62f62755699fcc2d07c6a8cf3878c8231e04bc[m[33m ([m[1;32mmaster[m[33m)[m
+Author: 2s2e <stevendiwenshi1113@gmail.com>
+Date:   Tue Jun 29 17:45:31 2021 -0700
+
+    Initial commit
