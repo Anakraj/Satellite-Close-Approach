@@ -39,7 +39,6 @@ dependencies {
 
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
-    compile group: 'org.orekit', name: 'orekit', version: '10.3'
     implementation 'org.orekit:orekit:10.3'
     implementation  'org.hipparchus:hipparchus-clustering:1.6'
     implementation  'org.hipparchus:hipparchus-stat:1.6'

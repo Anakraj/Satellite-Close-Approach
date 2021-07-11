@@ -1,5 +1,6 @@
-package com.example.tests;
+package com.example.tests.junit5;
 
+import com.example.orbittracker.ApproachRunnable;
 import com.example.orbittracker.NamedTLE;
 import com.example.orbittracker.TLEUtil;
 import org.junit.jupiter.api.*;
@@ -20,7 +21,8 @@ public class ExampleTest {
     }
 
     @Test
-    void fail () {
+    void success () {
         Assertions.assertEquals(1, 1);
     }
+
 }
