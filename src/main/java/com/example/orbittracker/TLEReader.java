@@ -7,6 +7,7 @@ import org.orekit.propagation.analytical.tle.TLE;
 import java.io.*;
 import java.util.*;
 
+@Deprecated
 public class TLEReader {
 
     //this will store all the tles from all the files in filesToRead
