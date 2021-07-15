@@ -12,16 +12,16 @@ public class Comparisons {
     //sees if we need to compare rockets based on apogee and perigee
     private static final int TIME_PERIOD = 7;
 
-    public static boolean apogeeTest(double apogee1, double perigee1, double apogee2, double perigee2){
+    public static boolean apogeeTest(double apogee1, double perigee1, double apogee2, double perigee2, double bufferInKm){
         //test1 sees if satellite 1 is always farther out than satellite 2
         boolean test1 = false;
-        if (perigee1 > apogee2){
+        if (perigee1 > apogee2 + 1000 * bufferInKm){
             test1 = true;
         }
 
         //test2 sees if satellite 1 is always closer in than satellite 2
         boolean test2 = false;
-        if (apogee1 < perigee2){
+        if (apogee1 < perigee2 - 1000 * bufferInKm){
             test2 = true;
         }
 
@@ -89,6 +89,10 @@ public class Comparisons {
     }
 
     public static boolean propagationTest(OrbitResults a, OrbitResults b, double bufferInKm) {
+
+        if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferInKm)) {
+            return false;
+        }
 
         ArrayList<PVCoordinates> aCoords = a.getCoords();
         ArrayList<PVCoordinates> bCoords = b.getCoords();

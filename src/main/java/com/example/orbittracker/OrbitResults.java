@@ -19,9 +19,12 @@ public class OrbitResults {
     String name;
     TLE tle;
 
+
+
     double perigee;
     double apogee;
     double trueAnomaly;
+    double a;
 
     double intervalInSeconds;
     double durationInSeconds;
@@ -36,7 +39,33 @@ public class OrbitResults {
         this.intervalInSeconds = intervalInSeconds;
         this.durationInSeconds = durationInSeconds;
 
+        calculateSemiMajorAxis();
+        calculateApsis();
+        calculateTrueAnomaly();
+
+
+
         propagate();
+    }
+
+    private void calculateTrueAnomaly() {
+        this.trueAnomaly = Anomaly.trueAnomaly(tle.getMeanAnomaly(), tle.getE());
+    }
+
+    private void calculateSemiMajorAxis() {
+        //double mu = 3.986e14;
+        double mu = 3.986 * Math.pow(10, 14);
+        double n = tle.getMeanMotion();
+
+        System.out.println(mu);
+        System.out.println(n);
+
+        this.a = Math.pow(mu, 1.0/3.0) / Math.pow(2*n*Math.PI/86400, 2.0/3.0);
+    }
+
+    private void calculateApsis() {
+        this.perigee = this.a * (1 - tle.getE());
+        this.apogee = this.a * (1 + tle.getE());
     }
 
     private void propagate() {
@@ -70,5 +99,25 @@ public class OrbitResults {
 
     public ArrayList<PVCoordinates> getCoords() {
         return coords;
+    }
+
+    public TLE getTle() {
+        return tle;
+    }
+
+    public double getPerigee() {
+        return perigee;
+    }
+
+    public double getApogee() {
+        return apogee;
+    }
+
+    public double getTrueAnomaly() {
+        return trueAnomaly;
+    }
+
+    public double getA() {
+        return a;
     }
 }

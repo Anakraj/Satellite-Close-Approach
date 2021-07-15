@@ -4,7 +4,7 @@ public class Anomaly {
 
     private static final double WARNING_THRESHOLD = 0.01;
 
-    public double trueAnomaly(double meanAnomaly, double e){
+    public static double trueAnomaly(double meanAnomaly, double e){
 
         //this expression for the true anomaly from mean anomaly emits terms that have e^4 and greater terms
         //if e^4 > .01, send a warning
