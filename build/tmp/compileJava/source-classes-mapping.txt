@@ -1,18 +1,22 @@
+com/example/orbittracker/Anomaly.java
+ com.example.orbittracker.Anomaly
 com/example/orbittracker/KeplerianOrbitTester.java
  com.example.orbittracker.KeplerianOrbitTester
 com/example/orbittracker/CloseApproach.java
  com.example.orbittracker.CloseApproach
-com/example/orbittracker/ApproachRunnable.java
- com.example.orbittracker.ApproachRunnable
 com/example/orbittracker/Main.java
  com.example.orbittracker.Main
-com/example/orbittracker/TLEUtil.java
- com.example.orbittracker.TLEUtil
-com/example/orbittracker/NamedTLE.java
- com.example.orbittracker.NamedTLE
-com/example/orbittracker/Anomaly.java
- com.example.orbittracker.Anomaly
 com/example/orbittracker/TLEReader.java
  com.example.orbittracker.TLEReader
+com/example/orbittracker/ApproachRunnable.java
+ com.example.orbittracker.ApproachRunnable
+com/example/orbittracker/NamedTLE.java
+ com.example.orbittracker.NamedTLE
+com/example/orbittracker/TLEUtil.java
+ com.example.orbittracker.TLEUtil
+com/example/orbittracker/CloseApproachOrbit.java
+ com.example.orbittracker.CloseApproachOrbit
+com/example/orbittracker/OrbitResults.java
+ com.example.orbittracker.OrbitResults
 com/example/orbittracker/Comparisons.java
  com.example.orbittracker.Comparisons

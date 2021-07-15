@@ -26,3 +26,23 @@ https://www.baeldung.com/gradle-fat-jar
 
 JUnit tutorial:
 https://blog.jetbrains.com/idea/2020/09/writing-tests-with-junit-5/
+
+https://gitlab.orekit.org/orekit-labs/python-wrapper/blob/master/examples/TLE_Propagation.ipynb
+
+PropagationResults {
+from Galen Stevens to everyone:    11:31 AM
+NamedTle
+from Galen Stevens to everyone:    11:31 AM
+List<PVCoordinates>
+
+List<TimeStep>
+from Galen Stevens to everyone:    11:34 AM
+TimeStep {
+from Galen Stevens to everyone:    11:34 AM
+AbsoluteDate
+from Galen Stevens to everyone:    11:34 AM
+PVCoordinates (or just Vector3D for position)
+
+will need some class that holds the results for all propagated satellites
+from Galen Stevens to everyone:    11:37 AM
+which should contain a Map<String, PropagationResults> (where the key/string is the TLE name, for example)

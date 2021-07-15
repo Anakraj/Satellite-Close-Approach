@@ -1,6 +1,6 @@
 package com.example.orbittracker;
 
-public abstract class Anomaly {
+public class Anomaly {
 
     private static final double WARNING_THRESHOLD = 0.01;
 

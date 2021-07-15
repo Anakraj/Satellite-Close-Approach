@@ -1,6 +1,13 @@
 package com.example.orbittracker;
 
-public abstract class Comparisons {
+import org.hipparchus.geometry.euclidean.threed.Vector3D;
+import org.orekit.propagation.analytical.tle.TLE;
+import org.orekit.propagation.analytical.tle.TLEPropagator;
+import org.orekit.utils.PVCoordinates;
+
+import java.util.ArrayList;
+
+public class Comparisons {
 
     //sees if we need to compare rockets based on apogee and perigee
     private static final int TIME_PERIOD = 7;
@@ -79,6 +86,25 @@ public abstract class Comparisons {
                 }
             }
         }
+    }
+
+    public static boolean propagationTest(OrbitResults a, OrbitResults b, double bufferInKm) {
+
+        ArrayList<PVCoordinates> aCoords = a.getCoords();
+        ArrayList<PVCoordinates> bCoords = b.getCoords();
+
+        for(int i = 0; i < aCoords.size(); i++) {
+            Vector3D aPos = aCoords.get(i).getPosition();
+            Vector3D bPos = bCoords.get(i).getPosition();
+
+            double dist = aPos.distance(bPos);
+            if(dist <= bufferInKm * 1000) {
+                return true;
+            }
+        }
+
+        return false;
+
     }
 }
 
