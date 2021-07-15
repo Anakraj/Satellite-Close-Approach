@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.hipparchus:hipparchus-fft:1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hipparchus/hipparchus-fft/1.6/e8815f03f41dae5188d51c28d687253f0fcc084b/hipparchus-fft-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hipparchus/hipparchus-fft/1.6/4ef32a74606e8a1516f5a859bfc711d8f29d3886/hipparchus-fft-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
