@@ -89,7 +89,7 @@ public class Comparisons {
     }
 
     public static boolean propagationTest(OrbitResults a, OrbitResults b, double bufferInKm) {
-
+        //comment
         if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferInKm)) {
             return false;
         }
