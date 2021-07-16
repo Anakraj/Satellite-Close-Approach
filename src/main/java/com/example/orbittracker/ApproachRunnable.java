@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class ApproachRunnable implements Runnable{
 
-    ArrayList<CloseApproach> closeApproaches;
+    ArrayList<OrbitResults> orbitResults;
     ArrayList<NamedTLE> listA;
     ArrayList<NamedTLE> listB;
     boolean single;
@@ -14,7 +14,7 @@ public class ApproachRunnable implements Runnable{
     @Override
     public void run() {
         if(single) {
-            closeApproaches = generateCloseApproachesSingle();
+            orbitResults = generateCloseApproachesSingle();
         }
         else {
             //don't do anything for now
@@ -34,18 +34,16 @@ public class ApproachRunnable implements Runnable{
         single = true;
     }
 
-    public ArrayList<CloseApproach> getCloseApproaches() {
-        return closeApproaches;
+    public ArrayList<OrbitResults> getCloseApproaches() {
+        return orbitResults;
     }
 
-    ArrayList<CloseApproach> generateCloseApproachesSingle() {
-        ArrayList<CloseApproach> toRet = new ArrayList<>();
+    ArrayList<OrbitResults> generateCloseApproachesSingle() {
+        ArrayList<OrbitResults> toRet = new ArrayList<>();
 
         for(int i = 0; i < listA.size(); i++) {
             for(int j = i + 1; j < listA.size(); j++) {
-                CloseApproach closeApproach = new CloseApproach(listA.get(i), listA.get(j));
-                System.out.println(closeApproach);
-                toRet.add(closeApproach);
+                //do comparison here
             }
         }
 

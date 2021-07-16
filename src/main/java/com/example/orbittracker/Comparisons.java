@@ -12,16 +12,16 @@ public class Comparisons {
     //sees if we need to compare rockets based on apogee and perigee
     private static final int TIME_PERIOD = 7;
 
-    public static boolean apogeeTest(double apogee1, double perigee1, double apogee2, double perigee2, double bufferInKm){
+    public static boolean apogeeTest(double apogee1, double perigee1, double apogee2, double perigee2, double buffer){
         //test1 sees if satellite 1 is always farther out than satellite 2
         boolean test1 = false;
-        if (perigee1 > apogee2 + 1000 * bufferInKm){
+        if (perigee1 > apogee2 + buffer){
             test1 = true;
         }
 
         //test2 sees if satellite 1 is always closer in than satellite 2
         boolean test2 = false;
-        if (apogee1 < perigee2 - 1000 * bufferInKm){
+        if (apogee1 < perigee2 - buffer){
             test2 = true;
         }
 

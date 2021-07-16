@@ -2,6 +2,7 @@ package com.example.orbittracker;
 
 import org.orekit.propagation.analytical.tle.TLE;
 
+@Deprecated
 public class CloseApproach {
 
     NamedTLE a;

@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/OrbitTracker.iml" filepath="$PROJECT_DIR$/.idea/modules/OrbitTracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/OrbitTracker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OrbitTracker.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/OrbitTracker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/OrbitTracker.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OrbitTracker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OrbitTracker_main.iml" group="OrbitTracker" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OrbitTracker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OrbitTracker_test.iml" group="OrbitTracker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Projects.OrbitTracker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Projects.OrbitTracker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Projects.OrbitTracker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Projects.OrbitTracker.test.iml" />
     </modules>
   </component>
 </project>
