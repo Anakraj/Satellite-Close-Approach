@@ -88,10 +88,16 @@ public class Comparisons {
         }
     }
 
-    public static boolean propagationTest(OrbitResults a, OrbitResults b, double bufferInKm) {
+    public static CloseApproachOrbit testIfClose(OrbitResults a, OrbitResults b, double bufferMeters) {
         //comment
-        if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferInKm)) {
-            return false;
+        if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferMeters)) {
+            return null;
+        }
+
+
+        //consider getting rid of since very situational and doesn't consider buffer
+        if(angularSpeedTest(a.getTrueAnomaly(), a.getAvgAngularSpeed(), b.getTrueAnomaly(), b.getAvgAngularSpeed())) {
+            return null;
         }
 
         ArrayList<PVCoordinates> aCoords = a.getCoords();
@@ -102,12 +108,12 @@ public class Comparisons {
             Vector3D bPos = bCoords.get(i).getPosition();
 
             double dist = aPos.distance(bPos);
-            if(dist <= bufferInKm * 1000) {
-                return true;
+            if(dist <= bufferMeters) {
+                return new CloseApproachOrbit(a, b, dist);
             }
         }
 
-        return false;
+        return null;
 
     }
 }

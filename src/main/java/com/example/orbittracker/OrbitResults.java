@@ -1,5 +1,7 @@
 package com.example.orbittracker;
 
+import org.hipparchus.geometry.Point;
+import org.hipparchus.geometry.euclidean.threed.Vector3D;
 import org.orekit.frames.Frame;
 import org.orekit.frames.FramesFactory;
 import org.orekit.propagation.analytical.tle.TLE;
@@ -25,6 +27,7 @@ public class OrbitResults {
     double apogee;
     double trueAnomaly;
     double a;
+    double avgAngularSpeed;
 
     double intervalInSeconds;
     double durationInSeconds;
@@ -79,9 +82,6 @@ public class OrbitResults {
             coords.add(pv);
             startDate = startDate.shiftedBy(intervalInSeconds);
         }
-
-
-
         /*
         * while (extrapDate.compareTo(finalDate) <= 0.0):
     pv = propagator.getPVCoordinates(extrapDate, inertialFrame)
@@ -95,6 +95,26 @@ public class OrbitResults {
     #print extrapDate, pos_tmp, vel_tmp
     extrapDate = extrapDate.shiftedBy(10.0)
         * */
+    }
+
+    private void setAverageAngularSpeed() {
+        double toRet = 0.0;
+        for(PVCoordinates pv : coords) {
+            Vector3D angVec = pv.getAngularVelocity();
+            double x = angVec.getX();
+            double y = angVec.getY();
+            double z = angVec.getZ();
+
+            double mag = Math.sqrt(x + y + z);
+
+            toRet += mag;
+        }
+        toRet /= coords.size();
+        this.avgAngularSpeed = toRet;
+    }
+
+    public double getAvgAngularSpeed() {
+        return avgAngularSpeed;
     }
 
     public ArrayList<PVCoordinates> getCoords() {

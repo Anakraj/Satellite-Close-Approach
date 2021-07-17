@@ -37,7 +37,6 @@ public class SimplePropagateTest {
     @Test
     void compareTwo() {
 
-        double testBuffer = 5.0;
         double interval = 60.0;
         double duration = 60 * 60 * 24 * 7 * 1.0;
 
@@ -53,11 +52,11 @@ public class SimplePropagateTest {
 
         System.out.println("Done with OrbitResults");
 
-        System.out.println(Comparisons.propagationTest(a, b, 5.0));
-        System.out.println(Comparisons.propagationTest(a, b, 10.0));
-        System.out.println(Comparisons.propagationTest(a, b, 100.0));
-        System.out.println(Comparisons.propagationTest(a, b, 1000.0));
-        System.out.println(Comparisons.propagationTest(a, b, 10000.0));
+        System.out.println(Comparisons.testIfClose(a, b, 5.0 * 1000));
+        System.out.println(Comparisons.testIfClose(a, b, 10.0 * 1000));
+        System.out.println(Comparisons.testIfClose(a, b, 100.0 * 1000));
+        System.out.println(Comparisons.testIfClose(a, b, 1000.0 * 1000));
+        System.out.println(Comparisons.testIfClose(a, b, 10000.0 * 1000));
 
         System.out.println("Done with tests");
     }
