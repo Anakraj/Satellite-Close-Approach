@@ -9,7 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Projects.OrbitTracker.main" />
+    <orderEntry type="module" module-name="OrbitTracker.main" />
     <orderEntry type="library" name="Gradle: org.orekit:orekit:10.3" level="project" />
     <orderEntry type="library" name="Gradle: org.hipparchus:hipparchus-samples:1.6" level="project" />
     <orderEntry type="library" name="Gradle: org.hipparchus:hipparchus-clustering:1.6" level="project" />
