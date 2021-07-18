@@ -5,6 +5,9 @@ import org.orekit.propagation.analytical.tle.TLE;
 import org.orekit.propagation.analytical.tle.TLEPropagator;
 import org.orekit.utils.PVCoordinates;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 
 public class Comparisons {
@@ -12,7 +15,7 @@ public class Comparisons {
     //sees if we need to compare rockets based on apogee and perigee
     private static final int TIME_PERIOD = 7;
 
-    public static boolean apogeeTest(double apogee1, double perigee1, double apogee2, double perigee2, double buffer){
+    private static boolean apogeeTest(double apogee1, double perigee1, double apogee2, double perigee2, double buffer){
         //test1 sees if satellite 1 is always farther out than satellite 2
         boolean test1 = false;
         if (perigee1 > apogee2 + buffer){
@@ -34,7 +37,7 @@ public class Comparisons {
         return true;
     }
 
-    public static boolean angularSpeedTest(double anomly1, double angularSpeed1, double anomly2, double angularSpeed2){
+    private static boolean angularSpeedTest(double anomly1, double angularSpeed1, double anomly2, double angularSpeed2){
         //the relative position between the two satellites is the difference between the anomalies
         double relativePosition = anomly1 - anomly2;
         //the relative speed between the two satellites is the difference in speed
@@ -115,6 +118,19 @@ public class Comparisons {
 
         return null;
 
+    }
+
+    public static void generateLogs(ArrayList<CloseApproachOrbit> approaches) throws IOException {
+        BufferedWriter writer = new BufferedWriter(new FileWriter("orbit_out.txt"));
+
+        for(CloseApproachOrbit i : approaches) {
+            writer.write("Close approach between " + i.getA().getName().strip() + " and " + i.getB().getName().strip() + ".");
+            writer.write("\n");
+            writer.write("Closest distance: " + i.getClosestDistance() + " m");
+            writer.write("\n");
+        }
+
+        writer.close();
     }
 }
 

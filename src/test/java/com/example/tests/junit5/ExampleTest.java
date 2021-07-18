@@ -12,7 +12,6 @@ public class ExampleTest {
     void firstTenOrbits () {
         String[] tlePaths = {"./src/main/resources/celestrak_active.txt", "./src/main/resources/space-track_iridium.txt"};
         ArrayList<NamedTLE> testTLEs;
-
         testTLEs = TLEUtil.readTLEs(tlePaths, 10);
 
         for(NamedTLE i : testTLEs) {

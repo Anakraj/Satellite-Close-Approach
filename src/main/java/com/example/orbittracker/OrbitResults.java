@@ -21,8 +21,6 @@ public class OrbitResults {
     String name;
     TLE tle;
 
-
-
     double perigee;
     double apogee;
     double trueAnomaly;
@@ -60,8 +58,8 @@ public class OrbitResults {
         double mu = 3.986 * Math.pow(10, 14);
         double n = tle.getMeanMotion();
 
-        System.out.println(mu);
-        System.out.println(n);
+//        System.out.println(mu);
+//        System.out.println(n);
 
         this.a = Math.pow(mu, 1.0/3.0) / Math.pow(2*n*Math.PI/86400, 2.0/3.0);
     }
@@ -139,5 +137,9 @@ public class OrbitResults {
 
     public double getA() {
         return a;
+    }
+
+    public String getName() {
+        return name;
     }
 }
