@@ -103,13 +103,16 @@ public class Comparisons {
             return null;
         }
 
+        //PV get the PVCoordinates of both satellites to be compared
         ArrayList<PVCoordinates> aCoords = a.getCoords();
         ArrayList<PVCoordinates> bCoords = b.getCoords();
 
         for(int i = 0; i < aCoords.size(); i++) {
+            //get positions of both satellites as a 3d vector
             Vector3D aPos = aCoords.get(i).getPosition();
             Vector3D bPos = bCoords.get(i).getPosition();
 
+            //calculate the distance and see if buffer is overcome
             double dist = aPos.distance(bPos);
             if(dist <= bufferMeters) {
                 return new CloseApproachOrbit(a, b, dist);
@@ -120,8 +123,10 @@ public class Comparisons {
 
     }
 
+    //write out a demo log file, currently only has names of satellites and closest approach
     public static void generateLogs(ArrayList<CloseApproachOrbit> approaches) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter("orbit_out.txt"));
+
 
         for(CloseApproachOrbit i : approaches) {
             writer.write("Close approach between " + i.getA().getName().strip() + " and " + i.getB().getName().strip() + ".");

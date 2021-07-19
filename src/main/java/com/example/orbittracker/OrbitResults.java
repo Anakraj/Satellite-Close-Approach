@@ -70,10 +70,12 @@ public class OrbitResults {
     }
 
     private void propagate() {
+        //set up the date
         Frame inertialFrame = FramesFactory.getEME2000();
         AbsoluteDate startDate = new AbsoluteDate(2002, 5, 7, 12, 0, 0.0, TimeScalesFactory.getUTC());
         AbsoluteDate endDate = startDate.shiftedBy(this.durationInSeconds);
 
+        //while end date hasn't been reached, propagate orbit up to current point, add PVCoordinates, then increment working date
         while(startDate.compareTo((endDate)) <= 0.0) {
             PVCoordinates pv = tProp.getPVCoordinates(startDate, inertialFrame);
             //System.out.println(pv);
