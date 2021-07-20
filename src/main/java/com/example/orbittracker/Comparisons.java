@@ -1,14 +1,17 @@
 package com.example.orbittracker;
 
+import org.hipparchus.analysis.function.Abs;
 import org.hipparchus.geometry.euclidean.threed.Vector3D;
-import org.orekit.propagation.analytical.tle.TLE;
-import org.orekit.propagation.analytical.tle.TLEPropagator;
+import org.orekit.orbits.Orbit;
+import org.orekit.time.AbsoluteDate;
 import org.orekit.utils.PVCoordinates;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Optional;
 
 public class Comparisons {
 
@@ -91,50 +94,92 @@ public class Comparisons {
         }
     }
 
-    public static CloseApproachOrbit testIfClose(OrbitResults a, OrbitResults b, double bufferMeters) {
-        //comment
-        if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferMeters)) {
-            return null;
-        }
+    public static ArrayList<OrbitPoint> calculateDistanceData(OrbitResults a, OrbitResults b, AbsoluteDate startDate, double intervalInSeconds) {
 
+        ArrayList<OrbitPoint> points = new ArrayList<>();
 
-        //consider getting rid of since very situational and doesn't consider buffer
-        if(angularSpeedTest(a.getTrueAnomaly(), a.getAvgAngularSpeed(), b.getTrueAnomaly(), b.getAvgAngularSpeed())) {
-            return null;
-        }
-
-        //PV get the PVCoordinates of both satellites to be compared
         ArrayList<PVCoordinates> aCoords = a.getCoords();
         ArrayList<PVCoordinates> bCoords = b.getCoords();
 
-        for(int i = 0; i < aCoords.size(); i++) {
-            //get positions of both satellites as a 3d vector
-            Vector3D aPos = aCoords.get(i).getPosition();
-            Vector3D bPos = bCoords.get(i).getPosition();
+        AbsoluteDate tempDate = startDate;
 
-            //calculate the distance and see if buffer is overcome
-            double dist = aPos.distance(bPos);
-            if(dist <= bufferMeters) {
-                return new CloseApproachOrbit(a, b, dist);
+        for(int i = 0; i < a.getCoords().size(); i++) {
+            double distance = aCoords.get(i).getPosition().distance(bCoords.get(i).getPosition());
+            Vector3D separation = aCoords.get(i).getPosition().subtract(bCoords.get(i).getPosition());
+            tempDate = tempDate.shiftedBy(intervalInSeconds);
+
+            points.add(new OrbitPoint(separation, distance, tempDate));
+        }
+
+        return points;
+    }
+
+    public static Optional<CloseApproachPair> testIfApproach(OrbitResults a, OrbitResults b, double bufferMeters, AbsoluteDate startDate, double internvalInSeconds) {
+        if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferMeters)) {
+            return Optional.empty();
+        }
+        //consider getting rid of since very situational and doesn't consider buffer
+        if(angularSpeedTest(a.getTrueAnomaly(), a.getAvgAngularSpeed(), b.getTrueAnomaly(), b.getAvgAngularSpeed())) {
+            return Optional.empty();
+        }
+
+        ArrayList<OrbitPoint> results = calculateDistanceData(a, b, startDate, internvalInSeconds);
+
+        for(OrbitPoint point : results) {
+            //System.out.println(point.getDistance());
+            if(point.getDistance() <= bufferMeters) {
+                return Optional.of(new CloseApproachPair(a, b, results, bufferMeters));
             }
         }
 
-        return null;
-
+        return Optional.empty();
     }
 
+//    public static CloseApproachPair testIfClose(OrbitResults a, OrbitResults b, double bufferMeters) {
+//        //comment
+//        if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferMeters)) {
+//            return null;
+//        }
+//
+//
+//        //consider getting rid of since very situational and doesn't consider buffer
+//        if(angularSpeedTest(a.getTrueAnomaly(), a.getAvgAngularSpeed(), b.getTrueAnomaly(), b.getAvgAngularSpeed())) {
+//            return null;
+//        }
+//
+//        //PV get the PVCoordinates of both satellites to be compared
+//        ArrayList<PVCoordinates> aCoords = a.getCoords();
+//        ArrayList<PVCoordinates> bCoords = b.getCoords();
+//
+//        for(int i = 0; i < aCoords.size(); i++) {
+//            //get positions of both satellites as a 3d vector
+//            Vector3D aPos = aCoords.get(i).getPosition();
+//            Vector3D bPos = bCoords.get(i).getPosition();
+//
+//            //calculate the distance and see if buffer is overcome
+//            double dist = aPos.distance(bPos);
+//            if(dist <= bufferMeters) {
+//                return new CloseApproachPair(a, b, dist);
+//            }
+//        }
+//
+//        return null;
+//
+//    }
+
     //write out a demo log file, currently only has names of satellites and closest approach
-    public static void generateLogs(ArrayList<CloseApproachOrbit> approaches) throws IOException {
+    public static void generateLogs(ArrayList<CloseApproachPair> approaches) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter("orbit_out.txt"));
 
 
-        for(CloseApproachOrbit i : approaches) {
-            writer.write("Close approach between " + i.getA().getName().strip() + " and " + i.getB().getName().strip() + ".");
+        for(CloseApproachPair i : approaches) {
+            writer.write("Close approach(es) between " + i.getA().getName().strip() + " and " + i.getB().getName().strip() + ".");
             writer.write("\n");
+
+
             writer.write("Closest distance: " + i.getClosestDistance() + " m");
             writer.write("\n");
         }
-
         writer.close();
     }
 }

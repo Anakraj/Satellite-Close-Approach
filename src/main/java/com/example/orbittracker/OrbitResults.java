@@ -29,9 +29,10 @@ public class OrbitResults {
 
     double intervalInSeconds;
     double durationInSeconds;
+    AbsoluteDate startDate;
 
 
-    public OrbitResults(NamedTLE namedTLE, double intervalInSeconds, double durationInSeconds) {
+    public OrbitResults(NamedTLE namedTLE, double intervalInSeconds, double durationInSeconds, AbsoluteDate startDate) {
         this.namedTLE = namedTLE;
         this.name = namedTLE.getName();
         this.tle = namedTLE.getTle();
@@ -39,6 +40,7 @@ public class OrbitResults {
 
         this.intervalInSeconds = intervalInSeconds;
         this.durationInSeconds = durationInSeconds;
+        this.startDate = startDate;
 
         calculateSemiMajorAxis();
         calculateApsis();
@@ -72,15 +74,15 @@ public class OrbitResults {
     private void propagate() {
         //set up the date
         Frame inertialFrame = FramesFactory.getEME2000();
-        AbsoluteDate startDate = new AbsoluteDate(2002, 5, 7, 12, 0, 0.0, TimeScalesFactory.getUTC());
-        AbsoluteDate endDate = startDate.shiftedBy(this.durationInSeconds);
+        AbsoluteDate tempDate = startDate;
+        AbsoluteDate endDate = tempDate.shiftedBy(this.durationInSeconds);
 
         //while end date hasn't been reached, propagate orbit up to current point, add PVCoordinates, then increment working date
-        while(startDate.compareTo((endDate)) <= 0.0) {
-            PVCoordinates pv = tProp.getPVCoordinates(startDate, inertialFrame);
+        while(tempDate.compareTo((endDate)) <= 0.0) {
+            PVCoordinates pv = tProp.getPVCoordinates(tempDate, inertialFrame);
             //System.out.println(pv);
             coords.add(pv);
-            startDate = startDate.shiftedBy(intervalInSeconds);
+            tempDate = tempDate.shiftedBy(intervalInSeconds);
         }
         /*
         * while (extrapDate.compareTo(finalDate) <= 0.0):
