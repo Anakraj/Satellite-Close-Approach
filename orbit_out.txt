@@ -1,84 +1,12 @@
-First 10 Close approach(es) between OPS 5712 (P/L 160) and RIGIDSPHERE 2 (LCS 4).
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
+First 1 Close approach(es) between OPS 5712 (P/L 160) and RIGIDSPHERE 2 (LCS 4).
+Close approach from 2002-05-07T18:39:00.000 to 2002-05-07T18:39:00.000
 Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
 At this time, position of A compared to B is:{20,693.9352154182; -38,757.4968139194; 15,996.6794233024}
 ---
 
 
-First 10 Close approach(es) between OSCAR 7 (AO-7) and AJISAI (EGS).
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
----
-Close approach from 2002-05-07T12:01:00.000 to 2002-05-14T12:01:00.000
+First 1 Close approach(es) between OSCAR 7 (AO-7) and AJISAI (EGS).
+Close approach from 2002-05-10T20:19:00.000 to 2002-05-10T20:19:00.000
 Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
 At this time, position of A compared to B is:{-18,777.3549240157; -36,620.8567149634; -21,740.8380230838}
 ---

@@ -16,6 +16,8 @@ public class GlobalDatabaseTest {
     @Test
     void useDatabase () throws IOException {
 
+        System.out.println("Up and running");
+
         File orekitData = new File("./src/main/resources/orekit-data");
         DataProvidersManager manager = DataProvidersManager.getInstance();
         manager.addProvider(new DirectoryCrawler(orekitData));
@@ -51,7 +53,7 @@ public class GlobalDatabaseTest {
             }
         }
 
-       Comparisons.generateLogs(closeApproachPairs, 10);
+       Comparisons.generateLogs(closeApproachPairs, 5);
 
 
     }

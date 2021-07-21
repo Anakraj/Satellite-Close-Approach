@@ -13,6 +13,13 @@ public class CloseApproachInterval {
     private int startIndex;
     private int lastIndex;
 
+    private double closestDistance;
+    private Vector3D closestSeparation;
+    private AbsoluteDate closestDistanceDate;
+
+    private AbsoluteDate startDate;
+    private AbsoluteDate endDate;
+
     public double getClosestDistance() {
         return closestDistance;
     }
@@ -33,28 +40,16 @@ public class CloseApproachInterval {
         return endDate;
     }
 
-    private double closestDistance;
-    private Vector3D closestSeparation;
-    private AbsoluteDate closestDistanceDate;
 
-    private AbsoluteDate startDate;
-    private AbsoluteDate endDate;
-
-    ArrayList<OrbitPoint> original;
-
-    public CloseApproachInterval(int startIndex, int lastIndex, ArrayList<OrbitPoint> original) {
-        this.startIndex = startIndex;
-        this.lastIndex = lastIndex;
-        this.original = original;
-        this.startDate = original.get(0).getTime();
-        this.endDate = original.get(original.size() - 1).getTime();
-        generateClosestDistances();
+    public CloseApproachInterval(double closestDistance, AbsoluteDate closestDistanceDate, Vector3D closestSeparation, AbsoluteDate startDate, AbsoluteDate endDate) {
+        this.closestDistance = closestDistance;
+        this.closestDistanceDate = closestDistanceDate;
+        this.closestSeparation = closestSeparation;
+        this.startDate = startDate;
+        this.endDate = endDate;
     }
 
-    void generateClosestDistances() {
-
-        //boils down to simple linear search for minimum distance
-
+    public static CloseApproachInterval createCloseApproachInterval(int startIndex, int lastIndex, ArrayList<OrbitPoint> original) {
         double minDist = original.get(startIndex).getDistance();
         Vector3D tempClosestSeparation = original.get(startIndex).getDistanceXYZ();
         AbsoluteDate tempAbsoluteDate = original.get(startIndex).getTime();
@@ -68,8 +63,9 @@ public class CloseApproachInterval {
             }
         }
 
-        this.closestDistance = minDist;
-        this.closestDistanceDate = tempAbsoluteDate;
-        this.closestSeparation = tempClosestSeparation;
+        AbsoluteDate startDate = original.get(startIndex).getTime();
+        AbsoluteDate endDate = original.get(lastIndex).getTime();
+
+        return new CloseApproachInterval(minDist, tempAbsoluteDate, tempClosestSeparation, startDate, endDate);
     }
 }

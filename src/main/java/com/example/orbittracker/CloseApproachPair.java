@@ -67,6 +67,7 @@ public class CloseApproachPair {
     }
 
 
+
     public ArrayList<CloseApproachInterval> getIntervals() {
         return intervals;
     }
@@ -83,16 +84,19 @@ public class CloseApproachPair {
             //get the current point
             OrbitPoint curPoint = points.get(i);
 
+
             //are we in the middle of a close approach?
             if(isClose) {
+                //System.out.println(startIndex + " " + endIndex + " " + i);
                 //is the close approach still going?
                 if(curPoint.getDistance() <= bufferInMeters) {
                     endIndex = i;
                 }
                 else {
                     //we are at the end of a close approach
-                    CloseApproachInterval temp = new CloseApproachInterval(startIndex, endIndex, this.points);
+                    CloseApproachInterval temp = CloseApproachInterval.createCloseApproachInterval(startIndex, endIndex, points);
                     intervals.add(temp);
+                    isClose = false;
                 }
             }
             else {
@@ -103,9 +107,6 @@ public class CloseApproachPair {
                     endIndex = i;
                 }
             }
-
-
-
         }
     }
 
