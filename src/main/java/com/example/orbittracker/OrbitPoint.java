@@ -6,9 +6,9 @@ import org.orekit.time.AbsoluteDate;
 public class OrbitPoint {
 
     //data class for holding data relevant to later orbit analysis
-    Vector3D distanceXYZ;
-    double distance;
-    AbsoluteDate time;
+    private final Vector3D distanceXYZ;
+    private final double distance;
+    private final AbsoluteDate time;
 
     public OrbitPoint(Vector3D distanceXYZ, double distance, AbsoluteDate time) {
         this.distanceXYZ = distanceXYZ;

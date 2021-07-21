@@ -15,27 +15,27 @@ import java.util.ArrayList;
 public class OrbitResults {
 
     //PVCoordinates that are to be generated
-    ArrayList<PVCoordinates> coords = new ArrayList<>();
+    private final ArrayList<PVCoordinates> coords = new ArrayList<>();
 
     //Properties from named TLE
-    NamedTLE namedTLE;
-    String name;
-    TLE tle;
+    private final NamedTLE namedTLE;
+    private final String name;
+    private final TLE tle;
 
     //the propagator
-    TLEPropagator tProp;
+    private final TLEPropagator tProp;
 
     //Orbit properties
-    double perigee;
-    double apogee;
-    double trueAnomaly;
-    double a;
-    double avgAngularSpeed;
+    private double perigee;
+    private double apogee;
+    private double trueAnomaly;
+    private double a;
+    private double avgAngularSpeed;
 
     //Data for propagation
-    double intervalInSeconds;
-    double durationInSeconds;
-    AbsoluteDate startDate;
+    private double intervalInSeconds;
+    private double durationInSeconds;
+    private AbsoluteDate startDate;
 
 
     public OrbitResults(NamedTLE namedTLE, double intervalInSeconds, double durationInSeconds, AbsoluteDate startDate) {
@@ -114,10 +114,6 @@ public class OrbitResults {
 
     public ArrayList<PVCoordinates> getCoords() {
         return coords;
-    }
-
-    public TLE getTle() {
-        return tle;
     }
 
     public double getPerigee() {

@@ -10,15 +10,12 @@ import java.util.ArrayList;
 
 public class CloseApproachInterval {
     //indexes on the original list of points
-    private int startIndex;
-    private int lastIndex;
+    private final double closestDistance;
+    private final Vector3D closestSeparation;
+    private final AbsoluteDate closestDistanceDate;
 
-    private double closestDistance;
-    private Vector3D closestSeparation;
-    private AbsoluteDate closestDistanceDate;
-
-    private AbsoluteDate startDate;
-    private AbsoluteDate endDate;
+    private final AbsoluteDate startDate;
+    private final AbsoluteDate endDate;
 
     public double getClosestDistance() {
         return closestDistance;

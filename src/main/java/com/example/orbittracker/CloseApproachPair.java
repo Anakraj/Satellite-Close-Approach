@@ -11,41 +11,20 @@ import java.util.Collections;
 public class CloseApproachPair {
 
     //2 orbits that are to be compared and analyzed
-    OrbitResults a;
-    OrbitResults b;
+    private final OrbitResults a;
+    private final OrbitResults b;
 
     //PVCoordinates of both orbits
-    ArrayList<PVCoordinates> coordsA;
-    ArrayList<PVCoordinates> coordsB;
+    private final ArrayList<PVCoordinates> coordsA;
+    private final ArrayList<PVCoordinates> coordsB;
 
     //distance in meters between both satellites at given intervals
-    ArrayList<Double> distances = new ArrayList<>();
-    double distanceAtApproach;
+    private final ArrayList<Double> distances = new ArrayList<>();
     //above is deprecated
 
-    double bufferInMeters;
-    ArrayList<OrbitPoint> points;
-    ArrayList<CloseApproachInterval> intervals = new ArrayList<>();
-
-    @Deprecated
-    public CloseApproachPair(OrbitResults a, OrbitResults b) {
-        this.a = a;
-        this.b = b;
-        this.coordsA = a.getCoords();
-        this.coordsB = b.getCoords();
-        generateDistances();
-
-    }
-
-    @Deprecated
-    public CloseApproachPair(OrbitResults a, OrbitResults b, double distanceAtApproach) {
-        this.a = a;
-        this.b = b;
-        this.coordsA = a.getCoords();
-        this.coordsB = b.getCoords();
-        this.distanceAtApproach = distanceAtApproach;
-        generateDistances();
-    }
+    private final double bufferInMeters;
+    private final ArrayList<OrbitPoint> points;
+    private final ArrayList<CloseApproachInterval> intervals = new ArrayList<>();
 
 
     public CloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters) {

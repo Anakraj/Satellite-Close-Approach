@@ -124,10 +124,10 @@ public class Comparisons {
         if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferMeters)) {
             return Optional.empty();
         }
-        //consider getting rid of since very situational and doesn't consider buffer
-        if(angularSpeedTest(a.getTrueAnomaly(), a.getAvgAngularSpeed(), b.getTrueAnomaly(), b.getAvgAngularSpeed())) {
-            return Optional.empty();
-        }
+//        //consider getting rid of since very situational and doesn't consider buffer
+//        if(angularSpeedTest(a.getTrueAnomaly(), a.getAvgAngularSpeed(), b.getTrueAnomaly(), b.getAvgAngularSpeed())) {
+//            return Optional.empty();
+//        }
 
         //get the results
         ArrayList<OrbitPoint> results = calculateDistanceData(a, b, startDate, internvalInSeconds);
