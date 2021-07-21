@@ -14,19 +14,25 @@ import java.util.ArrayList;
 
 public class OrbitResults {
 
+    //PVCoordinates that are to be generated
     ArrayList<PVCoordinates> coords = new ArrayList<>();
 
+    //Properties from named TLE
     NamedTLE namedTLE;
-    TLEPropagator tProp;
     String name;
     TLE tle;
 
+    //the propagator
+    TLEPropagator tProp;
+
+    //Orbit properties
     double perigee;
     double apogee;
     double trueAnomaly;
     double a;
     double avgAngularSpeed;
 
+    //Data for propagation
     double intervalInSeconds;
     double durationInSeconds;
     AbsoluteDate startDate;
@@ -84,19 +90,6 @@ public class OrbitResults {
             coords.add(pv);
             tempDate = tempDate.shiftedBy(intervalInSeconds);
         }
-        /*
-        * while (extrapDate.compareTo(finalDate) <= 0.0):
-    pv = propagator.getPVCoordinates(extrapDate, inertialFrame)
-    pos_tmp = pv.getPosition()
-    pos.append((pos_tmp.getX(),pos_tmp.getY(),pos_tmp.getZ()))
-
-    el_tmp = station_frame.getElevation(pv.getPosition(),
-                    inertialFrame,
-                    extrapDate)*180.0/pi
-    el.append(el_tmp)
-    #print extrapDate, pos_tmp, vel_tmp
-    extrapDate = extrapDate.shiftedBy(10.0)
-        * */
     }
 
     private void setAverageAngularSpeed() {

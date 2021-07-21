@@ -51,11 +51,7 @@ public class GlobalDatabaseTest {
             }
         }
 
-       System.out.println(closeApproachPairs.size());
-        for(CloseApproachPair pair : closeApproachPairs) {
-            System.out.println(pair.getIntervals().size());
-        }
-
+       Comparisons.generateLogs(closeApproachPairs, 10);
 
 
     }

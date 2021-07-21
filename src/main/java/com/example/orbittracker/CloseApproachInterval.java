@@ -6,16 +6,39 @@ import org.orekit.time.AbsoluteDate;
 
 import java.util.ArrayList;
 
+//class that contains the information about a close approach
+
 public class CloseApproachInterval {
-    int startIndex;
-    int lastIndex;
+    //indexes on the original list of points
+    private int startIndex;
+    private int lastIndex;
 
-    double closestDistance;
-    Vector3D closestSeparation;
-    AbsoluteDate closestDistanceDate;
+    public double getClosestDistance() {
+        return closestDistance;
+    }
 
-    AbsoluteDate startDate;
-    AbsoluteDate endDate;
+    public Vector3D getClosestSeparation() {
+        return closestSeparation;
+    }
+
+    public AbsoluteDate getClosestDistanceDate() {
+        return closestDistanceDate;
+    }
+
+    public AbsoluteDate getStartDate() {
+        return startDate;
+    }
+
+    public AbsoluteDate getEndDate() {
+        return endDate;
+    }
+
+    private double closestDistance;
+    private Vector3D closestSeparation;
+    private AbsoluteDate closestDistanceDate;
+
+    private AbsoluteDate startDate;
+    private AbsoluteDate endDate;
 
     ArrayList<OrbitPoint> original;
 
@@ -23,10 +46,15 @@ public class CloseApproachInterval {
         this.startIndex = startIndex;
         this.lastIndex = lastIndex;
         this.original = original;
+        this.startDate = original.get(0).getTime();
+        this.endDate = original.get(original.size() - 1).getTime();
         generateClosestDistances();
     }
 
     void generateClosestDistances() {
+
+        //boils down to simple linear search for minimum distance
+
         double minDist = original.get(startIndex).getDistance();
         Vector3D tempClosestSeparation = original.get(startIndex).getDistanceXYZ();
         AbsoluteDate tempAbsoluteDate = original.get(startIndex).getTime();

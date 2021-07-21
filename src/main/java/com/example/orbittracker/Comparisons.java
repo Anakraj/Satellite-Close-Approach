@@ -95,19 +95,24 @@ public class Comparisons {
     }
 
     public static ArrayList<OrbitPoint> calculateDistanceData(OrbitResults a, OrbitResults b, AbsoluteDate startDate, double intervalInSeconds) {
-
+        //array list of data points, one for each "frame"
         ArrayList<OrbitPoint> points = new ArrayList<>();
 
+        //data for both satellites
         ArrayList<PVCoordinates> aCoords = a.getCoords();
         ArrayList<PVCoordinates> bCoords = b.getCoords();
 
+        //begin generating the data
         AbsoluteDate tempDate = startDate;
 
         for(int i = 0; i < a.getCoords().size(); i++) {
+
+            //3 parameters
             double distance = aCoords.get(i).getPosition().distance(bCoords.get(i).getPosition());
             Vector3D separation = aCoords.get(i).getPosition().subtract(bCoords.get(i).getPosition());
             tempDate = tempDate.shiftedBy(intervalInSeconds);
 
+            //add to list of points
             points.add(new OrbitPoint(separation, distance, tempDate));
         }
 
@@ -115,6 +120,7 @@ public class Comparisons {
     }
 
     public static Optional<CloseApproachPair> testIfApproach(OrbitResults a, OrbitResults b, double bufferMeters, AbsoluteDate startDate, double internvalInSeconds) {
+        //test perigee and apogee, if orbit is sufficiently far enough, there will be no close approach
         if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferMeters)) {
             return Optional.empty();
         }
@@ -123,10 +129,11 @@ public class Comparisons {
             return Optional.empty();
         }
 
+        //get the results
         ArrayList<OrbitPoint> results = calculateDistanceData(a, b, startDate, internvalInSeconds);
 
+        //check if at any points the distance between 2 satellites crosses the threshold
         for(OrbitPoint point : results) {
-            //System.out.println(point.getDistance());
             if(point.getDistance() <= bufferMeters) {
                 return Optional.of(new CloseApproachPair(a, b, results, bufferMeters));
             }
@@ -135,39 +142,8 @@ public class Comparisons {
         return Optional.empty();
     }
 
-//    public static CloseApproachPair testIfClose(OrbitResults a, OrbitResults b, double bufferMeters) {
-//        //comment
-//        if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferMeters)) {
-//            return null;
-//        }
-//
-//
-//        //consider getting rid of since very situational and doesn't consider buffer
-//        if(angularSpeedTest(a.getTrueAnomaly(), a.getAvgAngularSpeed(), b.getTrueAnomaly(), b.getAvgAngularSpeed())) {
-//            return null;
-//        }
-//
-//        //PV get the PVCoordinates of both satellites to be compared
-//        ArrayList<PVCoordinates> aCoords = a.getCoords();
-//        ArrayList<PVCoordinates> bCoords = b.getCoords();
-//
-//        for(int i = 0; i < aCoords.size(); i++) {
-//            //get positions of both satellites as a 3d vector
-//            Vector3D aPos = aCoords.get(i).getPosition();
-//            Vector3D bPos = bCoords.get(i).getPosition();
-//
-//            //calculate the distance and see if buffer is overcome
-//            double dist = aPos.distance(bPos);
-//            if(dist <= bufferMeters) {
-//                return new CloseApproachPair(a, b, dist);
-//            }
-//        }
-//
-//        return null;
-//
-//    }
-
     //write out a demo log file, currently only has names of satellites and closest approach
+
     public static void generateLogs(ArrayList<CloseApproachPair> approaches) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter("orbit_out.txt"));
 
@@ -182,5 +158,40 @@ public class Comparisons {
         }
         writer.close();
     }
+
+    public static void generateLogs(ArrayList<CloseApproachPair> pairs, int maxCloseApproaches) throws IOException {
+        BufferedWriter writer = new BufferedWriter(new FileWriter("orbit_out.txt"));
+
+
+        for(int j = 0; j < pairs.size(); j++) {
+
+
+
+            CloseApproachPair i = pairs.get(j);
+
+            ArrayList<CloseApproachInterval> intervals = i.getIntervals();
+            int len = Math.min(intervals.size(), maxCloseApproaches);
+
+            writer.write("First " + len + " Close approach(es) between " + i.getA().getName().strip() + " and " + i.getB().getName().strip() + ".");
+            writer.write("\n");
+
+
+            for(int jj = 0; jj < len; jj++) {
+                CloseApproachInterval interval = intervals.get(jj);
+                writer.write(String.format("Close approach from %s to %s", interval.getStartDate().toString(), interval.getEndDate().toString()));
+                writer.write("\n");
+                writer.write(String.format("Closest distance is %f, occurs at time %s", interval.getClosestDistance(), interval.getClosestDistanceDate().toString()));
+                writer.write("\n");
+                writer.write(String.format("At this time, position of A compared to B is:" + interval.getClosestSeparation().toString()));
+                writer.write("\n");
+                writer.write("---\n");
+            }
+            writer.write("\n");
+            writer.write("\n");
+        }
+        writer.close();
+    }
+
+
 }
 

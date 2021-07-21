@@ -72,9 +72,13 @@ public class CloseApproachPair {
     }
 
     void generateIntervals() {
+
+        //initializing variables for generating intervals of approach
         boolean isClose = false;
         int startIndex = 0;
         int endIndex = 0;
+
+
         for(int i = 0; i < points.size(); i++) {
             //get the current point
             OrbitPoint curPoint = points.get(i);
