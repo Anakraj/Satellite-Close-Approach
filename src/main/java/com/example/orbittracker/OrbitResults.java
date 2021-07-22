@@ -62,6 +62,14 @@ public class OrbitResults {
     }
 
     private void calculateSemiMajorAxis() {
+        /* finding equation for semimajor axis
+        T^2 = ((4PI^2)/(GM))a^3
+        a^3 = ((GM)/(4PI^2))T^2
+        a^3 = ((mu)/(4PI^2))(1/mean_motion * 24 * 3600)^2
+        a = (mu^.3333)/(2nPI*86400)^.6666666
+
+         */
+
         //double mu = 3.986e14;
         double mu = 3.986 * Math.pow(10, 14);
         double n = tle.getMeanMotion();
