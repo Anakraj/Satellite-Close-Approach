@@ -57,6 +57,34 @@ public class OrbitResults {
         propagate();
     }
 
+    public double getAvgAngularSpeed() {
+        return avgAngularSpeed;
+    }
+
+    public ArrayList<PVCoordinates> getCoords() {
+        return coords;
+    }
+
+    public double getPerigee() {
+        return perigee;
+    }
+
+    public double getApogee() {
+        return apogee;
+    }
+
+    public double getTrueAnomaly() {
+        return trueAnomaly;
+    }
+
+    public double getA() {
+        return a;
+    }
+
+    public String getName() {
+        return name;
+    }
+
     private void calculateTrueAnomaly() {
         this.trueAnomaly = Anomaly.trueAnomaly(tle.getMeanAnomaly(), tle.getE());
     }
@@ -116,31 +144,5 @@ public class OrbitResults {
         this.avgAngularSpeed = toRet;
     }
 
-    public double getAvgAngularSpeed() {
-        return avgAngularSpeed;
-    }
 
-    public ArrayList<PVCoordinates> getCoords() {
-        return coords;
-    }
-
-    public double getPerigee() {
-        return perigee;
-    }
-
-    public double getApogee() {
-        return apogee;
-    }
-
-    public double getTrueAnomaly() {
-        return trueAnomaly;
-    }
-
-    public double getA() {
-        return a;
-    }
-
-    public String getName() {
-        return name;
-    }
 }

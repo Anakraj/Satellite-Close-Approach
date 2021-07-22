@@ -9,14 +9,24 @@ import java.util.ArrayList;
 
 public class ExampleTest {
     @Test
-    void firstTenOrbits () {
+    void eccentricityTest () {
         String[] tlePaths = {"./src/main/resources/celestrak_active.txt", "./src/main/resources/space-track_iridium.txt"};
         ArrayList<NamedTLE> testTLEs;
-        testTLEs = TLEUtil.readTLEs(tlePaths, 10);
+        testTLEs = TLEUtil.readTLEs(tlePaths);
 
         for(NamedTLE i : testTLEs) {
-            System.out.println(i);
+            System.out.println(i.getTle().getE());
+            Assertions.assertTrue(i.getTle().getE() <= 1.0);
         }
+    }
+
+    @Test
+    void allOrbits () {
+        String[] tlePaths = {"./src/main/resources/celestrak_active.txt"};
+        ArrayList<NamedTLE> testTLEs;
+        testTLEs = TLEUtil.readTLEs(tlePaths);
+
+        Assertions.assertEquals(testTLEs.size(), 4500);
     }
 
     @Test

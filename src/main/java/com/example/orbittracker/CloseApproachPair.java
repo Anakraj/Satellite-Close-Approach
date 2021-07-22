@@ -90,13 +90,6 @@ public class CloseApproachPair {
     }
 
 
-    public void generateDistances() {
-        //fills distance arraylist with distances of 2 satellites at different time intervals
-        for(int i = 0; i < Math.min(coordsA.size(), coordsB.size()); i++) {
-            distances.add(coordsA.get(i).getPosition().distance(coordsB.get(i).getPosition()));
-        }
-    }
-
     //finds the closest distance the 2 satellites will be near each other
     public double getClosestDistance() {
         double toRet = Integer.MAX_VALUE * 1.0;

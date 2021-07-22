@@ -29,7 +29,7 @@ public class GlobalDatabaseTest {
         ArrayList<CloseApproachPair> closeApproachPairs = new ArrayList<>();
         final AbsoluteDate startDate = new AbsoluteDate(2002, 5, 7, 12, 0, 0.0, TimeScalesFactory.getUTC());
 
-        testTLEs = TLEUtil.readTLEs(tlePaths, 20);
+        testTLEs = TLEUtil.readTLEs(tlePaths, 40);
         for(NamedTLE i : testTLEs) {
             testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
         }
