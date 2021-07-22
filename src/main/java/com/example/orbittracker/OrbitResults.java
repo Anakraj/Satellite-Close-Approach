@@ -17,6 +17,8 @@ public class OrbitResults {
     //PVCoordinates that are to be generated
     private final ArrayList<PVCoordinates> coords = new ArrayList<>();
 
+
+
     //Properties from named TLE
     private final NamedTLE namedTLE;
     private final String name;
@@ -83,6 +85,10 @@ public class OrbitResults {
 
     public String getName() {
         return name;
+    }
+
+    public TLE getTle() {
+        return tle;
     }
 
     private void calculateTrueAnomaly() {
