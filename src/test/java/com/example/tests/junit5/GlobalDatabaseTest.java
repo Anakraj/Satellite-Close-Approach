@@ -29,11 +29,17 @@ public class GlobalDatabaseTest {
         ArrayList<CloseApproachPair> closeApproachPairs = new ArrayList<>();
         final AbsoluteDate startDate = new AbsoluteDate(2002, 5, 7, 12, 0, 0.0, TimeScalesFactory.getUTC());
 
-        testTLEs = TLEUtil.readTLEs(tlePaths, 40);
+
+
+        testTLEs = TLEUtil.readTLEs(tlePaths, 20);
+
+        //this is the part that takes the longest
         for(NamedTLE i : testTLEs) {
             testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
         }
+        //this is the part that takes the longest
 
+        System.out.println("Done with OrbitResults");
 
         for(int n1 = 0; n1 < testResults.size(); n1++) {
             for(int n2 = n1 + 1; n2 < testResults.size(); n2++) {
@@ -53,8 +59,9 @@ public class GlobalDatabaseTest {
             }
         }
 
+        System.out.println("Done with pairs");
        Comparisons.generateLogs(closeApproachPairs, 5);
-
+        System.out.println("Done with log");
 
     }
 }

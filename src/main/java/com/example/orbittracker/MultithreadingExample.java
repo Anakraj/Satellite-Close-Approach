@@ -9,13 +9,13 @@ public class MultithreadingExample {
 
         //number of threads
         int n = 10;
-/*
+
         //each thread
         for (int i = 0; i < n; i++) {
             MultithreadingDemo object = new MultithreadingDemo();
             object.start();
         }
-*/
+
 
         //example of no multithreading
         for(int i = 0; i < n; i ++){
