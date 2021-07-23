@@ -40,6 +40,7 @@ public class OrbitResults {
     private AbsoluteDate startDate;
 
 
+
     public OrbitResults(NamedTLE namedTLE, double intervalInSeconds, double durationInSeconds, AbsoluteDate startDate) {
         this.namedTLE = namedTLE;
         this.name = namedTLE.getName();
@@ -53,9 +54,6 @@ public class OrbitResults {
         calculateSemiMajorAxis();
         calculateApsis();
         calculateTrueAnomaly();
-
-
-
         propagate();
     }
 

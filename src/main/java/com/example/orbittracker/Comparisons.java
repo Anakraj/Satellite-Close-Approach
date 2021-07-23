@@ -9,6 +9,9 @@ import org.orekit.utils.PVCoordinates;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Optional;
@@ -145,27 +148,34 @@ public class Comparisons {
     //write out a demo log file, currently only has names of satellites and closest approach
 
     public static void generateLogs(ArrayList<CloseApproachPair> approaches) throws IOException {
-        BufferedWriter writer = new BufferedWriter(new FileWriter("orbit_out.txt"));
+        PrintWriter writer = new PrintWriter("orbit_out.txt");
 
 
         for(CloseApproachPair i : approaches) {
             writer.write("Close approach(es) between " + i.getA().getName().strip() + " and " + i.getB().getName().strip() + ".");
             writer.write("\n");
 
-
-            writer.write("Closest distance: " + i.getClosestDistance() + " m");
+            for(int jj = 0; jj < i.getIntervals().size(); jj++) {
+                CloseApproachInterval interval = i.getIntervals().get(jj);
+                writer.format("Close approach from %s to %s", interval.getStartDate().toString(), interval.getEndDate().toString());
+                writer.write("\n");
+                writer.format("Closest distance is %f, occurs at time %s", interval.getClosestDistance(), interval.getClosestDistanceDate().toString());
+                writer.write("\n");
+                writer.format("At this time, position of A compared to B is:" + interval.getClosestSeparation().toString());
+                writer.write("\n");
+                writer.write("---\n");
+            }
+            writer.write("\n");
             writer.write("\n");
         }
         writer.close();
     }
 
     public static void generateLogs(ArrayList<CloseApproachPair> pairs, int maxCloseApproaches) throws IOException {
-        BufferedWriter writer = new BufferedWriter(new FileWriter("orbit_out.txt"));
+        PrintWriter writer = new PrintWriter("orbit_out.txt");
 
 
         for(int j = 0; j < pairs.size(); j++) {
-
-
 
             CloseApproachPair i = pairs.get(j);
 
@@ -176,13 +186,14 @@ public class Comparisons {
             writer.write("\n");
 
 
+
             for(int jj = 0; jj < len; jj++) {
                 CloseApproachInterval interval = intervals.get(jj);
-                writer.write(String.format("Close approach from %s to %s", interval.getStartDate().toString(), interval.getEndDate().toString()));
+                writer.format("Close approach from %s to %s", interval.getStartDate().toString(), interval.getEndDate().toString());
                 writer.write("\n");
-                writer.write(String.format("Closest distance is %f, occurs at time %s", interval.getClosestDistance(), interval.getClosestDistanceDate().toString()));
+                writer.format("Closest distance is %f, occurs at time %s", interval.getClosestDistance(), interval.getClosestDistanceDate().toString());
                 writer.write("\n");
-                writer.write(String.format("At this time, position of A compared to B is:" + interval.getClosestSeparation().toString()));
+                writer.format("At this time, position of A compared to B is:" + interval.getClosestSeparation().toString());
                 writer.write("\n");
                 writer.write("---\n");
             }
