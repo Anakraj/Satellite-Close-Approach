@@ -16,12 +16,12 @@ public class MultithreadingExample {
             object.start();
         }
 
-
+        /*
         //example of no multithreading
         for(int i = 0; i < n; i ++){
             System.out.println("Thread " + (11 + i) + " is running");
         }
-
+        */
 
         final long endTime = System.currentTimeMillis();
         System.out.println("Total execution time: " + (endTime - startTime));

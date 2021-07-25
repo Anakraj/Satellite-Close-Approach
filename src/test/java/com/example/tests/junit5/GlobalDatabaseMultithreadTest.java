@@ -35,7 +35,8 @@ public class GlobalDatabaseMultithreadTest {
 
         //this is the part that takes the longest
         for(NamedTLE i : testTLEs) {
-            testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
+            MultithreadingDemo object = new MultithreadingDemo();
+            object.start();
         }
         //this is the part that takes the longest
 
@@ -63,5 +64,16 @@ public class GlobalDatabaseMultithreadTest {
         Comparisons.generateLogs(closeApproachPairs, 5);
         System.out.println("Done with log");
 
+    }
+}
+
+
+class MultithreadingDemo extends Thread {
+    public void run(){
+        try{
+            testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
+        }catch(Exception e){
+            System.out.println("Exception is caught");
+        }
     }
 }
