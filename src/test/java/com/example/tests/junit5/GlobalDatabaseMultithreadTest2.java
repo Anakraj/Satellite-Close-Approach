@@ -1,4 +1,3 @@
-/*
 package com.example.tests.junit5;
 
 import com.example.orbittracker.*;
@@ -12,11 +11,13 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Optional;
-@Deprecated
-public class GlobalDatabaseMultithreadTest {
+import java.util.stream.Stream;
+import java.util.stream.StreamSupport;
 
-
-    public static ArrayList<OrbitResults> testResults = new ArrayList<>();
+//execution time for streams is 111380
+//execution time for regular is 111128
+//execution time for parallel is 62249
+public class GlobalDatabaseMultithreadTest2 {
     @Test
     void useDatabase () throws IOException {
 
@@ -29,19 +30,30 @@ public class GlobalDatabaseMultithreadTest {
         String[] tlePaths = {"./src/main/resources/celestrak_active.txt"};
 
         ArrayList<NamedTLE> testTLEs;
+        ArrayList<OrbitResults> testResults = new ArrayList<>();
         ArrayList<CloseApproachPair> closeApproachPairs = new ArrayList<>();
         final AbsoluteDate startDate = new AbsoluteDate(2002, 5, 7, 12, 0, 0.0, TimeScalesFactory.getUTC());
 
 
 
         testTLEs = TLEUtil.readTLEs(tlePaths, 20);
-
+        final long startTime = System.currentTimeMillis();
+/*
+        //NONMULTITHREADING
         //this is the part that takes the longest
         for(NamedTLE i : testTLEs) {
-            MultithreadingDemo object = new MultithreadingDemo();
-            object.start();
+            testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
         }
         //this is the part that takes the longest
+*/
+
+        //MULTITHREADING
+        testTLEs.stream().parallel().forEach(i -> {
+            testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
+        });
+
+        final long endTime = System.currentTimeMillis();
+        System.out.println("Total execution time: " + (endTime - startTime));
 
         System.out.println("Done with OrbitResults");
 
@@ -69,15 +81,3 @@ public class GlobalDatabaseMultithreadTest {
 
     }
 }
-
-@Deprecated
-class MultithreadingDemo extends Thread {
-    public void run(){
-        try{
-            GlobalDatabaseMultithreadTest.testResults.add(new OrbitResults(1, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
-        }catch(Exception e){
-            System.out.println("Exception is caught");
-        }
-    }
-}
-*/
