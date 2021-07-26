@@ -1,2 +1,6 @@
-package com.example.orbittracker;public class HelloFX {
+package com.example.orbittracker;
+
+public class HelloFX {
+
+
 }
