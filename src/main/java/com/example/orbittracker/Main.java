@@ -33,7 +33,7 @@ public class Main {
 
         //this is the part that takes the longest
         for(NamedTLE i : testTLEs) {
-            testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
+            testResults.add(OrbitResults.createOrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
         }
         //this is the part that takes the longest
 

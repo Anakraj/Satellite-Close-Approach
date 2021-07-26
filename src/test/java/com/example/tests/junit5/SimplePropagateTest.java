@@ -28,11 +28,12 @@ public class SimplePropagateTest {
 
 
         testTLEs = TLEUtil.readTLEs(tlePaths, 1);
-        OrbitResults a = new OrbitResults(testTLEs.get(0), interval, duration, new AbsoluteDate(2002, 5, 7, 12, 0, 0.0, TimeScalesFactory.getUTC()));
+        AbsoluteDate startDate =  new AbsoluteDate(2002, 5, 7, 12, 0, 0.0, TimeScalesFactory.getUTC());
+        OrbitResults a = OrbitResults.createOrbitResults(testTLEs.get(0), interval, duration, startDate);
 
         System.out.println(a.apogee());
         System.out.println(a.perigee());
-        System.out.println(a.semimajorAxis());
+        System.out.println(a.semiMajorAxis());
 
         for(PVCoordinates coords : a.coords()) {
             System.out.println(coords.getAngularVelocity());
@@ -57,8 +58,8 @@ public class SimplePropagateTest {
 
         System.out.println("Done with test TLEs");
 
-        OrbitResults a = new OrbitResults(testTLEs.get(0), interval, duration, startDate);
-        OrbitResults b = new OrbitResults(testTLEs.get(1), interval, duration, startDate);
+        OrbitResults a = OrbitResults.createOrbitResults(testTLEs.get(0), interval, duration, startDate);
+        OrbitResults b = OrbitResults.createOrbitResults(testTLEs.get(1), interval, duration, startDate);
 
         System.out.println("Done with OrbitResults");
 

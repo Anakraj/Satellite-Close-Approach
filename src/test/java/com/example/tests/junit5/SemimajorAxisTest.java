@@ -28,12 +28,12 @@ public class SemimajorAxisTest {
 
         testTLEs = TLEUtil.readTLEs(tlePaths);
         for(NamedTLE i : testTLEs) {
-            testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
+            testResults.add(OrbitResults.createOrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
         }
 
         for(OrbitResults i : testResults) {
             System.out.println(i.name());
-            System.out.println(i.semimajorAxis());
+            System.out.println(i.semiMajorAxis());
             System.out.println(i.apogee());
             System.out.println(i.perigee());
             System.out.println(i.TLE().getE());

@@ -49,7 +49,7 @@ public class GlobalDatabaseMultithreadTest2 {
 
         //MULTITHREADING
         testTLEs.stream().parallel().forEach(i -> {
-            testResults.add(new OrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
+            testResults.add(OrbitResults.createOrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
         });
 
         final long endTime = System.currentTimeMillis();
