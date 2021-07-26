@@ -18,6 +18,7 @@ public class CloseApproachInterval {
 
     public double closestDistance() { return closestDistance; }
 
+
     public Vector3D closestSeparation() {
         return closestSeparation;
     }

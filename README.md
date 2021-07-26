@@ -46,3 +46,23 @@ PVCoordinates (or just Vector3D for position)
 will need some class that holds the results for all propagated satellites
 from Galen Stevens to everyone:    11:37 AM
 which should contain a Map<String, PropagationResults> (where the key/string is the TLE name, for example)
+
+JavaFX implementation help sources:
+
+alternate fat jar w/o shadow plugin:
+
+https://stackoverflow.com/questions/49278063/how-do-i-create-an-executable-fat-jar-with-gradle-with-implementation-dependenci
+
+JavaFX with Gradle:
+
+https://stackoverflow.com/questions/20507591/javafx-location-is-required-even-though-it-is-in-the-same-package
+https://github.com/openjfx/javafx-gradle-plugin
+https://openjfx.io/openjfx-docs/#gradle
+https://blog.jetbrains.com/idea/2021/01/intellij-idea-and-javafx/
+
+jar file won't run fix: use helloFX as medium
+https://github.com/javafxports/openjdk-jfx/issues/236
+
+To build: gradlew build
+
+To run: gradlew clean run

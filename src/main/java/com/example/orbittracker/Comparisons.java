@@ -145,7 +145,9 @@ public class Comparisons {
 
 
         for(CloseApproachPair i : approaches) {
+
             writer.write("Close approach(es) between " + i.resultsA().name().strip() + " and " + i.resultsB().name().strip() + ".");
+
             writer.write("\n");
 
             for(int jj = 0; jj < i.getIntervals().size(); jj++) {
@@ -176,7 +178,7 @@ public class Comparisons {
             int len = Math.min(intervals.size(), maxCloseApproaches);
 
             writer.write("First " + len + " Close approach(es) between " + i.resultsA().name().strip() + " and " + i.resultsB().name().strip() + ".");
-            writer.write("\n");
+
 
 
 

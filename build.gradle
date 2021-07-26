@@ -4,7 +4,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.github.jengelman.gradle.plugins:shadow:2.0.1'
+
     }
 }
 
@@ -15,9 +15,6 @@ plugins {
 }
 
 mainClassName = 'com.example.orbittracker.Main'
-
-apply plugin: 'java'
-apply plugin: 'com.github.johnrengelman.shadow'
 
 
 repositories {
@@ -30,7 +27,7 @@ jar {
     }
 
     from {
-        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
     }
 }
 
@@ -40,7 +37,11 @@ task customFatJar(type: Jar) {
         attributes 'Main-Class': 'com.example.orbittracker.Main'
     }
     baseName = 'all-in-one-jar'
-    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    archiveClassifier = "all"
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
     with jar
 }
 
