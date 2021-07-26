@@ -1,6 +1,5 @@
 package com.example.tests.junit5;
 
-import com.example.orbittracker.ApproachRunnable;
 import com.example.orbittracker.NamedTLE;
 import com.example.orbittracker.TLEUtil;
 import org.junit.jupiter.api.*;
@@ -15,8 +14,8 @@ public class ExampleTest {
         testTLEs = TLEUtil.readTLEs(tlePaths);
 
         for(NamedTLE i : testTLEs) {
-            System.out.println(i.getTle().getE());
-            Assertions.assertTrue(i.getTle().getE() <= 1.0);
+            System.out.println(i.TLE().getE());
+            Assertions.assertTrue(i.TLE().getE() <= 1.0);
         }
     }
 

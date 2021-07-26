@@ -4,7 +4,6 @@ import com.example.orbittracker.Comparisons;
 import com.example.orbittracker.NamedTLE;
 import com.example.orbittracker.OrbitResults;
 import com.example.orbittracker.TLEUtil;
-import org.hipparchus.analysis.function.Abs;
 import org.junit.jupiter.api.Test;
 import org.orekit.data.DataProvidersManager;
 import org.orekit.data.DirectoryCrawler;
@@ -31,11 +30,11 @@ public class SimplePropagateTest {
         testTLEs = TLEUtil.readTLEs(tlePaths, 1);
         OrbitResults a = new OrbitResults(testTLEs.get(0), interval, duration, new AbsoluteDate(2002, 5, 7, 12, 0, 0.0, TimeScalesFactory.getUTC()));
 
-        System.out.println(a.getApogee());
-        System.out.println(a.getPerigee());
-        System.out.println(a.getA());
+        System.out.println(a.apogee());
+        System.out.println(a.perigee());
+        System.out.println(a.semimajorAxis());
 
-        for(PVCoordinates coords : a.getCoords()) {
+        for(PVCoordinates coords : a.coordinates()) {
             System.out.println(coords.getAngularVelocity());
         }
     }

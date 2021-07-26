@@ -32,11 +32,11 @@ public class SemimajorAxisTest {
         }
 
         for(OrbitResults i : testResults) {
-            System.out.println(i.getName());
-            System.out.println(i.getA());
-            System.out.println(i.getApogee());
-            System.out.println(i.getPerigee());
-            System.out.println(i.getTle().getE());
+            System.out.println(i.name());
+            System.out.println(i.semimajorAxis());
+            System.out.println(i.apogee());
+            System.out.println(i.perigee());
+            System.out.println(i.TLE().getE());
         }
 
     }
