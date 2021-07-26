@@ -75,7 +75,7 @@ public class OrbitResults {
 
         //while end date hasn't been reached, propagate orbit up to current point, add PVCoordinates, then increment working date
         while(tempDate.compareTo((endDate)) <= 0.0) {
-            PVCoordinates pv = tProp.getPVCoordinates(tempDate, inertialFrame);
+            PVCoordinates pv = tProp.getPVCoordinates(tempDate);
             //System.out.println(pv);
             coords.add(pv);
             tempDate = tempDate.shiftedBy(intervalInSeconds);

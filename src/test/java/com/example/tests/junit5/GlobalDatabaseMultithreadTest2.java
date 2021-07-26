@@ -36,7 +36,7 @@ public class GlobalDatabaseMultithreadTest2 {
 
 
 
-        testTLEs = TLEUtil.readTLEs(tlePaths, 20);
+        testTLEs = TLEUtil.readTLEs(tlePaths, 30);
         final long startTime = System.currentTimeMillis();
 /*
         //NONMULTITHREADING
@@ -49,6 +49,8 @@ public class GlobalDatabaseMultithreadTest2 {
 
         //MULTITHREADING
         testTLEs.stream().parallel().forEach(i -> {
+            System.out.println(i.name());
+            System.out.println(i.TLE().getE());
             testResults.add(OrbitResults.createOrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
         });
 
