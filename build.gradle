@@ -8,8 +8,17 @@ buildscript {
     }
 }
 
+plugins {
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.10'
+    id 'java'
+}
+
+mainClassName = 'com.example.orbittracker.Main'
+
 apply plugin: 'java'
 apply plugin: 'com.github.johnrengelman.shadow'
+
 
 repositories {
     mavenCentral()
@@ -56,5 +65,14 @@ dependencies {
 
 test {
     useJUnitPlatform()
+}
+
+javafx {
+    version = "16"
+    modules = [ 'javafx.controls', 'javafx.fxml' ]
+}
+
+java {
+    modularity.inferModulePath.set(true)
 }
 
