@@ -1,19 +1,12 @@
 package com.example.orbittracker;
 
-import org.hipparchus.analysis.function.Abs;
 import org.hipparchus.geometry.euclidean.threed.Vector3D;
-import org.orekit.orbits.Orbit;
 import org.orekit.time.AbsoluteDate;
 import org.orekit.utils.PVCoordinates;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Optional;
 
 public class Comparisons {
@@ -102,13 +95,13 @@ public class Comparisons {
         ArrayList<OrbitPoint> points = new ArrayList<>();
 
         //data for both satellites
-        ArrayList<PVCoordinates> aCoords = a.getCoords();
-        ArrayList<PVCoordinates> bCoords = b.getCoords();
+        ArrayList<PVCoordinates> aCoords = a.coords();
+        ArrayList<PVCoordinates> bCoords = b.coords();
 
         //begin generating the data
         AbsoluteDate tempDate = startDate;
 
-        for(int i = 0; i < a.getCoords().size(); i++) {
+        for(int i = 0; i < a.coords().size(); i++) {
 
             //3 parameters
             double distance = aCoords.get(i).getPosition().distance(bCoords.get(i).getPosition());
@@ -124,7 +117,7 @@ public class Comparisons {
 
     public static Optional<CloseApproachPair> testIfApproach(OrbitResults a, OrbitResults b, double bufferMeters, AbsoluteDate startDate, double internvalInSeconds) {
         //test perigee and apogee, if orbit is sufficiently far enough, there will be no close approach
-        if(apogeeTest(a.getApogee(), a.getPerigee(), b.getApogee(), b.getPerigee(), bufferMeters)) {
+        if(apogeeTest(a.apogee(), a.perigee(), b.apogee(), b.perigee(), bufferMeters)) {
             return Optional.empty();
         }
 //        //consider getting rid of since very situational and doesn't consider buffer
@@ -137,7 +130,7 @@ public class Comparisons {
 
         //check if at any points the distance between 2 satellites crosses the threshold
         for(OrbitPoint point : results) {
-            if(point.getDistance() <= bufferMeters) {
+            if(point.distance() <= bufferMeters) {
                 return Optional.of(new CloseApproachPair(a, b, results, bufferMeters));
             }
         }
@@ -152,16 +145,16 @@ public class Comparisons {
 
 
         for(CloseApproachPair i : approaches) {
-            writer.write("Close approach(es) between " + i.getA().getName().strip() + " and " + i.getB().getName().strip() + ".");
+            writer.write("Close approach(es) between " + i.resultsA().name().strip() + " and " + i.resultsB().name().strip() + ".");
             writer.write("\n");
 
             for(int jj = 0; jj < i.getIntervals().size(); jj++) {
                 CloseApproachInterval interval = i.getIntervals().get(jj);
-                writer.format("Close approach from %s to %s", interval.getStartDate().toString(), interval.getEndDate().toString());
+                writer.format("Close approach from %s to %s", interval.startDate().toString(), interval.endDate().toString());
                 writer.write("\n");
-                writer.format("Closest distance is %f, occurs at time %s", interval.getClosestDistance(), interval.getClosestDistanceDate().toString());
+                writer.format("Closest distance is %f, occurs at time %s", interval.closestDistance(), interval.closestDistanceDate().toString());
                 writer.write("\n");
-                writer.format("At this time, position of A compared to B is:" + interval.getClosestSeparation().toString());
+                writer.format("At this time, position of A compared to B is:" + interval.closestSeparation().toString());
                 writer.write("\n");
                 writer.write("---\n");
             }
@@ -182,18 +175,18 @@ public class Comparisons {
             ArrayList<CloseApproachInterval> intervals = i.getIntervals();
             int len = Math.min(intervals.size(), maxCloseApproaches);
 
-            writer.write("First " + len + " Close approach(es) between " + i.getA().getName().strip() + " and " + i.getB().getName().strip() + ".");
+            writer.write("First " + len + " Close approach(es) between " + i.resultsA().name().strip() + " and " + i.resultsB().name().strip() + ".");
             writer.write("\n");
 
 
 
             for(int jj = 0; jj < len; jj++) {
                 CloseApproachInterval interval = intervals.get(jj);
-                writer.format("Close approach from %s to %s", interval.getStartDate().toString(), interval.getEndDate().toString());
+                writer.format("Close approach from %s to %s", interval.startDate().toString(), interval.endDate().toString());
                 writer.write("\n");
-                writer.format("Closest distance is %f, occurs at time %s", interval.getClosestDistance(), interval.getClosestDistanceDate().toString());
+                writer.format("Closest distance is %f, occurs at time %s", interval.closestDistance(), interval.closestDistanceDate().toString());
                 writer.write("\n");
-                writer.format("At this time, position of A compared to B is:" + interval.getClosestSeparation().toString());
+                writer.format("At this time, position of A compared to B is:" + interval.closestSeparation().toString());
                 writer.write("\n");
                 writer.write("---\n");
             }

@@ -16,15 +16,15 @@ public class OrbitPoint {
         this.time = time;
     }
 
-    public Vector3D getDistanceXYZ() {
+    public Vector3D distanceVector3() {
         return distanceXYZ;
     }
 
-    public double getDistance() {
+    public double distance() {
         return distance;
     }
 
-    public AbsoluteDate getTime() {
+    public AbsoluteDate time() {
         return time;
     }
 }

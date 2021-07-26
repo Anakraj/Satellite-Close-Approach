@@ -1,6 +1,5 @@
 package com.example.orbittracker;
 
-import org.hipparchus.analysis.function.Abs;
 import org.hipparchus.geometry.euclidean.threed.Vector3D;
 import org.orekit.time.AbsoluteDate;
 
@@ -17,23 +16,23 @@ public class CloseApproachInterval {
     private final AbsoluteDate startDate;
     private final AbsoluteDate endDate;
 
-    public double getClosestDistance() {
+    public double closestDistance() {
         return closestDistance;
     }
 
-    public Vector3D getClosestSeparation() {
+    public Vector3D closestSeparation() {
         return closestSeparation;
     }
 
-    public AbsoluteDate getClosestDistanceDate() {
+    public AbsoluteDate closestDistanceDate() {
         return closestDistanceDate;
     }
 
-    public AbsoluteDate getStartDate() {
+    public AbsoluteDate startDate() {
         return startDate;
     }
 
-    public AbsoluteDate getEndDate() {
+    public AbsoluteDate endDate() {
         return endDate;
     }
 
@@ -47,21 +46,21 @@ public class CloseApproachInterval {
     }
 
     public static CloseApproachInterval createCloseApproachInterval(int startIndex, int lastIndex, ArrayList<OrbitPoint> original) {
-        double minDist = original.get(startIndex).getDistance();
-        Vector3D tempClosestSeparation = original.get(startIndex).getDistanceXYZ();
-        AbsoluteDate tempAbsoluteDate = original.get(startIndex).getTime();
+        double minDist = original.get(startIndex).distance();
+        Vector3D tempClosestSeparation = original.get(startIndex).distanceVector3();
+        AbsoluteDate tempAbsoluteDate = original.get(startIndex).time();
 
         for(int i = startIndex; i <= lastIndex; i++) {
             OrbitPoint point = original.get(i);
-            if(point.getDistance() < minDist) {
-                minDist = point.getDistance();
-                tempClosestSeparation = point.getDistanceXYZ();
-                tempAbsoluteDate = point.getTime();
+            if(point.distance() < minDist) {
+                minDist = point.distance();
+                tempClosestSeparation = point.distanceVector3();
+                tempAbsoluteDate = point.time();
             }
         }
 
-        AbsoluteDate startDate = original.get(startIndex).getTime();
-        AbsoluteDate endDate = original.get(lastIndex).getTime();
+        AbsoluteDate startDate = original.get(startIndex).time();
+        AbsoluteDate endDate = original.get(lastIndex).time();
 
         return new CloseApproachInterval(minDist, tempAbsoluteDate, tempClosestSeparation, startDate, endDate);
     }

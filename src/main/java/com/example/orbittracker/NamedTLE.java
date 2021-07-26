@@ -14,11 +14,11 @@ public class NamedTLE {
         this.name = name;
     }
 
-    public TLE getTle() {
+    public TLE TLE() {
         return tle;
     }
 
-    public String getName() {
+    public String name() {
         return name;
     }
 

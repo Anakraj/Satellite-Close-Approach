@@ -1,12 +1,8 @@
 package com.example.orbittracker;
 
-import org.hipparchus.analysis.function.Abs;
-import org.hipparchus.geometry.euclidean.threed.Vector3D;
-import org.orekit.time.AbsoluteDate;
 import org.orekit.utils.PVCoordinates;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class CloseApproachPair {
 
@@ -30,18 +26,18 @@ public class CloseApproachPair {
     public CloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters) {
         this.a = a;
         this.b = b;
-        this.coordsA = a.getCoords();
-        this.coordsB = b.getCoords();
+        this.coordsA = a.coords();
+        this.coordsB = b.coords();
         this.points = orbitPoints;
         this.bufferInMeters = bufferInMeters;
         generateIntervals();
     }
 
-    public OrbitResults getA() {
+    public OrbitResults resultsA() {
         return a;
     }
 
-    public OrbitResults getB() {
+    public OrbitResults resultsB() {
         return b;
     }
 
@@ -68,7 +64,7 @@ public class CloseApproachPair {
             if(isClose) {
                 //System.out.println(startIndex + " " + endIndex + " " + i);
                 //is the close approach still going?
-                if(curPoint.getDistance() <= bufferInMeters) {
+                if(curPoint.distance() <= bufferInMeters) {
                     endIndex = i;
                 }
                 else {
@@ -80,7 +76,7 @@ public class CloseApproachPair {
             }
             else {
                 //are we at the beginning of a close approach?
-                if(curPoint.getDistance() <= bufferInMeters) {
+                if(curPoint.distance() <= bufferInMeters) {
                     isClose = true;
                     startIndex = i;
                     endIndex = i;
