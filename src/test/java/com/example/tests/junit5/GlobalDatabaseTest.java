@@ -31,10 +31,12 @@ public class GlobalDatabaseTest {
 
 
 
-        testTLEs = TLEUtil.readTLEs(tlePaths, 20);
+        testTLEs = TLEUtil.readTLEs(tlePaths, 40);
 
         //this is the part that takes the longest
         for(NamedTLE i : testTLEs) {
+            System.out.println(i.name());
+            System.out.println(i.TLE().getE());
             testResults.add(OrbitResults.createOrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
         }
         //this is the part that takes the longest
