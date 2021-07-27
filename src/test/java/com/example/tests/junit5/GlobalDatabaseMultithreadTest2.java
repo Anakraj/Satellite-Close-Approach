@@ -51,7 +51,13 @@ public class GlobalDatabaseMultithreadTest2 {
         testTLEs.stream().parallel().forEach(i -> {
             System.out.println(i.name());
             System.out.println(i.TLE().getE());
-            testResults.add(OrbitResults.createOrbitResults(i, 60.0, 60.0 * 60.0 * 24 * 7, startDate));
+            try {
+                testResults.add(OrbitResults.createOrbitResults(i, 60, 60 * 60 * 24 * 7, startDate));
+            }
+            catch (Exception e) {
+                System.out.println(e);
+                System.out.println(i.TLE().getE());
+            }
         });
 
         final long endTime = System.currentTimeMillis();

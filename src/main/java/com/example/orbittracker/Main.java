@@ -74,11 +74,17 @@ public class Main {
         ArrayList<CloseApproachPair> closeApproachPairs = new ArrayList<>();
 
 
-        testTLEs = TLEUtil.readTLEs(tlePaths, 5);
+        testTLEs = TLEUtil.readTLEs(tlePaths, 40);
 
         //this is the part that takes the longest
         for(NamedTLE i : testTLEs) {
-            testResults.add(OrbitResults.createOrbitResults(i, intervalInSeconds, durationInSeconds, startDate));
+            try {
+                testResults.add(OrbitResults.createOrbitResults(i, intervalInSeconds, durationInSeconds, startDate));
+            }
+            catch (Exception e) {
+                System.out.println(e);
+                System.out.println(i.TLE().getE());
+            }
         }
         //this is the part that takes the longest
 

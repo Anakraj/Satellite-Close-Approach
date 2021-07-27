@@ -31,7 +31,7 @@ public class GlobalDatabaseTest {
 
 
 
-        testTLEs = TLEUtil.readTLEs(tlePaths, 40);
+        testTLEs = TLEUtil.readTLEs(tlePaths, 5);
 
         //this is the part that takes the longest
         for(NamedTLE i : testTLEs) {
