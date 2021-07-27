@@ -14,13 +14,25 @@ import java.util.Optional;
 public class Main {
     public static void main(String[] args) {
 
+        /*
+        * arg 0: threshold in meters
+        * arg 1: interval in seconds
+        * arg 2: duration
+        * arg 3: duration units
+        * arg 4: startDate in yy-mm-dd or yy-mm-dd-hh-mm-ss
+        * */
+
+
         System.out.println("Up and running");
 
         File orekitData = new File("./src/main/resources/orekit-data");
         DataProvidersManager manager = DataProvidersManager.getInstance();
         manager.addProvider(new DirectoryCrawler(orekitData));
 
+
+
         String[] tlePaths = {"./src/main/resources/celestrak_active.txt"};
+
 
         ArrayList<NamedTLE> testTLEs;
         ArrayList<OrbitResults> testResults = new ArrayList<>();
@@ -29,7 +41,7 @@ public class Main {
 
 
 
-        testTLEs = TLEUtil.readTLEs(tlePaths, 20);
+        testTLEs = TLEUtil.readTLEs(tlePaths, 5);
 
         //this is the part that takes the longest
         for(NamedTLE i : testTLEs) {
@@ -65,4 +77,5 @@ public class Main {
         }
         System.out.println("Done with log");
     }
+
 }
