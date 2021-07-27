@@ -55,7 +55,7 @@ public class OrbitResults {
 //        System.out.println(mu);
 //        System.out.println(n);
 
-        return Math.pow(mu, 1.0/3.0) / Math.pow(2*n*Math.PI/86400, 2.0/3.0);
+        return Math.pow(mu, 1.0/3.0) / Math.pow(n, 2.0/3.0);
     }
 
     public static double calcPerigee(double a, TLE tle) {
