@@ -59,11 +59,13 @@ public class OrbitResults {
     }
 
     public static double calcPerigee(double a, TLE tle) {
-         return a * (1 - tle.getE());
+        double earthRadiusMeters = 6371000;
+         return a * (1 - tle.getE()) - earthRadiusMeters;
     }
 
     public static double calcApogee(double a, TLE tle) {
-        return a * (1 + tle.getE());
+        double earthRadiusMeters = 6371000;
+        return a * (1 + tle.getE()) - earthRadiusMeters;
     }
 
     public static ArrayList<PVCoordinates> propagatedList(AbsoluteDate startDate, double durationInSeconds, double intervalInSeconds, TLEPropagator tProp) {
