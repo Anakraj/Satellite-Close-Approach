@@ -1,8 +1,12 @@
 package com.example.orbittracker;
 
 import org.hipparchus.analysis.function.Abs;
+import org.orekit.data.DataProvidersManager;
+import org.orekit.data.DirectoryCrawler;
 import org.orekit.time.AbsoluteDate;
 import org.orekit.time.TimeScalesFactory;
+
+import java.io.File;
 
 public class InputParser {
     public static double parseThresholdInMeters(String input) {
@@ -14,6 +18,10 @@ public class InputParser {
     }
 
     public static double parseDurationInSeconds(String qty, String unit) {
+        File orekitData = new File("./src/main/resources/orekit-data");
+        DataProvidersManager manager = DataProvidersManager.getInstance();
+        manager.addProvider(new DirectoryCrawler(orekitData));
+
         double q = Double.parseDouble(qty);
 
         if(unit.equals("s") || unit.equals("seconds")) {

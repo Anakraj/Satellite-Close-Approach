@@ -46,3 +46,8 @@ PVCoordinates (or just Vector3D for position)
 will need some class that holds the results for all propagated satellites
 from Galen Stevens to everyone:    11:37 AM
 which should contain a Map<String, PropagationResults> (where the key/string is the TLE name, for example)
+
+Properties and CLI:
+https://www.geeksforgeeks.org/java-util-properties-class-java/
+
+https://www.baeldung.com/java-command-line-arguments
