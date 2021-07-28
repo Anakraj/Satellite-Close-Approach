@@ -6,6 +6,7 @@ import org.orekit.utils.PVCoordinates;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Optional;
 
@@ -117,7 +118,7 @@ public class Comparisons {
 
     public static Optional<CloseApproachPair> testIfApproach(OrbitResults a, OrbitResults b, double bufferMeters, AbsoluteDate startDate, double internvalInSeconds) {
         //test perigee and apogee, if orbit is sufficiently far enough, there will be no close approach
-        if(apogeeTest(a.apogee(), a.perigee(), b.apogee(), b.perigee(), bufferMeters)) {
+        if(!apogeeTest(a.apogee(), a.perigee(), b.apogee(), b.perigee(), bufferMeters)) {
             return Optional.empty();
         }
 //        //consider getting rid of since very situational and doesn't consider buffer
@@ -143,6 +144,7 @@ public class Comparisons {
     public static void generateLogs(ArrayList<CloseApproachPair> approaches) throws IOException {
         PrintWriter writer = new PrintWriter("orbit_out.txt");
 
+        writer.format("Log generated at time %s \n\n", LocalDateTime.now());
 
         for(CloseApproachPair i : approaches) {
             writer.write("Close approach(es) between " + i.resultsA().name().strip() + " and " + i.resultsB().name().strip() + ".");
