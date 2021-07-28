@@ -1,5 +1,6 @@
 package com.example.orbittracker;
 
+import org.hipparchus.geometry.euclidean.oned.Interval;
 import org.orekit.utils.PVCoordinates;
 
 import java.util.ArrayList;
@@ -20,46 +21,27 @@ public class CloseApproachPair {
 
     private final double bufferInMeters;
     private final ArrayList<OrbitPoint> points;
-    private final ArrayList<CloseApproachInterval> intervals = new ArrayList<>();
+    private final ArrayList<CloseApproachInterval> intervals;
 
+    public static CloseApproachPair createCloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters) {
 
-    public CloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters) {
-        this.a = a;
-        this.b = b;
-        this.coordsA = a.coords();
-        this.coordsB = b.coords();
-        this.points = orbitPoints;
-        this.bufferInMeters = bufferInMeters;
-        generateIntervals();
+        ArrayList<CloseApproachInterval> intervals = generateIntervals(orbitPoints, bufferInMeters);
+
+        CloseApproachPair toRet = new CloseApproachPair(a, b, orbitPoints, bufferInMeters, intervals);
+
+        return toRet;
     }
 
-    public OrbitResults resultsA() {
-        return a;
-    }
-
-    public OrbitResults resultsB() {
-        return b;
-    }
-
-
-
-    public ArrayList<CloseApproachInterval> getIntervals() {
-        return intervals;
-    }
-
-    void generateIntervals() {
-
+    public static ArrayList<CloseApproachInterval> generateIntervals(ArrayList<OrbitPoint> points, double bufferInMeters) {
         //initializing variables for generating intervals of approach
         boolean isClose = false;
         int startIndex = 0;
         int endIndex = 0;
-
+        ArrayList<CloseApproachInterval> intervals = new ArrayList<>();
 
         for(int i = 0; i < points.size(); i++) {
             //get the current point
             OrbitPoint curPoint = points.get(i);
-
-
             //are we in the middle of a close approach?
             if(isClose) {
                 //System.out.println(startIndex + " " + endIndex + " " + i);
@@ -83,7 +65,42 @@ public class CloseApproachPair {
                 }
             }
         }
+        return intervals;
     }
+
+//    public CloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters) {
+//        this.a = a;
+//        this.b = b;
+//        this.coordsA = a.coords();
+//        this.coordsB = b.coords();
+//        this.points = orbitPoints;
+//        this.bufferInMeters = bufferInMeters;
+//        generateIntervals();
+//    }
+
+    public CloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters, ArrayList<CloseApproachInterval> intervals) {
+        this.a = a;
+        this.b = b;
+        this.coordsA = a.coords();
+        this.coordsB = b.coords();
+        this.points = orbitPoints;
+        this.bufferInMeters = bufferInMeters;
+        this.intervals = intervals;
+    }
+
+    public OrbitResults resultsA() {
+        return a;
+    }
+
+    public OrbitResults resultsB() {
+        return b;
+    }
+
+    public ArrayList<CloseApproachInterval> getIntervals() {
+        return intervals;
+    }
+
+
 
 
     //finds the closest distance the 2 satellites will be near each other

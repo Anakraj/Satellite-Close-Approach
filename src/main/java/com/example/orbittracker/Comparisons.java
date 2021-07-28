@@ -133,7 +133,7 @@ public class Comparisons {
         //check if at any points the distance between 2 satellites crosses the threshold
         for(OrbitPoint point : results) {
             if(point.distance() <= bufferMeters) {
-                return Optional.of(new CloseApproachPair(a, b, results, bufferMeters));
+                return Optional.of(CloseApproachPair.createCloseApproachPair(a, b, results, bufferMeters));
             }
         }
 
