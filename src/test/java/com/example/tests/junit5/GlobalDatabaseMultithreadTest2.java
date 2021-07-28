@@ -17,6 +17,11 @@ import java.util.stream.StreamSupport;
 //execution time for streams is 111380
 //execution time for regular is 111128
 //execution time for parallel is 62249
+
+//day 2
+//execution time is 42058 for stream.parallel
+//execution time for parallelStreams is 40125
+
 public class GlobalDatabaseMultithreadTest2 {
     @Test
     void useDatabase () throws IOException {
@@ -48,9 +53,9 @@ public class GlobalDatabaseMultithreadTest2 {
 */
 
         //MULTITHREADING
-        testTLEs.stream().parallel().forEach(i -> {
-            System.out.println(i.name());
-            System.out.println(i.TLE().getE());
+        testTLEs.parallelStream().forEach(i -> {
+            //System.out.println(i.name());
+            //System.out.println(i.TLE().getE());
             try {
                 testResults.add(OrbitResults.createOrbitResults(i, 60, 60 * 60 * 24 * 7, startDate));
             }
@@ -64,7 +69,7 @@ public class GlobalDatabaseMultithreadTest2 {
         System.out.println("Total execution time: " + (endTime - startTime));
 
         System.out.println("Done with OrbitResults");
-
+/*
         for(int n1 = 0; n1 < testResults.size(); n1++) {
             for(int n2 = n1 + 1; n2 < testResults.size(); n2++) {
 //                CloseApproachPair temp = Comparisons.testIfClose(testResults.get(n1), testResults.get(n2), 50000.0);
@@ -82,6 +87,8 @@ public class GlobalDatabaseMultithreadTest2 {
                 }
             }
         }
+
+ */
 
         System.out.println("Done with pairs");
         Comparisons.generateLogs(closeApproachPairs, 5);
