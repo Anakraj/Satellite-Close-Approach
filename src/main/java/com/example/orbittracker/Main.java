@@ -114,7 +114,20 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
         System.out.println("Done with log");
+
+        CloseApproachInterval test = closeApproachPairs.get(1).getIntervals().get(0);
+        ArrayList<OrbitPoint> testPoints = Comparisons.generateDetailedApproach(closeApproachPairs.get(1), test, 1, intervalInSeconds);
+
+        for(OrbitPoint point : testPoints) {
+            System.out.println(point);
+        }
+
+//        System.out.println(testPoints.closestDistance());
+//        System.out.println(testPoints.closestDistanceDate());
+
+
     }
 
 }

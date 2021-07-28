@@ -77,7 +77,7 @@ public class OrbitResults {
 
         //while end date hasn't been reached, propagate orbit up to current point, add PVCoordinates, then increment working date
         while(tempDate.compareTo((endDate)) <= 0.0) {
-            PVCoordinates pv = tProp.getPVCoordinates(tempDate);
+            PVCoordinates pv = tProp.getPVCoordinates(tempDate, inertialFrame);
             //System.out.println(pv);
             coords.add(pv);
             tempDate = tempDate.shiftedBy(intervalInSeconds);
@@ -160,6 +160,10 @@ public class OrbitResults {
 
     public TLE TLE() {
         return tle;
+    }
+
+    public NamedTLE namedTLE() {
+        return namedTLE;
     }
 
 //    private void setAverageAngularSpeed() {

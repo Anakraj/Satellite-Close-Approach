@@ -2,6 +2,7 @@ package com.example.orbittracker;
 
 import org.hipparchus.geometry.euclidean.threed.Vector3D;
 import org.orekit.time.AbsoluteDate;
+import org.orekit.time.TimeScalesFactory;
 import org.orekit.utils.PVCoordinates;
 
 import java.io.IOException;
@@ -107,10 +108,10 @@ public class Comparisons {
             //3 parameters
             double distance = aCoords.get(i).getPosition().distance(bCoords.get(i).getPosition());
             Vector3D separation = aCoords.get(i).getPosition().subtract(bCoords.get(i).getPosition());
-            tempDate = tempDate.shiftedBy(intervalInSeconds);
 
             //add to list of points
             points.add(new OrbitPoint(separation, distance, tempDate));
+            tempDate = tempDate.shiftedBy(intervalInSeconds);
         }
 
         return points;
@@ -196,6 +197,27 @@ public class Comparisons {
             writer.write("\n");
         }
         writer.close();
+    }
+
+    public static ArrayList<OrbitPoint> generateDetailedApproach(CloseApproachPair pair, CloseApproachInterval interval, double gap, double cushion) {
+        NamedTLE namedA = pair.resultsA().namedTLE();
+        NamedTLE namedB = pair.resultsB().namedTLE();
+
+        double duration = interval.endDate().shiftedBy(cushion).offsetFrom(interval.startDate().shiftedBy(-cushion), TimeScalesFactory.getUTC());
+
+        System.out.println(duration);
+
+        OrbitResults resultsA = OrbitResults.createOrbitResults(namedA, gap, duration, interval.startDate().shiftedBy(-cushion));
+        OrbitResults resultsB = OrbitResults.createOrbitResults(namedB, gap, duration, interval.startDate().shiftedBy(-cushion));
+
+        System.out.println(namedA.name() + " " + namedB.name());
+        ArrayList<OrbitPoint> results = calculateDistanceData(resultsA, resultsB, interval.startDate().shiftedBy(-cushion), gap);
+        //CloseApproachPair detailedPair = new CloseApproachPair(resultsA, resultsB, results, duration);
+        //CloseApproachInterval detailedInterval = CloseApproachInterval.createCloseApproachInterval(0, results.size() - 1, results);
+
+
+        return results;
+
     }
 
 
