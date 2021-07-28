@@ -11,6 +11,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Optional;
+import java.util.stream.IntStream;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
@@ -20,8 +21,11 @@ import java.util.stream.StreamSupport;
 
 //day 2
 //execution time is 42058 for stream.parallel
-//execution time for parallelStreams is 40125
+//execution time for parallelStreams is 34307
 
+//nested for loop
+//execution time for multithread is 74
+//execution time for no multithread is 111
 public class GlobalDatabaseMultithreadTest2 {
     @Test
     void useDatabase () throws IOException {
@@ -42,7 +46,6 @@ public class GlobalDatabaseMultithreadTest2 {
 
 
         testTLEs = TLEUtil.readTLEs(tlePaths, 30);
-        final long startTime = System.currentTimeMillis();
 /*
         //NONMULTITHREADING
         //this is the part that takes the longest
@@ -65,10 +68,11 @@ public class GlobalDatabaseMultithreadTest2 {
             }
         });
 
-        final long endTime = System.currentTimeMillis();
-        System.out.println("Total execution time: " + (endTime - startTime));
+
 
         System.out.println("Done with OrbitResults");
+        final long startTime = System.currentTimeMillis();
+
 /*
         for(int n1 = 0; n1 < testResults.size(); n1++) {
             for(int n2 = n1 + 1; n2 < testResults.size(); n2++) {
@@ -89,6 +93,29 @@ public class GlobalDatabaseMultithreadTest2 {
         }
 
  */
+
+//multithread
+
+        IntStream.range(0, testResults.size()).parallel().forEach(n1 -> {
+            IntStream.range(n1+1, testResults.size()).parallel().forEach(n2 -> {
+//                CloseApproachPair temp = Comparisons.testIfClose(testResults.get(n1), testResults.get(n2), 50000.0);
+//                if(temp != null) {
+//                    closeApproachPairs.add(temp);
+//                }
+                Optional<CloseApproachPair> temp = Comparisons.testIfApproach(testResults.get(n1),
+                        testResults.get(n2),
+                        50000.0,
+                        startDate,
+                        60.0);
+
+                if(temp.isPresent()) {
+                    closeApproachPairs.add(temp.get());
+                }
+            });
+        });
+
+        final long endTime = System.currentTimeMillis();
+        System.out.println("Total execution time: " + (endTime - startTime));
 
         System.out.println("Done with pairs");
         Comparisons.generateLogs(closeApproachPairs, 5);
