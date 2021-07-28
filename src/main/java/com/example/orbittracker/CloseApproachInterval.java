@@ -64,4 +64,6 @@ public class CloseApproachInterval {
 
         return new CloseApproachInterval(minDist, tempAbsoluteDate, tempClosestSeparation, startDate, endDate);
     }
+
+
 }

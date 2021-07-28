@@ -27,4 +27,13 @@ public class OrbitPoint {
     public AbsoluteDate time() {
         return time;
     }
+
+    @Override
+    public String toString() {
+        return "OrbitPoint{" +
+                "distanceXYZ=" + distanceXYZ +
+                ", distance=" + distance +
+                ", time=" + time +
+                '}';
+    }
 }
