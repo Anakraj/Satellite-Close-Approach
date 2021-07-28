@@ -1,28 +1,7 @@
-First 1 Close approach(es) between AJISAI (EGS) and OSCAR 7 (AO-7).
-Close approach from 2002-05-10T20:19:00.000 to 2002-05-10T20:19:00.000
-Closest distance is 46543.960322, occurs at time 2002-05-10T20:19:00.000
-At this time, position of A compared to B is:{18,753.8505185004; 36,630.5599344433; 21,744.7789605982}
----
-
-
-First 1 Close approach(es) between RIGIDSPHERE 2 (LCS 4) and OPS 5712 (P/L 160).
-Close approach from 2002-05-07T18:39:00.000 to 2002-05-07T18:39:00.000
-Closest distance is 46757.633244, occurs at time 2002-05-07T18:39:00.000
-At this time, position of A compared to B is:{-20,711.1784493979; 38,746.7698396482; -16,000.3493956681}
----
-
-
-First 1 Close approach(es) between SURCAL 159 and OPS 5712 (P/L 153).
-Close approach from 2002-05-13T12:53:00.000 to 2002-05-13T12:53:00.000
-Closest distance is 23296.988421, occurs at time 2002-05-13T12:53:00.000
-At this time, position of A compared to B is:{4,901.4129382775; -16,738.7437209301; -15,444.7492476972}
----
-
-
-First 1 Close approach(es) between LUSAT (LO-19) and OPS 5712 (P/L 160).
-Close approach from 2002-05-09T09:29:00.000 to 2002-05-09T09:29:00.000
-Closest distance is 25364.403777, occurs at time 2002-05-09T09:29:00.000
-At this time, position of A compared to B is:{10,038.6140638178; 17,031.5336482096; 15,890.439522123}
+First 1 Close approach(es) between SURCAL 150B and OPS 5712 (P/L 160).
+Close approach from 2021-05-28T19:15:00.000 to 2021-05-28T19:15:00.000
+Closest distance is 48678.042046, occurs at time 2021-05-28T19:15:00.000
+At this time, position of A compared to B is:{17,457.1925664288; -23,181.9054093478; -39,081.9327398352}
 ---
 
 

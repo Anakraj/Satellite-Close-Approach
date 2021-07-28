@@ -10,6 +10,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Optional;
 import java.util.Properties;
+import java.util.stream.IntStream;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -32,6 +33,7 @@ public class Main {
         Properties p = new Properties();
         p.load(reader);
 
+        //part that loads in the parameters
         if(args.length == 5) {
             thresholdInMeters = InputParser.parseThresholdInMeters(args[0]);
             intervalInSeconds = InputParser.parseIntervalInSeconds(args[1]);
@@ -73,25 +75,27 @@ public class Main {
         ArrayList<OrbitResults> testResults = new ArrayList<>();
         ArrayList<CloseApproachPair> closeApproachPairs = new ArrayList<>();
 
-
+        //determines number of testTLEs
         testTLEs = TLEUtil.readTLEs(tlePaths, 20);
 
         //this is the part that takes the longest
-        for(NamedTLE i : testTLEs) {
+        testTLEs.parallelStream().forEach(i -> {
+            //System.out.println(i.name());
+            //System.out.println(i.TLE().getE());
             try {
-                testResults.add(OrbitResults.createOrbitResults(i, intervalInSeconds, durationInSeconds, startDate));
+                testResults.add(OrbitResults.createOrbitResults(i,intervalInSeconds,durationInSeconds,startDate));
             }
             catch (Exception e) {
                 System.out.println(e);
                 System.out.println(i.TLE().getE());
             }
-        }
+        });
         //this is the part that takes the longest
 
         System.out.println("Done with OrbitResults");
 
-        for(int n1 = 0; n1 < testResults.size(); n1++) {
-            for(int n2 = n1 + 1; n2 < testResults.size(); n2++) {
+        IntStream.range(0, testResults.size()).parallel().forEach(n1 -> {
+            IntStream.range(n1+1, testResults.size()).parallel().forEach(n2 -> {
 //                CloseApproachPair temp = Comparisons.testIfClose(testResults.get(n1), testResults.get(n2), 50000.0);
 //                if(temp != null) {
 //                    closeApproachPairs.add(temp);
@@ -105,8 +109,8 @@ public class Main {
                 if(temp.isPresent()) {
                     closeApproachPairs.add(temp.get());
                 }
-            }
-        }
+            });
+        });
 
         System.out.println("Done with pairs");
         try {
@@ -117,8 +121,8 @@ public class Main {
 
         System.out.println("Done with log");
 
-        CloseApproachInterval test = closeApproachPairs.get(1).getIntervals().get(0);
-        ArrayList<OrbitPoint> testPoints = Comparisons.generateDetailedApproach(closeApproachPairs.get(1), test, 1, intervalInSeconds);
+        CloseApproachInterval test = closeApproachPairs.get(0).getIntervals().get(0);
+        ArrayList<OrbitPoint> testPoints = Comparisons.generateDetailedApproach(closeApproachPairs.get(0), test, 1, intervalInSeconds);
 
         for(OrbitPoint point : testPoints) {
             System.out.println(point);
