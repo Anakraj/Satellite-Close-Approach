@@ -1,7 +1,7 @@
-First 1 Close approach(es) between SURCAL 150B and OPS 5712 (P/L 160).
+First 1 Close approach(es) between OPS 5712 (P/L 160) and SURCAL 150B.
 Close approach from 2021-05-28T19:15:00.000 to 2021-05-28T19:15:00.000
 Closest distance is 48678.042046, occurs at time 2021-05-28T19:15:00.000
-At this time, position of A compared to B is:{17,457.1925664288; -23,181.9054093478; -39,081.9327398352}
+At this time, position of A compared to B is:{-17,457.1925664288; 23,181.9054093478; 39,081.9327398352}
 ---
 
 

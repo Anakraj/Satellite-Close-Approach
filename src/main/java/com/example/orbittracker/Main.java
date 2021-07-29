@@ -125,7 +125,7 @@ public class Main {
         ArrayList<OrbitPoint> testPoints = Comparisons.generateDetailedApproach(closeApproachPairs.get(0), test, 1, intervalInSeconds);
 
         for(OrbitPoint point : testPoints) {
-            System.out.println(point);
+            System.out.println(point.toCSV());
         }
 
 //        System.out.println(testPoints.closestDistance());

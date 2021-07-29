@@ -28,12 +28,9 @@ public class OrbitPoint {
         return time;
     }
 
-    @Override
-    public String toString() {
-        return "OrbitPoint{" +
-                "distanceXYZ=" + distanceXYZ +
-                ", distance=" + distance +
-                ", time=" + time +
-                '}';
+    public String toCSV() {
+        return time +
+                "," + distance +
+                "," + distanceXYZ.getX() + "," + distanceXYZ.getY()+ "," + distanceXYZ.getZ();
     }
 }
