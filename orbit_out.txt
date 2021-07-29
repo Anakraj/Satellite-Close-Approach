@@ -1,7 +1,653 @@
+First 1 Close approach(es) between ITAMSAT (IO-26) and CORIOLIS.
+Close approach from 2021-05-29T15:43:00.000 to 2021-05-29T15:44:00.000
+Closest distance is 47869.789536, occurs at time 2021-05-29T15:44:00.000
+At this time, position of A compared to B is:{-5,959.7845964068; -17,599.2547645977; 44,116.4816081515}
+---
+
+
 First 1 Close approach(es) between OPS 5712 (P/L 160) and SURCAL 150B.
 Close approach from 2021-05-28T19:15:00.000 to 2021-05-28T19:15:00.000
 Closest distance is 48678.042046, occurs at time 2021-05-28T19:15:00.000
-At this time, position of A compared to B is:{-17,457.1925664288; 23,181.9054093478; 39,081.9327398352}
+At this time, position of A compared to B is:{-17,457.1925664772; 23,181.9054093281; 39,081.9327398259}
+---
+
+
+First 1 Close approach(es) between ITAMSAT (IO-26) and CUBESAT XI-IV (CO-57).
+Close approach from 2021-05-28T08:40:00.000 to 2021-05-28T08:40:00.000
+Closest distance is 34891.062214, occurs at time 2021-05-28T08:40:00.000
+At this time, position of A compared to B is:{-14,144.8251873083; -8,105.5426122749; -30,848.181822761}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM32 and ORBCOMM FM33.
+Close approach from 2021-05-28T14:52:00.000 to 2021-05-28T14:52:00.000
+Closest distance is 18654.690273, occurs at time 2021-05-28T14:52:00.000
+At this time, position of A compared to B is:{-7,141.1203504654; -6,127.1281483974; 16,107.7673807666}
+---
+
+
+First 2 Close approach(es) between ORBCOMM FM33 and ORBCOMM FM36.
+Close approach from 2021-06-02T00:07:00.000 to 2021-06-02T00:07:00.000
+Closest distance is 39898.960962, occurs at time 2021-06-02T00:07:00.000
+At this time, position of A compared to B is:{19,339.951515817; -20,001.3443740346; -28,597.8947549053}
+---
+Close approach from 2021-06-02T00:57:00.000 to 2021-06-02T00:57:00.000
+Closest distance is 49159.064261, occurs at time 2021-06-02T00:57:00.000
+At this time, position of A compared to B is:{-48,349.7893699967; -8,883.172379097; 26.7470270284}
+---
+
+
+First 1 Close approach(es) between LATINSAT B and RIGIDSPHERE 2 (LCS 4).
+Close approach from 2021-05-29T23:11:00.000 to 2021-05-29T23:11:00.000
+Closest distance is 48823.831315, occurs at time 2021-05-29T23:11:00.000
+At this time, position of A compared to B is:{-13,550.5142045901; 42,076.2951901117; 20,730.0615555844}
+---
+
+
+First 5 Close approach(es) between ORBCOMM FM21 and ORBCOMM FM36.
+Close approach from 2021-05-28T00:11:00.000 to 2021-05-28T00:11:00.000
+Closest distance is 27919.397055, occurs at time 2021-05-28T00:11:00.000
+At this time, position of A compared to B is:{21,448.8259383151; -16,739.0630844282; -6,264.5322912373}
+---
+Close approach from 2021-05-28T04:22:00.000 to 2021-05-28T04:22:00.000
+Closest distance is 20983.065718, occurs at time 2021-05-28T04:22:00.000
+At this time, position of A compared to B is:{12,507.220738356; -9,407.1960493065; -13,977.2364514795}
+---
+Close approach from 2021-05-28T08:33:00.000 to 2021-05-28T08:33:00.000
+Closest distance is 41427.393219, occurs at time 2021-05-28T08:33:00.000
+At this time, position of A compared to B is:{17,285.8801393369; -13,926.1573356157; 34,978.4133228219}
+---
+Close approach from 2021-05-28T21:56:00.000 to 2021-05-28T21:56:00.000
+Closest distance is 29330.539006, occurs at time 2021-05-28T21:56:00.000
+At this time, position of A compared to B is:{10,653.8088817801; -9,113.2335301684; -25,762.877349178}
+---
+Close approach from 2021-05-29T02:07:00.000 to 2021-05-29T02:07:00.000
+Closest distance is 29111.292984, occurs at time 2021-05-29T02:07:00.000
+At this time, position of A compared to B is:{21,397.1037008734; -19,109.8147679754; 4,944.3211842303}
+---
+
+
+First 2 Close approach(es) between ORBCOMM FM31 and ORBCOMM FM33.
+Close approach from 2021-06-02T21:49:00.000 to 2021-06-02T21:49:00.000
+Closest distance is 46972.564271, occurs at time 2021-06-02T21:49:00.000
+At this time, position of A compared to B is:{31,087.8916133309; 12,886.4365073899; 32,770.4828058789}
+---
+Close approach from 2021-06-02T22:39:00.000 to 2021-06-02T22:39:00.000
+Closest distance is 11036.333225, occurs at time 2021-06-02T22:39:00.000
+At this time, position of A compared to B is:{8,704.7330236724; 5,793.6875761235; -3,530.0790797612}
+---
+
+
+First 1 Close approach(es) between NOAA 15 and ORBCOMM FM30.
+Close approach from 2021-06-02T08:21:00.000 to 2021-06-02T08:21:00.000
+Closest distance is 44502.697960, occurs at time 2021-06-02T08:21:00.000
+At this time, position of A compared to B is:{-27,497.7507903343; -11,562.3805494546; 33,025.3718105149}
+---
+
+
+First 1 Close approach(es) between NOAA 15 and ORBCOMM FM36.
+Close approach from 2021-05-31T07:28:00.000 to 2021-05-31T07:28:00.000
+Closest distance is 29246.406021, occurs at time 2021-05-31T07:28:00.000
+At this time, position of A compared to B is:{-21,135.5560453767; -19,320.4100252179; 5,946.6202381072}
+---
+
+
+First 4 Close approach(es) between LUSAT (LO-19) and ORBCOMM FM36.
+Close approach from 2021-05-28T01:20:00.000 to 2021-05-28T01:20:00.000
+Closest distance is 25490.986642, occurs at time 2021-05-28T01:20:00.000
+At this time, position of A compared to B is:{4,925.3667206634; 15,829.5144443046; 19,363.8228438441}
+---
+Close approach from 2021-05-28T04:41:00.000 to 2021-05-28T04:41:00.000
+Closest distance is 28919.173822, occurs at time 2021-05-28T04:41:00.000
+At this time, position of A compared to B is:{-5,598.7072529718; 15,895.9311267799; 23,500.9034985704}
+---
+Close approach from 2021-05-28T08:02:00.000 to 2021-05-28T08:02:00.000
+Closest distance is 36885.121716, occurs at time 2021-05-28T08:02:00.000
+At this time, position of A compared to B is:{-16,968.6115700766; 16,324.7058531241; 28,391.5903782696}
+---
+Close approach from 2021-05-28T11:23:00.000 to 2021-05-28T11:23:00.000
+Closest distance is 47996.255557, occurs at time 2021-05-28T11:23:00.000
+At this time, position of A compared to B is:{-29,180.0745371375; 17,130.204058961; 34,039.9751240453}
+---
+
+
+First 3 Close approach(es) between ASTRA 1G and USA 164 (MILSTAR-2 3).
+Close approach from 2021-06-01T17:42:00.000 to 2021-06-01T17:42:00.000
+Closest distance is 49914.612113, occurs at time 2021-06-01T17:42:00.000
+At this time, position of A compared to B is:{4,779.7337891757; 49,679.7213708293; -740.2241616608}
+---
+Close approach from 2021-06-02T17:38:00.000 to 2021-06-02T17:39:00.000
+Closest distance is 44215.864102, occurs at time 2021-06-02T17:38:00.000
+At this time, position of A compared to B is:{4,026.118264392; 43,797.7387531544; -4,537.7406383217}
+---
+Close approach from 2021-06-03T17:33:00.000 to 2021-06-03T17:36:00.000
+Closest distance is 38265.147244, occurs at time 2021-06-03T17:35:00.000
+At this time, position of A compared to B is:{4,774.1275047436; 36,254.3655036632; 11,271.6539218682}
+---
+
+
+First 1 Close approach(es) between TECHSAT 1B (GO-32) and ORBCOMM FM30.
+Close approach from 2021-05-30T03:00:00.000 to 2021-05-30T03:00:00.000
+Closest distance is 41463.837474, occurs at time 2021-05-30T03:00:00.000
+At this time, position of A compared to B is:{-5,003.1551950073; 16,805.9186813012; -37,573.6523838183}
+---
+
+
+First 1 Close approach(es) between TECHSAT 1B (GO-32) and PCSAT (NO-44).
+Close approach from 2021-06-01T22:08:00.000 to 2021-06-01T22:08:00.000
+Closest distance is 36737.632075, occurs at time 2021-06-01T22:08:00.000
+At this time, position of A compared to B is:{9,007.3732128066; 5,520.1895321901; -35,185.9111837521}
+---
+
+
+First 2 Close approach(es) between CUBESAT XI-IV (CO-57) and CORIOLIS.
+Close approach from 2021-06-02T12:45:00.000 to 2021-06-02T12:52:00.000
+Closest distance is 37500.748182, occurs at time 2021-06-02T12:49:00.000
+At this time, position of A compared to B is:{35,697.6274426484; 93.0706043622; 11,488.117644297}
+---
+Close approach from 2021-06-02T13:33:00.000 to 2021-06-02T13:45:00.000
+Closest distance is 6940.039907, occurs at time 2021-06-02T13:39:00.000
+At this time, position of A compared to B is:{2,983.79867855; -4,563.1042132683; -4,294.0865499303}
+---
+
+
+First 1 Close approach(es) between FORTE and ORBCOMM FM31.
+Close approach from 2021-06-03T23:33:00.000 to 2021-06-03T23:33:00.000
+Closest distance is 28079.972355, occurs at time 2021-06-03T23:33:00.000
+At this time, position of A compared to B is:{19,050.9868988022; -4,370.8846795768; -20,160.3599367845}
+---
+
+
+First 1 Close approach(es) between FORTE and IRS-P6 (RESOURCESAT-1).
+Close approach from 2021-05-28T02:35:00.000 to 2021-05-28T02:35:00.000
+Closest distance is 49098.996706, occurs at time 2021-05-28T02:35:00.000
+At this time, position of A compared to B is:{25,697.4458310725; -20,544.8552515116; -36,445.3245011272}
+---
+
+
+First 3 Close approach(es) between ORBCOMM FM18 and LUSAT (LO-19).
+Close approach from 2021-05-30T14:49:00.000 to 2021-05-30T14:49:00.000
+Closest distance is 26216.150349, occurs at time 2021-05-30T14:49:00.000
+At this time, position of A compared to B is:{-2,824.7009554626; -23,913.3862924157; 10,366.1738189319}
+---
+Close approach from 2021-05-30T18:10:00.000 to 2021-05-30T18:10:00.000
+Closest distance is 17326.095336, occurs at time 2021-05-30T18:10:00.000
+At this time, position of A compared to B is:{6,924.0142392048; -10,834.2036398891; -11,613.4248999325}
+---
+Close approach from 2021-05-30T21:31:00.000 to 2021-05-30T21:31:00.000
+Closest distance is 38441.407478, occurs at time 2021-05-30T21:31:00.000
+At this time, position of A compared to B is:{17,416.2090047051; 2,336.2601228403; -34,190.0476960531}
+---
+
+
+First 1 Close approach(es) between COSMOS 2386 and OSCAR 7 (AO-7).
+Close approach from 2021-06-03T08:16:00.000 to 2021-06-03T08:16:00.000
+Closest distance is 35997.572701, occurs at time 2021-06-03T08:16:00.000
+At this time, position of A compared to B is:{9,226.0832710499; -29,910.8159589721; 17,777.7309159683}
+---
+
+
+First 4 Close approach(es) between ORBCOMM FM18 and IRS-P6 (RESOURCESAT-1).
+Close approach from 2021-06-02T10:26:00.000 to 2021-06-02T10:26:00.000
+Closest distance is 47936.995089, occurs at time 2021-06-02T10:26:00.000
+At this time, position of A compared to B is:{-30,741.7402536278; -2,363.036503708; 36,705.8164716484}
+---
+Close approach from 2021-06-02T13:47:00.000 to 2021-06-02T13:47:00.000
+Closest distance is 46171.129407, occurs at time 2021-06-02T13:47:00.000
+At this time, position of A compared to B is:{-5,417.884267909; -22,967.3026999459; 39,685.2961121015}
+---
+Close approach from 2021-06-02T21:19:00.000 to 2021-06-02T21:19:00.000
+Closest distance is 46663.368258, occurs at time 2021-06-02T21:19:00.000
+At this time, position of A compared to B is:{-6,979.8430841495; -21,906.5658207769; 40,606.0845399452}
+---
+Close approach from 2021-06-03T00:40:00.000 to 2021-06-03T00:40:00.000
+Closest distance is 46918.229481, occurs at time 2021-06-03T00:40:00.000
+At this time, position of A compared to B is:{-30,553.7110825959; -1,491.7764682174; 35,574.7888212698}
+---
+
+
+First 5 Close approach(es) between ORBCOMM FM19 and ORBCOMM FM14.
+Close approach from 2021-06-03T19:07:00.000 to 2021-06-03T19:07:00.000
+Closest distance is 49396.233618, occurs at time 2021-06-03T19:07:00.000
+At this time, position of A compared to B is:{18,263.0233074501; -45,895.6411376635; 199.9996557645}
+---
+Close approach from 2021-06-03T20:46:00.000 to 2021-06-03T20:48:00.000
+Closest distance is 47426.855351, occurs at time 2021-06-03T20:47:00.000
+At this time, position of A compared to B is:{18,937.0042698244; -43,354.8332785198; -3,324.8923473991}
+---
+Close approach from 2021-06-03T21:37:00.000 to 2021-06-03T21:38:00.000
+Closest distance is 49136.182157, occurs at time 2021-06-03T21:37:00.000
+At this time, position of A compared to B is:{-21,291.1804482779; 44,078.9879036262; 4,253.5699635483}
+---
+Close approach from 2021-06-03T22:26:00.000 to 2021-06-03T22:29:00.000
+Closest distance is 45323.375283, occurs at time 2021-06-03T22:28:00.000
+At this time, position of A compared to B is:{14,996.8043860765; -42,704.1771133372; 2,378.542051075}
+---
+Close approach from 2021-06-03T23:17:00.000 to 2021-06-03T23:19:00.000
+Closest distance is 46847.876199, occurs at time 2021-06-03T23:18:00.000
+At this time, position of A compared to B is:{-17,394.2655539243; 43,473.3897713546; -1,492.451683565}
+---
+
+
+First 5 Close approach(es) between NIMIQ 1 and ASTRA 3A.
+Close approach from 2021-05-28T04:45:00.000 to 2021-05-28T04:50:00.000
+Closest distance is 13048.931355, occurs at time 2021-05-28T04:47:00.000
+At this time, position of A compared to B is:{-8,187.1167403683; -9,415.9898225293; -3,819.0135694154}
+---
+Close approach from 2021-05-29T04:41:00.000 to 2021-05-29T04:46:00.000
+Closest distance is 13556.820661, occurs at time 2021-05-29T04:43:00.000
+At this time, position of A compared to B is:{-4,238.0468850099; -12,634.6017379314; -2,488.6108491726}
+---
+Close approach from 2021-05-30T04:37:00.000 to 2021-05-30T04:41:00.000
+Closest distance is 15881.417057, occurs at time 2021-05-30T04:39:00.000
+At this time, position of A compared to B is:{-299.5182403289; -15,838.8752717264; -1,122.3754626916}
+---
+Close approach from 2021-05-30T16:37:00.000 to 2021-05-30T16:37:00.000
+Closest distance is 49244.869435, occurs at time 2021-05-30T16:37:00.000
+At this time, position of A compared to B is:{28,093.0641788244; -40,416.7691416293; 1,523.7069347647}
+---
+Close approach from 2021-05-31T04:33:00.000 to 2021-05-31T04:37:00.000
+Closest distance is 19320.946927, occurs at time 2021-05-31T04:35:00.000
+At this time, position of A compared to B is:{3,572.2032375075; -18,986.5131612234; 225.1047828305}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM19 and PCSAT (NO-44).
+Close approach from 2021-05-31T13:04:00.000 to 2021-05-31T13:04:00.000
+Closest distance is 48744.358818, occurs at time 2021-05-31T13:04:00.000
+At this time, position of A compared to B is:{-1,860.5670439703; -20,118.1099326522; -44,360.032231506}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM19 and CUBESAT XI-IV (CO-57).
+Close approach from 2021-06-01T11:44:00.000 to 2021-06-01T11:44:00.000
+Closest distance is 47062.097653, occurs at time 2021-06-01T11:44:00.000
+At this time, position of A compared to B is:{40,893.9255639035; -1,697.6658244892; 23,230.2780490769}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM20 and CORIOLIS.
+Close approach from 2021-06-03T05:07:00.000 to 2021-06-03T05:07:00.000
+Closest distance is 49647.781321, occurs at time 2021-06-03T05:07:00.000
+At this time, position of A compared to B is:{-42,119.9207055438; 24,534.4518391364; -9,427.3613901865}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM20 and OPS 5712 (P/L 160).
+Close approach from 2021-06-03T20:38:00.000 to 2021-06-03T20:38:00.000
+Closest distance is 48945.432881, occurs at time 2021-06-03T20:38:00.000
+At this time, position of A compared to B is:{-19,074.149391484; 45,024.839529057; 2,143.8400680174}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM20 and ORBCOMM FM32.
+Close approach from 2021-06-01T12:04:00.000 to 2021-06-01T12:04:00.000
+Closest distance is 37731.225357, occurs at time 2021-06-01T12:04:00.000
+At this time, position of A compared to B is:{-21,173.5690084053; -14,336.5281026748; 27,745.0771195949}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM20 and ORBCOMM FM33.
+Close approach from 2021-05-30T14:43:00.000 to 2021-05-30T14:43:00.000
+Closest distance is 27555.636370, occurs at time 2021-05-30T14:43:00.000
+At this time, position of A compared to B is:{3,676.9247252038; 16,509.4594208309; 21,753.8748261235}
+---
+
+
+First 1 Close approach(es) between SCD 1 and ORBCOMM FM19.
+Close approach from 2021-05-29T10:34:00.000 to 2021-05-29T10:34:00.000
+Closest distance is 15443.484667, occurs at time 2021-05-29T10:34:00.000
+At this time, position of A compared to B is:{-11,458.4600091628; 10,297.8855956905; 1,076.3201814955}
+---
+
+
+First 1 Close approach(es) between NAVSTAR 43 (USA 132) and NAVSTAR 47 (USA 150).
+Close approach from 2021-06-01T12:50:00.000 to 2021-06-01T12:50:00.000
+Closest distance is 40439.624553, occurs at time 2021-06-01T12:50:00.000
+At this time, position of A compared to B is:{3,297.1633544527; -392.5372828003; -40,303.075096868}
+---
+
+
+First 1 Close approach(es) between BIRD 2 and ISS (ZARYA).
+Close approach from 2021-06-02T23:30:00.000 to 2021-06-02T23:30:00.000
+Closest distance is 34903.987676, occurs at time 2021-06-02T23:30:00.000
+At this time, position of A compared to B is:{-24,086.778529563; -25,258.2012515189; 372.4584225402}
+---
+
+
+First 1 Close approach(es) between CUTE-1 (CO-55) and ORBCOMM FM30.
+Close approach from 2021-06-02T04:04:00.000 to 2021-06-02T04:04:00.000
+Closest distance is 33122.280508, occurs at time 2021-06-02T04:04:00.000
+At this time, position of A compared to B is:{25,158.7173434496; -4,113.2706608342; 21,147.2317839651}
+---
+
+
+First 1 Close approach(es) between CUTE-1 (CO-55) and DMSP 5D-3 F15 (USA 147).
+Close approach from 2021-05-29T13:42:00.000 to 2021-05-29T13:42:00.000
+Closest distance is 40068.437156, occurs at time 2021-05-29T13:42:00.000
+At this time, position of A compared to B is:{-29,993.6793376839; 7,152.6060974154; -25,587.0881880093}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM04 and LUSAT (LO-19).
+Close approach from 2021-06-03T03:00:00.000 to 2021-06-03T03:00:00.000
+Closest distance is 40080.334325, occurs at time 2021-06-03T03:00:00.000
+At this time, position of A compared to B is:{-9,854.6554007302; -9,164.1124036359; 37,753.6489680428}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM08 and ORBCOMM FM31.
+Close approach from 2021-05-29T15:00:00.000 to 2021-05-29T15:03:00.000
+Closest distance is 22399.156022, occurs at time 2021-05-29T15:01:00.000
+At this time, position of A compared to B is:{-204.3059515213; -9,513.0850786269; 20,277.6147971926}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM09 and SCD 2.
+Close approach from 2021-05-30T09:43:00.000 to 2021-05-30T09:43:00.000
+Closest distance is 37891.180551, occurs at time 2021-05-30T09:43:00.000
+At this time, position of A compared to B is:{37,573.7529249601; -3,138.3357024479; 3,755.729452719}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM09 and ORBCOMM FM13.
+Close approach from 2021-05-28T12:40:00.000 to 2021-05-28T12:40:00.000
+Closest distance is 38800.539787, occurs at time 2021-05-28T12:40:00.000
+At this time, position of A compared to B is:{-10,680.3219078053; -37,263.4038694354; -1,688.592255936}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM04 and STELLA.
+Close approach from 2021-06-02T16:45:00.000 to 2021-06-02T16:45:00.000
+Closest distance is 25938.277346, occurs at time 2021-06-02T16:45:00.000
+At this time, position of A compared to B is:{16,426.0768619059; 16,415.829160983; -11,554.1673683035}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM09 and CHUANGXIN 1 (CX-1).
+Close approach from 2021-06-03T17:00:00.000 to 2021-06-03T17:00:00.000
+Closest distance is 44740.363336, occurs at time 2021-06-03T17:00:00.000
+At this time, position of A compared to B is:{26,793.0027589351; 19,774.7693152956; 29,879.6521585276}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM04 and ITAMSAT (IO-26).
+Close approach from 2021-05-30T11:24:00.000 to 2021-05-30T11:24:00.000
+Closest distance is 18962.442275, occurs at time 2021-05-30T11:24:00.000
+At this time, position of A compared to B is:{-5,119.9595474927; 18,258.11671378; 37.4877072105}
+---
+
+
+First 1 Close approach(es) between STELLA and CORIOLIS.
+Close approach from 2021-05-29T19:59:00.000 to 2021-05-29T20:00:00.000
+Closest distance is 37664.445277, occurs at time 2021-05-29T19:59:00.000
+At this time, position of A compared to B is:{-30,425.2546798445; 13,953.689969796; -17,268.7246755464}
+---
+
+
+First 1 Close approach(es) between IRS-P6 (RESOURCESAT-1) and SCD 2.
+Close approach from 2021-05-31T04:59:00.000 to 2021-05-31T04:59:00.000
+Closest distance is 48911.608750, occurs at time 2021-05-31T04:59:00.000
+At this time, position of A compared to B is:{-42,143.8839901322; -7,553.3420957541; 23,647.1041754449}
+---
+
+
+First 1 Close approach(es) between STELLA and MOST.
+Close approach from 2021-06-03T05:07:00.000 to 2021-06-03T05:10:00.000
+Closest distance is 40199.936021, occurs at time 2021-06-03T05:09:00.000
+At this time, position of A compared to B is:{-25,216.6663302707; 13,983.1578220997; 28,011.1744240969}
+---
+
+
+First 2 Close approach(es) between STELLA and ITAMSAT (IO-26).
+Close approach from 2021-05-29T03:09:00.000 to 2021-05-29T03:09:00.000
+Closest distance is 29979.234264, occurs at time 2021-05-29T03:09:00.000
+At this time, position of A compared to B is:{-2,499.8346235603; -21,682.0128117769; 20,552.265917087}
+---
+Close approach from 2021-05-29T03:59:00.000 to 2021-05-29T03:59:00.000
+Closest distance is 21389.376356, occurs at time 2021-05-29T03:59:00.000
+At this time, position of A compared to B is:{14,026.6908332916; -16,057.6574813998; -1,705.5794790434}
+---
+
+
+First 1 Close approach(es) between CELESTIS-02 & TAURUS R/B and CORIOLIS.
+Close approach from 2021-05-31T13:21:00.000 to 2021-05-31T13:21:00.000
+Closest distance is 46220.641277, occurs at time 2021-05-31T13:21:00.000
+At this time, position of A compared to B is:{-30,857.6440444111; -31,067.3380109309; -14,797.769866229}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM10 and ORBCOMM FM23.
+Close approach from 2021-05-31T09:36:00.000 to 2021-05-31T09:36:00.000
+Closest distance is 38771.645282, occurs at time 2021-05-31T09:36:00.000
+At this time, position of A compared to B is:{-31,483.4217391852; 15,995.9190115361; 16,005.1619318594}
+---
+
+
+First 1 Close approach(es) between CELESTIS-02 & TAURUS R/B and IRS-P6 (RESOURCESAT-1).
+Close approach from 2021-05-29T21:01:00.000 to 2021-05-29T21:01:00.000
+Closest distance is 49683.941298, occurs at time 2021-05-29T21:01:00.000
+At this time, position of A compared to B is:{-29,051.1201931182; -36,670.0976033872; 16,728.131402852}
+---
+
+
+First 1 Close approach(es) between CELESTIS-02 & TAURUS R/B and ORBCOMM FM11.
+Close approach from 2021-06-01T20:14:00.000 to 2021-06-01T20:14:00.000
+Closest distance is 38337.019539, occurs at time 2021-06-01T20:14:00.000
+At this time, position of A compared to B is:{-27,757.3401720067; 4,455.2041558977; 26,065.4616236617}
+---
+
+
+First 5 Close approach(es) between INTELSAT 902 (IS-902) and INTELSAT 9 (IS-9).
+Close approach from 2021-05-29T14:38:00.000 to 2021-05-29T14:38:00.000
+Closest distance is 48560.758289, occurs at time 2021-05-29T14:38:00.000
+At this time, position of A compared to B is:{-39,438.8661678098; 28,303.2485802323; 1,284.2121440604}
+---
+Close approach from 2021-05-30T14:33:00.000 to 2021-05-30T14:35:00.000
+Closest distance is 45062.077767, occurs at time 2021-05-30T14:34:00.000
+At this time, position of A compared to B is:{-36,559.2592370771; 26,231.8529919311; -2,429.2602413176}
+---
+Close approach from 2021-05-31T02:31:00.000 to 2021-05-31T02:32:00.000
+Closest distance is 46658.408001, occurs at time 2021-05-31T02:31:00.000
+At this time, position of A compared to B is:{37,768.3313825466; -25,956.1261893138; -8,765.825403171}
+---
+Close approach from 2021-05-31T14:28:00.000 to 2021-05-31T14:31:00.000
+Closest distance is 41612.043718, occurs at time 2021-05-31T14:29:00.000
+At this time, position of A compared to B is:{-32,407.2082010247; 23,849.029099524; 10,609.3755711899}
+---
+Close approach from 2021-06-01T02:26:00.000 to 2021-06-01T02:28:00.000
+Closest distance is 42426.800495, occurs at time 2021-06-01T02:27:00.000
+At this time, position of A compared to B is:{34,750.7115171924; -23,783.7393484563; -5,172.5421105997}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM05 and ORBCOMM FM30.
+Close approach from 2021-05-30T12:58:00.000 to 2021-05-30T13:18:00.000
+Closest distance is 21421.670522, occurs at time 2021-05-30T13:08:00.000
+At this time, position of A compared to B is:{15,810.413929712; -5,860.4574128604; 13,212.6385799004}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM11 and ORBCOMM FM31.
+Close approach from 2021-05-30T08:35:00.000 to 2021-05-30T08:36:00.000
+Closest distance is 36479.643611, occurs at time 2021-05-30T08:35:00.000
+At this time, position of A compared to B is:{20,663.6818155027; 16,724.5614080252; -24,981.3069612924}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM11 and ORBCOMM FM32.
+Close approach from 2021-05-28T09:44:00.000 to 2021-05-28T10:05:00.000
+Closest distance is 31156.497361, occurs at time 2021-05-28T09:54:00.000
+At this time, position of A compared to B is:{-1,180.7853420181; 30,285.1691435911; -7,220.9143292541}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM05 and ORBCOMM FM32.
+Close approach from 2021-05-31T11:16:00.000 to 2021-05-31T11:43:00.000
+Closest distance is 30802.374234, occurs at time 2021-05-31T11:29:00.000
+At this time, position of A compared to B is:{2,335.022143948; 29,618.8127615275; -8,127.7217358546}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM05 and ORBCOMM FM33.
+Close approach from 2021-06-02T17:39:00.000 to 2021-06-02T17:39:00.000
+Closest distance is 11528.969279, occurs at time 2021-06-02T17:39:00.000
+At this time, position of A compared to B is:{854.4909917145; -11,424.1716547916; 1,294.3259938518}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM11 and ORBCOMM FM36.
+Close approach from 2021-05-29T22:35:00.000 to 2021-05-29T22:38:00.000
+Closest distance is 35542.036260, occurs at time 2021-05-29T22:37:00.000
+At this time, position of A compared to B is:{-24,802.3128447235; -17,704.1138331904; -18,293.3313657315}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM05 and ORBCOMM FM36.
+Close approach from 2021-06-02T11:04:00.000 to 2021-06-02T11:07:00.000
+Closest distance is 38619.651384, occurs at time 2021-06-02T11:06:00.000
+At this time, position of A compared to B is:{-23,401.1118186582; -26,120.0007894216; 16,174.3932640832}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM05 and ORBCOMM FM35.
+Close approach from 2021-06-01T04:15:00.000 to 2021-06-01T04:18:00.000
+Closest distance is 24346.103675, occurs at time 2021-06-01T04:17:00.000
+At this time, position of A compared to B is:{917.1659566825; 15,171.0266889958; -19,019.2407827899}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM11 and ORBCOMM FM15.
+Close approach from 2021-05-31T23:06:00.000 to 2021-05-31T23:06:00.000
+Closest distance is 29311.184477, occurs at time 2021-05-31T23:06:00.000
+At this time, position of A compared to B is:{-1,696.9145672685; 23,479.5747103405; -17,463.5502639366}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM05 and ORBCOMM FM31.
+Close approach from 2021-06-02T20:14:00.000 to 2021-06-02T20:16:00.000
+Closest distance is 33418.445927, occurs at time 2021-06-02T20:15:00.000
+At this time, position of A compared to B is:{18,139.6637688931; 22,785.6560941972; -16,387.7699170038}
+---
+
+
+First 1 Close approach(es) between EYESAT A (AO-27) and LUSAT (LO-19).
+Close approach from 2021-05-31T21:15:00.000 to 2021-05-31T21:15:00.000
+Closest distance is 15958.763173, occurs at time 2021-05-31T21:15:00.000
+At this time, position of A compared to B is:{-5,237.4867593958; -15,016.7725515279; 1,321.8912916072}
+---
+
+
+First 1 Close approach(es) between EYESAT A (AO-27) and ORBCOMM FM15.
+Close approach from 2021-05-31T10:34:00.000 to 2021-05-31T10:34:00.000
+Closest distance is 44136.206672, occurs at time 2021-05-31T10:34:00.000
+At this time, position of A compared to B is:{156.5483124768; -31,428.7811592729; -30,987.2868593847}
+---
+
+
+First 1 Close approach(es) between EYESAT A (AO-27) and ORBCOMM FM33.
+Close approach from 2021-06-01T13:42:00.000 to 2021-06-01T13:42:00.000
+Closest distance is 34812.330393, occurs at time 2021-06-01T13:42:00.000
+At this time, position of A compared to B is:{-4,122.6570171993; -13,705.1207799211; 31,734.3931860663}
+---
+
+
+First 1 Close approach(es) between EYESAT A (AO-27) and ORBCOMM FM36.
+Close approach from 2021-06-02T23:54:00.000 to 2021-06-02T23:54:00.000
+Closest distance is 37521.718293, occurs at time 2021-06-02T23:54:00.000
+At this time, position of A compared to B is:{18,229.3519329149; 32,722.503949997; -2,192.6712119877}
+---
+
+
+First 1 Close approach(es) between EYESAT A (AO-27) and CUTE-1 (CO-55).
+Close approach from 2021-05-30T14:09:00.000 to 2021-05-30T14:10:00.000
+Closest distance is 47739.730386, occurs at time 2021-05-30T14:09:00.000
+At this time, position of A compared to B is:{33,325.1184642425; 26,660.9089920644; 21,394.2578377938}
+---
+
+
+First 1 Close approach(es) between EYESAT A (AO-27) and CUBESAT XI-IV (CO-57).
+Close approach from 2021-06-01T16:32:00.000 to 2021-06-01T16:32:00.000
+Closest distance is 27713.854284, occurs at time 2021-06-01T16:32:00.000
+At this time, position of A compared to B is:{6,042.7244329976; -3,110.2037509941; 26,867.6354252594}
+---
+
+
+First 1 Close approach(es) between PCSAT (NO-44) and ORBCOMM FM31.
+Close approach from 2021-06-01T19:19:00.000 to 2021-06-01T19:19:00.000
+Closest distance is 43732.621302, occurs at time 2021-06-01T19:19:00.000
+At this time, position of A compared to B is:{-6,415.6986130802; 18,790.3698536353; 38,965.4074539631}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM07 and ORBCOMM FM30.
+Close approach from 2021-05-31T20:46:00.000 to 2021-05-31T21:09:00.000
+Closest distance is 26007.293418, occurs at time 2021-05-31T20:57:00.000
+At this time, position of A compared to B is:{23,631.7079226291; -5,610.8356556855; 9,297.3229925325}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM07 and LUSAT (LO-19).
+Close approach from 2021-06-02T22:55:00.000 to 2021-06-02T22:55:00.000
+Closest distance is 48680.029248, occurs at time 2021-06-02T22:55:00.000
+At this time, position of A compared to B is:{22,025.2462405157; 13,186.3316716505; 41,361.2673000386}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM07 and ORBCOMM FM18.
+Close approach from 2021-05-29T05:47:00.000 to 2021-05-29T05:47:00.000
+Closest distance is 45854.312797, occurs at time 2021-05-29T05:47:00.000
+At this time, position of A compared to B is:{4,458.0508435098; 24,491.4284752314; 38,508.6187242223}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM07 and ORBCOMM FM20.
+Close approach from 2021-06-01T16:15:00.000 to 2021-06-01T16:15:00.000
+Closest distance is 26238.019224, occurs at time 2021-06-01T16:15:00.000
+At this time, position of A compared to B is:{-3,767.3502444141; 14,742.7913950402; -21,375.0047210013}
+---
+
+
+First 2 Close approach(es) between ORBCOMM FM07 and RIGIDSPHERE 2 (LCS 4).
+Close approach from 2021-06-01T01:06:00.000 to 2021-06-01T01:06:00.000
+Closest distance is 31585.602311, occurs at time 2021-06-01T01:06:00.000
+At this time, position of A compared to B is:{25,105.2995011993; -2,995.2851102557; -18,931.5207363814}
+---
+Close approach from 2021-06-01T01:56:00.000 to 2021-06-01T01:56:00.000
+Closest distance is 44268.356607, occurs at time 2021-06-01T01:56:00.000
+At this time, position of A compared to B is:{21,649.6870342577; -36,060.4061951833; 13,806.7213005135}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM07 and SCD 2.
+Close approach from 2021-06-03T00:49:00.000 to 2021-06-03T00:49:00.000
+Closest distance is 34345.912301, occurs at time 2021-06-03T00:49:00.000
+At this time, position of A compared to B is:{-8,462.2933971267; 31,226.8275739694; 11,528.9427931532}
+---
+
+
+First 2 Close approach(es) between ORBCOMM FM07 and ORBCOMM FM36.
+Close approach from 2021-06-03T18:02:00.000 to 2021-06-03T18:05:00.000
+Closest distance is 39424.789927, occurs at time 2021-06-03T18:03:00.000
+At this time, position of A compared to B is:{-37,289.7441942669; 4,655.0448297886; -11,921.3923833268}
+---
+Close approach from 2021-06-03T18:53:00.000 to 2021-06-03T18:53:00.000
+Closest distance is 49237.189345, occurs at time 2021-06-03T18:53:00.000
+At this time, position of A compared to B is:{-36,810.165211509; -30,540.6226335829; 11,686.8695899695}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM07 and ORBCOMM FM32.
+Close approach from 2021-06-01T15:13:00.000 to 2021-06-01T15:38:00.000
+Closest distance is 40160.015648, occurs at time 2021-06-01T15:24:00.000
+At this time, position of A compared to B is:{24,165.1430621948; 25,066.5615881085; 20,013.5006387872}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM07 and ORBCOMM FM35.
+Close approach from 2021-06-02T12:03:00.000 to 2021-06-02T12:06:00.000
+Closest distance is 22221.358537, occurs at time 2021-06-02T12:04:00.000
+At this time, position of A compared to B is:{-7,290.5052414581; 16,506.3496767646; -12,968.3356251717}
 ---
 
 
