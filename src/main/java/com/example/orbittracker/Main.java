@@ -76,7 +76,7 @@ public class Main {
         ArrayList<CloseApproachPair> closeApproachPairs = new ArrayList<>();
 
         //determines number of testTLEs
-        testTLEs = TLEUtil.readTLEs(tlePaths, 20);
+        testTLEs = TLEUtil.readTLEs(tlePaths, 1500);
 
         //this is the part that takes the longest
         testTLEs.parallelStream().forEach(i -> {
@@ -110,6 +110,7 @@ public class Main {
                     closeApproachPairs.add(temp.get());
                 }
             });
+            System.out.println(n1);
         });
 
         System.out.println("Done with pairs");

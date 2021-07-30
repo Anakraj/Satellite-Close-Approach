@@ -78,7 +78,7 @@ public class CloseApproachPair {
 //        generateIntervals();
 //    }
 
-    public CloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters, ArrayList<CloseApproachInterval> intervals) {
+    CloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters, ArrayList<CloseApproachInterval> intervals) {
         this.a = a;
         this.b = b;
         this.coordsA = a.coords();

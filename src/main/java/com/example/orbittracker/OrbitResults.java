@@ -105,10 +105,13 @@ public class OrbitResults {
 
         ArrayList<PVCoordinates> _coords = propagatedList(startDate, durationInSeconds, intervalInSeconds, _tProp);
 
+        System.out.println(_name + " done");
+
         return new OrbitResults(_namedTLE, _name, _TLE, _tProp,
                 _intervalInSeconds, _durationInSeconds, _startDate,
                 _trueAnomaly, _semiMajorAxis, _perigee, _apogee,
                 _coords);
+
     }
 
     public OrbitResults(NamedTLE namedTLE, String name, TLE tle,
