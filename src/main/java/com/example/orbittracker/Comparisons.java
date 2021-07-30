@@ -167,6 +167,28 @@ public class Comparisons {
         writer.close();
     }
 
+    public static String generateEntry(CloseApproachPair i, int maxCloseApproaches) {
+        String toRet = "";
+        ArrayList<CloseApproachInterval> intervals = i.getIntervals();
+        int len = Math.min(intervals.size(), maxCloseApproaches);
+
+        toRet += "First " + len + " Close approach(es) between " + i.resultsA().name().strip() + " and " + i.resultsB().name().strip() + ".";
+        toRet += "\n";
+
+
+        toRet += "---\n";
+        for(int jj = 0; jj < len; jj++) {
+            CloseApproachInterval interval = intervals.get(jj);
+            toRet += String.format("Close approach from %s to %s \n", interval.startDate().toString(), interval.endDate().toString());
+            toRet += String.format("Closest distance is %f, occurs at time %s \n", interval.closestDistance(), interval.closestDistanceDate().toString());
+            toRet += String.format("At this time, position of A compared to B is: \n" + interval.closestSeparation().toString());
+            toRet += "\n";
+        }
+        toRet += "---\n\n";
+
+        return toRet;
+    }
+
     public static void generateLogs(ArrayList<CloseApproachPair> pairs, int maxCloseApproaches) throws IOException {
         PrintWriter writer = new PrintWriter("orbit_out.txt");
 
