@@ -1,0 +1,98 @@
+First 1 Close approach(es) between ORBCOMM FM23 and LUSAT (LO-19).
+Close approach from 2021-08-02T05:31:00.000 to 2021-08-02T05:31:00.000
+Closest distance is 8664.276264, occurs at time 2021-08-02T05:31:00.000
+At this time, position of A compared to B is:{-7,472.4608179349; -4,374.9015618232; -303.7249333542}
+---
+
+
+First 1 Close approach(es) between ABS-7 and GALAXY 25 (G-25).
+Close approach from 2021-07-28T18:30:00.000 to 2021-07-28T18:32:00.000
+Closest distance is 9499.286894, occurs at time 2021-07-28T18:31:00.000
+At this time, position of A compared to B is:{3,879.0420820229; 8,663.861658074; -356.3498164272}
+---
+
+
+First 2 Close approach(es) between ASTRA 1M and USA 164 (MILSTAR-2 3).
+Close approach from 2021-08-02T03:58:00.000 to 2021-08-02T03:58:00.000
+Closest distance is 9403.036905, occurs at time 2021-08-02T03:58:00.000
+At this time, position of A compared to B is:{-3,217.9839029089; 8,461.0976985283; 2,543.9159528705}
+---
+Close approach from 2021-08-03T03:54:00.000 to 2021-08-03T03:54:00.000
+Closest distance is 4821.463989, occurs at time 2021-08-03T03:54:00.000
+At this time, position of A compared to B is:{-907.6264509186; 4,399.0866235755; -1,752.3601521948}
+---
+
+
+First 1 Close approach(es) between AMC-8 (GE-8) and AMC-4 (GE-4).
+Close approach from 2021-07-28T06:31:00.000 to 2021-07-28T06:31:00.000
+Closest distance is 9877.433512, occurs at time 2021-07-28T06:31:00.000
+At this time, position of A compared to B is:{9,783.246763282; 1,098.3060796186; -803.4297145452}
+---
+
+
+First 5 Close approach(es) between RADUGA-1M 2 and HORIZONS 2.
+Close approach from 2021-07-28T01:46:00.000 to 2021-07-28T02:54:00.000
+Closest distance is 3873.815238, occurs at time 2021-07-28T02:20:00.000
+At this time, position of A compared to B is:{3,839.695097357; 508.1204688549; 70.7081589734}
+---
+Close approach from 2021-07-28T13:57:00.000 to 2021-07-28T14:39:00.000
+Closest distance is 8145.907608, occurs at time 2021-07-28T14:18:00.000
+At this time, position of A compared to B is:{7,824.1316619888; -2,259.5115494579; -182.7075364881}
+---
+Close approach from 2021-07-29T01:53:00.000 to 2021-07-29T02:39:00.000
+Closest distance is 7640.427410, occurs at time 2021-07-29T02:16:00.000
+At this time, position of A compared to B is:{7,543.5344617851; -1,183.0687765479; 267.5202761103}
+---
+Close approach from 2021-07-29T13:42:00.000 to 2021-07-29T14:47:00.000
+Closest distance is 4162.801994, occurs at time 2021-07-29T14:15:00.000
+At this time, position of A compared to B is:{4,124.2317858711; -565.1256394684; -16.2981625182}
+---
+Close approach from 2021-07-30T13:36:00.000 to 2021-07-30T14:46:00.000
+Closest distance is 1191.123534, occurs at time 2021-07-30T14:11:00.000
+At this time, position of A compared to B is:{409.3496365175; 1,118.5277795941; 10.1859620039}
+---
+
+
+First 1 Close approach(es) between GEOEYE 1 and CALIPSO.
+Close approach from 2021-07-29T04:37:00.000 to 2021-07-29T04:37:00.000
+Closest distance is 9917.947554, occurs at time 2021-07-29T04:37:00.000
+At this time, position of A compared to B is:{-8,422.8351760281; -734.2991775461; -5,184.8178366413}
+---
+
+
+First 1 Close approach(es) between GOES 15 and GALAXY 13 (HORIZONS 1).
+Close approach from 2021-07-28T07:57:00.000 to 2021-07-28T08:16:00.000
+Closest distance is 5644.184080, occurs at time 2021-07-28T08:06:00.000
+At this time, position of A compared to B is:{-2,757.0292683989; -4,914.0162470788; 328.7063463546}
+---
+
+
+First 3 Close approach(es) between ASTRA 1L and ASTRA 1KR.
+Close approach from 2021-07-28T06:59:00.000 to 2021-07-28T08:55:00.000
+Closest distance is 7408.953724, occurs at time 2021-07-28T07:56:00.000
+At this time, position of A compared to B is:{7,152.218047387; -1,578.2911018133; 1,116.8569688272}
+---
+Close approach from 2021-07-29T07:08:00.000 to 2021-07-29T08:36:00.000
+Closest distance is 8529.981768, occurs at time 2021-07-29T07:52:00.000
+At this time, position of A compared to B is:{8,247.6305063055; -1,687.554647617; 1,374.5323964293}
+---
+Close approach from 2021-07-30T07:25:00.000 to 2021-07-30T08:07:00.000
+Closest distance is 9675.891755, occurs at time 2021-07-30T07:46:00.000
+At this time, position of A compared to B is:{9,336.3132994343; -1,981.636077188; 1,590.3627557691}
+---
+
+
+First 1 Close approach(es) between COSMOS 2428 and DMSP 5D-3 F16 (USA 172).
+Close approach from 2021-08-01T23:57:00.000 to 2021-08-01T23:57:00.000
+Closest distance is 7127.349408, occurs at time 2021-08-01T23:57:00.000
+At this time, position of A compared to B is:{4,435.0281484183; 5,282.7417324874; 1,795.0695530288}
+---
+
+
+First 1 Close approach(es) between COSMOS 2391 and COSMOS 2439.
+Close approach from 2021-08-01T07:03:00.000 to 2021-08-01T07:03:00.000
+Closest distance is 9329.581834, occurs at time 2021-08-01T07:03:00.000
+At this time, position of A compared to B is:{7,510.1096538587; 4,342.696042515; -3,432.2501765257}
+---
+
+

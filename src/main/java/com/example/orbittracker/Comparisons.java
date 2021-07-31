@@ -236,10 +236,22 @@ public class Comparisons {
         ArrayList<OrbitPoint> results = calculateDistanceData(resultsA, resultsB, interval.startDate().shiftedBy(-cushion), gap);
         //CloseApproachPair detailedPair = new CloseApproachPair(resultsA, resultsB, results, duration);
         //CloseApproachInterval detailedInterval = CloseApproachInterval.createCloseApproachInterval(0, results.size() - 1, results);
-
-
         return results;
+    }
 
+    public static ArrayList<OrbitPoint> generateDetailedApproach(NamedTLE namedA, NamedTLE namedB, AbsoluteDate startDate, AbsoluteDate endDate, double gap, double cushion) {
+        double duration = endDate.shiftedBy(cushion).offsetFrom(startDate.shiftedBy(-cushion), TimeScalesFactory.getUTC());
+
+        System.out.println(duration);
+
+        OrbitResults resultsA = OrbitResults.createOrbitResults(namedA, gap, duration, startDate.shiftedBy(-cushion));
+        OrbitResults resultsB = OrbitResults.createOrbitResults(namedB, gap, duration, startDate.shiftedBy(-cushion));
+
+        System.out.println(namedA.name() + " " + namedB.name());
+        ArrayList<OrbitPoint> results = calculateDistanceData(resultsA, resultsB, startDate.shiftedBy(-cushion), gap);
+        //CloseApproachPair detailedPair = new CloseApproachPair(resultsA, resultsB, results, duration);
+        //CloseApproachInterval detailedInterval = CloseApproachInterval.createCloseApproachInterval(0, results.size() - 1, results);
+        return results;
     }
 
 

@@ -1,6 +1,5 @@
 package com.example.orbittracker;
 
-import org.hipparchus.geometry.euclidean.oned.Interval;
 import org.orekit.utils.PVCoordinates;
 
 import java.util.ArrayList;
@@ -25,14 +24,14 @@ public class CloseApproachPair {
 
     public static CloseApproachPair createCloseApproachPair(OrbitResults a, OrbitResults b, ArrayList<OrbitPoint> orbitPoints, double bufferInMeters) {
 
-        ArrayList<CloseApproachInterval> intervals = generateIntervals(orbitPoints, bufferInMeters);
+        ArrayList<CloseApproachInterval> intervals = generateIntervals(a.namedTLE(), b.namedTLE(), orbitPoints, bufferInMeters);
 
         CloseApproachPair toRet = new CloseApproachPair(a, b, orbitPoints, bufferInMeters, intervals);
 
         return toRet;
     }
 
-    public static ArrayList<CloseApproachInterval> generateIntervals(ArrayList<OrbitPoint> points, double bufferInMeters) {
+    public static ArrayList<CloseApproachInterval> generateIntervals(NamedTLE namedA, NamedTLE namedB, ArrayList<OrbitPoint> points, double bufferInMeters) {
         //initializing variables for generating intervals of approach
         boolean isClose = false;
         int startIndex = 0;
@@ -50,8 +49,15 @@ public class CloseApproachPair {
                     endIndex = i;
                 }
                 else {
+                    double cushion = points.get(1).time().durationFrom(points.get(0).time());
                     //we are at the end of a close approach
-                    CloseApproachInterval temp = CloseApproachInterval.createCloseApproachInterval(startIndex, endIndex, points);
+                    ArrayList<OrbitPoint> tempPoints = Comparisons.generateDetailedApproach(
+                            namedA, namedB,
+                            points.get(startIndex).time(), points.get(endIndex).time(),
+                            1.0, cushion
+                    );
+
+                    CloseApproachInterval temp = CloseApproachInterval.createCloseApproachInterval(tempPoints);
                     intervals.add(temp);
                     isClose = false;
                 }
@@ -100,6 +106,7 @@ public class CloseApproachPair {
         return intervals;
     }
 
+    public ArrayList<OrbitPoint> points() {return points;}
 
 
 
