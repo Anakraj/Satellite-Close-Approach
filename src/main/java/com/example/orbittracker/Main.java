@@ -76,19 +76,11 @@ public class Main {
         ArrayList<CloseApproachPair> closeApproachPairs = new ArrayList<>();
 
         //determines number of testTLEs
-        testTLEs = TLEUtil.readTLEs(tlePaths, 2000);
+        testTLEs = TLEUtil.readTLEs(tlePaths, 1500);
 
         //this is the part that takes the longest
         testTLEs.parallelStream().forEach(i -> {
-            //System.out.println(i.name());
-            //System.out.println(i.TLE().getE());
-            try {
-                testResults.add(OrbitResults.createOrbitResults(i,intervalInSeconds,durationInSeconds,startDate));
-            }
-            catch (Exception e) {
-                System.out.println(e);
-                System.out.println(i.TLE().getE());
-            }
+            testResults.add(OrbitResults.createOrbitResults(i,intervalInSeconds,durationInSeconds,startDate));
         });
         //this is the part that takes the longest
 
@@ -110,8 +102,8 @@ public class Main {
                         intervalInSeconds);
 
                 if(temp.isPresent()) {
-                    //closeApproachPairs.add(temp.get());
-                    writer.write(Comparisons.generateEntry(temp.get(), 5));
+                    closeApproachPairs.add(temp.get());
+                    //writer.write(Comparisons.generateEntry(temp.get(), 5));
                 }
             });
             System.out.println(n1);
@@ -119,21 +111,21 @@ public class Main {
 
         writer.close();
 
-//        System.out.println("Done with pairs");
-//        try {
-//            Comparisons.generateLogs(closeApproachPairs, 5);
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
+        System.out.println("Done with pairs");
+        try {
+            Comparisons.generateLogs(closeApproachPairs, 5);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
         System.out.println("Done with log");
 
-//        CloseApproachInterval test = closeApproachPairs.get(0).getIntervals().get(0);
-//        ArrayList<OrbitPoint> testPoints = Comparisons.generateDetailedApproach(closeApproachPairs.get(0), test, 1, intervalInSeconds);
+        CloseApproachInterval test = closeApproachPairs.get(0).getIntervals().get(0);
+        ArrayList<OrbitPoint> testPoints = Comparisons.generateDetailedApproach(closeApproachPairs.get(0), test, 1, intervalInSeconds);
 
-//        for(OrbitPoint point : testPoints) {
-//            System.out.println(point.toCSV());
-//        }
+        for(OrbitPoint point : testPoints) {
+            System.out.println(point.toCSV());
+        }
 
 //        System.out.println(testPoints.closestDistance());
 //        System.out.println(testPoints.closestDistanceDate());

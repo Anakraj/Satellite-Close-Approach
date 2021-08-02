@@ -65,5 +65,25 @@ public class CloseApproachInterval {
         return new CloseApproachInterval(minDist, tempAbsoluteDate, tempClosestSeparation, startDate, endDate);
     }
 
+    public static CloseApproachInterval createCloseApproachInterval(ArrayList<OrbitPoint> original) {
+        double minDist = original.get(0).distance();
+        Vector3D tempClosestSeparation = original.get(0).distanceVector3();
+        AbsoluteDate tempAbsoluteDate = original.get(0).time();
+
+        for(int i = 0; i < original.size(); i++) {
+            OrbitPoint point = original.get(i);
+            if(point.distance() < minDist) {
+                minDist = point.distance();
+                tempClosestSeparation = point.distanceVector3();
+                tempAbsoluteDate = point.time();
+            }
+        }
+
+        AbsoluteDate startDate = original.get(0).time();
+        AbsoluteDate endDate = original.get(original.size() - 1).time();
+
+        return new CloseApproachInterval(minDist, tempAbsoluteDate, tempClosestSeparation, startDate, endDate);
+    }
+
 
 }

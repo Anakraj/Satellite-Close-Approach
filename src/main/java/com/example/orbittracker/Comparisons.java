@@ -202,7 +202,7 @@ public class Comparisons {
 
             writer.write("First " + len + " Close approach(es) between " + i.resultsA().name().strip() + " and " + i.resultsB().name().strip() + ".");
             writer.write("\n");
-
+            writer.write("\n");
 
 
             for(int jj = 0; jj < len; jj++) {
@@ -227,7 +227,7 @@ public class Comparisons {
 
         double duration = interval.endDate().shiftedBy(cushion).offsetFrom(interval.startDate().shiftedBy(-cushion), TimeScalesFactory.getUTC());
 
-        System.out.println(duration);
+        //System.out.println(duration);
 
         OrbitResults resultsA = OrbitResults.createOrbitResults(namedA, gap, duration, interval.startDate().shiftedBy(-cushion));
         OrbitResults resultsB = OrbitResults.createOrbitResults(namedB, gap, duration, interval.startDate().shiftedBy(-cushion));
@@ -236,10 +236,22 @@ public class Comparisons {
         ArrayList<OrbitPoint> results = calculateDistanceData(resultsA, resultsB, interval.startDate().shiftedBy(-cushion), gap);
         //CloseApproachPair detailedPair = new CloseApproachPair(resultsA, resultsB, results, duration);
         //CloseApproachInterval detailedInterval = CloseApproachInterval.createCloseApproachInterval(0, results.size() - 1, results);
-
-
         return results;
+    }
 
+    public static ArrayList<OrbitPoint> generateDetailedApproach(NamedTLE namedA, NamedTLE namedB, AbsoluteDate startDate, AbsoluteDate endDate, double gap, double cushion) {
+        double duration = endDate.shiftedBy(cushion).offsetFrom(startDate.shiftedBy(-cushion), TimeScalesFactory.getUTC());
+
+        //System.out.println(duration);
+
+        OrbitResults resultsA = OrbitResults.createOrbitResults(namedA, gap, duration, startDate.shiftedBy(-cushion));
+        OrbitResults resultsB = OrbitResults.createOrbitResults(namedB, gap, duration, startDate.shiftedBy(-cushion));
+
+        System.out.println(namedA.name() + " " + namedB.name());
+        ArrayList<OrbitPoint> results = calculateDistanceData(resultsA, resultsB, startDate.shiftedBy(-cushion), gap);
+        //CloseApproachPair detailedPair = new CloseApproachPair(resultsA, resultsB, results, duration);
+        //CloseApproachInterval detailedInterval = CloseApproachInterval.createCloseApproachInterval(0, results.size() - 1, results);
+        return results;
     }
 
 
