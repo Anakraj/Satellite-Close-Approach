@@ -80,15 +80,7 @@ public class Main {
 
         //this is the part that takes the longest
         testTLEs.parallelStream().forEach(i -> {
-            //System.out.println(i.name());
-            //System.out.println(i.TLE().getE());
-            try {
-                testResults.add(OrbitResults.createOrbitResults(i,intervalInSeconds,durationInSeconds,startDate));
-            }
-            catch (Exception e) {
-                System.out.println(e);
-                System.out.println(i.TLE().getE());
-            }
+            testResults.add(OrbitResults.createOrbitResults(i,intervalInSeconds,durationInSeconds,startDate));
         });
         //this is the part that takes the longest
 

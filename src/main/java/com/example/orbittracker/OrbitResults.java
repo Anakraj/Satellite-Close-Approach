@@ -68,7 +68,7 @@ public class OrbitResults {
         return a * (1 + tle.getE()) - earthRadiusMeters;
     }
 
-    public static ArrayList<PVCoordinates> propagatedList(AbsoluteDate startDate, double durationInSeconds, double intervalInSeconds, TLEPropagator tProp) {
+    static ArrayList<PVCoordinates> propagatedList(AbsoluteDate startDate, double durationInSeconds, double intervalInSeconds, TLEPropagator tProp) {
         Frame inertialFrame = FramesFactory.getEME2000();
         AbsoluteDate tempDate = startDate;
         AbsoluteDate endDate = tempDate.shiftedBy(durationInSeconds);
@@ -114,7 +114,7 @@ public class OrbitResults {
 
     }
 
-    public OrbitResults(NamedTLE namedTLE, String name, TLE tle,
+    OrbitResults(NamedTLE namedTLE, String name, TLE tle,
                         TLEPropagator tProp,
                         double intervalInSeconds, double durationInSeconds, AbsoluteDate startDate,
                         double trueAnomaly, double semiMajorAxis, double perigee, double apogee,

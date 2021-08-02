@@ -1,924 +1,8 @@
-First 2 Close approach(es) between USA 164 (MILSTAR-2 3) and ASTRA 1M.
-
-Close approach from 2021-08-02T03:57:00.000 to 2021-08-02T03:59:00.000
-Closest distance is 9227.511103, occurs at time 2021-08-02T03:58:04.000
-At this time, position of A compared to B is:{3,306.8038432822; -8,593.86087678; -597.9671703813}
----
-Close approach from 2021-08-03T03:53:00.000 to 2021-08-03T03:55:00.000
-Closest distance is 4347.957786, occurs at time 2021-08-03T03:53:56.000
-At this time, position of A compared to B is:{820.0376947895; -4,265.546261359; -193.3654049497}
----
-
-
-First 1 Close approach(es) between LEMUR-2-TACHIKOMA and INS-1B.
-
-Close approach from 2021-08-03T12:31:00.000 to 2021-08-03T12:33:00.000
-Closest distance is 4397.628783, occurs at time 2021-08-03T12:32:01.000
-At this time, position of A compared to B is:{-808.000617767; 855.8806034878; 4,237.185658345}
----
-
-
-First 5 Close approach(es) between ICEYE-X1 and HODOYOSHI-1.
-
-Close approach from 2021-07-29T01:48:00.000 to 2021-07-29T01:53:00.000
-Closest distance is 7377.903232, occurs at time 2021-07-29T01:50:37.000
-At this time, position of A compared to B is:{-507.7047938837; -6,857.0238301326; -2,675.2413232774}
----
-Close approach from 2021-07-29T03:22:00.000 to 2021-07-29T03:28:00.000
-Closest distance is 5101.503998, occurs at time 2021-07-29T03:24:56.000
-At this time, position of A compared to B is:{-460.2996330436; -3,124.7576126927; -4,006.1648928178}
----
-Close approach from 2021-07-29T04:56:00.000 to 2021-07-29T05:02:00.000
-Closest distance is 5302.571522, occurs at time 2021-07-29T04:59:15.000
-At this time, position of A compared to B is:{-440.9365764074; 631.5689415589; -5,246.3282733075}
----
-Close approach from 2021-07-29T06:31:00.000 to 2021-07-29T06:36:00.000
-Closest distance is 7781.108749, occurs at time 2021-07-29T06:33:32.000
-At this time, position of A compared to B is:{-339.211412336; 4,418.6082199987; -6,395.818195045}
----
-Close approach from 2021-07-30T00:38:00.000 to 2021-07-30T00:43:00.000
-Closest distance is 7144.960807, occurs at time 2021-07-30T00:40:23.000
-At this time, position of A compared to B is:{-450.4929879666; 5,107.9168162893; -4,975.6111979112}
----
-
-
-First 1 Close approach(es) between DELFI-N3XT and CANX-5.
-
-Close approach from 2021-07-28T00:46:00.000 to 2021-07-28T00:48:00.000
-Closest distance is 4768.329308, occurs at time 2021-07-28T00:47:00.000
-At this time, position of A compared to B is:{-2,458.2051168196; -3,569.8632359377; -1,987.5282323705}
----
-
-
-First 1 Close approach(es) between ICEYE-X1 and LEMUR-2-PETERWEBSTER.
-
-Close approach from 2021-07-30T17:07:00.000 to 2021-07-30T17:09:00.000
-Closest distance is 9680.450050, occurs at time 2021-07-30T17:08:05.000
-At this time, position of A compared to B is:{-168.3066332246; 4,368.1775864692; -8,637.2339684721}
----
-
-
-First 1 Close approach(es) between LEMUR-2-TACHIKOMA and LEMUR-2-MIA-GRACE.
-
-Close approach from 2021-08-01T07:05:00.000 to 2021-08-01T07:07:00.000
-Closest distance is 5552.520622, occurs at time 2021-08-01T07:06:16.000
-At this time, position of A compared to B is:{-275.4819125246; -3,097.1475910886; 4,600.2469252553}
----
-
-
-First 1 Close approach(es) between IRIDIUM 133 and ORBCOMM FM18.
-
-Close approach from 2021-08-02T13:21:00.000 to 2021-08-02T13:23:00.000
-Closest distance is 5047.111929, occurs at time 2021-08-02T13:21:59.000
-At this time, position of A compared to B is:{4,965.9082873221; 698.3505813861; 570.4385737842}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-23 and FLOCK 3P-24.
-
-Close approach from 2021-07-30T20:03:00.000 to 2021-07-30T20:05:00.000
-Closest distance is 4721.923879, occurs at time 2021-07-30T20:04:12.000
-At this time, position of A compared to B is:{-631.9643914425; -573.0762017074; 4,644.2189649483}
----
-
-
-First 1 Close approach(es) between ALSAT 2A and PATHFINDER 1.
-
-Close approach from 2021-07-30T07:04:00.000 to 2021-07-30T07:06:00.000
-Closest distance is 8342.443768, occurs at time 2021-07-30T07:05:01.000
-At this time, position of A compared to B is:{-1,915.9333278288; -5,210.0285957618; 6,227.4528931789}
----
-
-
-First 1 Close approach(es) between LANDSAT 7 and NEE-02 KRYSAOR.
-
-Close approach from 2021-08-01T01:24:00.000 to 2021-08-01T01:26:00.000
-Closest distance is 7795.895853, occurs at time 2021-08-01T01:25:00.000
-At this time, position of A compared to B is:{-5,500.3946164687; -3,450.3707271151; -4,314.695013294}
----
-
-
-First 1 Close approach(es) between NUDTSAT and TYVAK-61C.
-
-Close approach from 2021-07-30T22:51:00.000 to 2021-07-30T22:53:00.000
-Closest distance is 2820.969221, occurs at time 2021-07-30T22:51:59.000
-At this time, position of A compared to B is:{1,198.37235874; 1,542.0898893536; -2,035.6153391311}
----
-
-
-First 1 Close approach(es) between NUDTSAT and SKCUBE.
-
-Close approach from 2021-08-03T03:09:00.000 to 2021-08-03T03:11:00.000
-Closest distance is 4523.856640, occurs at time 2021-08-03T03:10:07.000
-At this time, position of A compared to B is:{895.6039563019; 3,379.9313417486; -2,870.407040881}
----
-
-
-First 1 Close approach(es) between CARBONITE 2 and ZIYUAN 3-2 (ZY 3-2).
-
-Close approach from 2021-07-28T19:46:00.000 to 2021-07-28T19:51:00.000
-Closest distance is 8466.884225, occurs at time 2021-07-28T19:48:53.000
-At this time, position of A compared to B is:{-1,442.6364810125; 8,336.2994681546; -336.2136924267}
----
-
-
-First 1 Close approach(es) between CHINASAT 16 (SJ-13) and BSAT-3A.
-
-Close approach from 2021-07-29T10:41:00.000 to 2021-07-29T10:52:00.000
-Closest distance is 9965.263388, occurs at time 2021-07-29T10:46:27.000
-At this time, position of A compared to B is:{6,660.698806446; 7,406.5568717495; 290.6563364244}
----
-
-
-First 2 Close approach(es) between CARBONITE 2 and CORVUS BC3.
-
-Close approach from 2021-07-28T02:24:00.000 to 2021-07-28T02:26:00.000
-Closest distance is 5792.956139, occurs at time 2021-07-28T02:24:57.000
-At this time, position of A compared to B is:{1,114.0635099147; -4,774.2682527564; -3,086.0275398828}
----
-Close approach from 2021-07-28T03:11:00.000 to 2021-07-28T03:13:00.000
-Closest distance is 9785.546699, occurs at time 2021-07-28T03:12:08.000
-At this time, position of A compared to B is:{711.5954704409; -9,051.5337279375; 3,649.6976939449}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-76 and LEMUR-2-PETERWEBSTER.
-
-Close approach from 2021-08-02T11:56:00.000 to 2021-08-02T11:58:00.000
-Closest distance is 8851.058140, occurs at time 2021-08-02T11:56:57.000
-At this time, position of A compared to B is:{-2,528.1062365125; 4,638.7333690283; 7,101.5534763373}
----
-
-
-First 1 Close approach(es) between POLYITAN-1 and UWE-3.
-
-Close approach from 2021-08-01T00:46:00.000 to 2021-08-01T00:48:00.000
-Closest distance is 7984.334833, occurs at time 2021-08-01T00:47:01.000
-At this time, position of A compared to B is:{-7,947.9654048515; -124.5448714144; 750.9575413773}
----
-
-
-First 4 Close approach(es) between CHEFSAT and LEMUR-2-YONGLIN.
-
-Close approach from 2021-07-29T05:49:00.000 to 2021-07-29T05:51:00.000
-Closest distance is 3901.119976, occurs at time 2021-07-29T05:50:24.000
-At this time, position of A compared to B is:{3,874.5016192561; -291.5904975645; 349.2123276303}
----
-Close approach from 2021-07-29T06:35:00.000 to 2021-07-29T06:37:00.000
-Closest distance is 3878.413412, occurs at time 2021-07-29T06:36:26.000
-At this time, position of A compared to B is:{-3,824.218743934; 184.8406625614; -619.0925006308}
----
-Close approach from 2021-07-29T07:21:00.000 to 2021-07-29T07:23:00.000
-Closest distance is 2215.705475, occurs at time 2021-07-29T07:22:29.000
-At this time, position of A compared to B is:{-2,124.8160698853; -436.8555038795; 451.292242527}
----
-Close approach from 2021-07-29T08:08:00.000 to 2021-07-29T08:10:00.000
-Closest distance is 2300.802240, occurs at time 2021-07-29T08:08:32.000
-At this time, position of A compared to B is:{2,171.2231488163; 556.7637158749; -519.1292214859}
----
-
-
-First 5 Close approach(es) between RADUGA-1M 2 and HORIZONS 2.
-
-Close approach from 2021-07-28T01:45:00.000 to 2021-07-28T02:55:00.000
-Closest distance is 3873.789409, occurs at time 2021-07-28T02:19:57.000
-At this time, position of A compared to B is:{3,839.3727037534; 508.2957983091; 84.2437635361}
----
-Close approach from 2021-07-28T13:56:00.000 to 2021-07-28T14:40:00.000
-Closest distance is 8145.113712, occurs at time 2021-07-28T14:17:35.000
-At this time, position of A compared to B is:{7,817.8964271657; -2,266.2134235501; -296.0566719545}
----
-Close approach from 2021-07-29T01:52:00.000 to 2021-07-29T02:40:00.000
-Closest distance is 7640.193876, occurs at time 2021-07-29T02:15:47.000
-At this time, position of A compared to B is:{7,540.52742422; -1,185.8138920516; 326.8853700011}
----
-Close approach from 2021-07-29T13:41:00.000 to 2021-07-29T14:48:00.000
-Closest distance is 4161.689999, occurs at time 2021-07-29T14:14:39.000
-At this time, position of A compared to B is:{4,121.5980491601; -565.1043793857; -112.9168084528}
----
-Close approach from 2021-07-30T13:35:00.000 to 2021-07-30T14:47:00.000
-Closest distance is 1189.901935, occurs at time 2021-07-30T14:11:11.000
-At this time, position of A compared to B is:{409.3860102184; 1,115.5382892191; 62.0002831028}
----
-
-
-First 4 Close approach(es) between BSAT-3A and JCSAT-15.
-
-Close approach from 2021-07-29T15:46:00.000 to 2021-07-29T17:31:00.000
-Closest distance is 8157.295126, occurs at time 2021-07-29T16:38:15.000
-At this time, position of A compared to B is:{-7,091.6425382383; -3,863.5894418508; -1,150.1071699759}
----
-Close approach from 2021-07-30T15:08:00.000 to 2021-07-30T18:14:00.000
-Closest distance is 3239.423576, occurs at time 2021-07-30T16:39:43.000
-At this time, position of A compared to B is:{-2,966.6382739916; -1,165.9350504056; -577.5100962723}
----
-Close approach from 2021-07-31T14:56:00.000 to 2021-07-31T18:31:00.000
-Closest distance is 1990.117418, occurs at time 2021-07-31T16:42:12.000
-At this time, position of A compared to B is:{1,040.5932654142; 1,686.6863266192; -181.1690673402}
----
-Close approach from 2021-08-01T15:17:00.000 to 2021-08-01T18:22:00.000
-Closest distance is 6803.617677, occurs at time 2021-08-01T16:49:11.000
-At this time, position of A compared to B is:{4,900.8515928239; 4,719.0846555829; -33.2741459709}
----
-
-
-First 1 Close approach(es) between FLOCK 2K-19 and XW-2A.
-
-Close approach from 2021-08-02T15:45:00.000 to 2021-08-02T15:47:00.000
-Closest distance is 9912.800459, occurs at time 2021-08-02T15:46:00.000
-At this time, position of A compared to B is:{9,010.4971283082; 586.4251884753; -4,090.3129387945}
----
-
-
-First 2 Close approach(es) between METEOSAT-11 (MSG-4) and THOR 7.
-
-Close approach from 2021-07-29T13:25:00.000 to 2021-07-29T14:02:00.000
-Closest distance is 7740.091815, occurs at time 2021-07-29T13:43:18.000
-At this time, position of A compared to B is:{-6,991.619817771; 3,263.0650002882; 615.3701567423}
----
-Close approach from 2021-08-01T01:11:00.000 to 2021-08-01T01:59:00.000
-Closest distance is 5783.509281, occurs at time 2021-08-01T01:35:07.000
-At this time, position of A compared to B is:{-5,448.3747424409; 1,873.2230762057; -505.2005352871}
----
-
-
-First 1 Close approach(es) between LEMUR-2-NOGUECORREIG and SKYSAT-C5.
-
-Close approach from 2021-07-28T18:43:00.000 to 2021-07-28T18:48:00.000
-Closest distance is 8402.164360, occurs at time 2021-07-28T18:45:25.000
-At this time, position of A compared to B is:{1,087.9264143148; 1,786.0329195388; -8,137.7434497913}
----
-
-
-First 3 Close approach(es) between ASTRA 1KR and ASTRA 1L.
-
-Close approach from 2021-07-28T06:58:00.000 to 2021-07-28T08:56:00.000
-Closest distance is 7408.767115, occurs at time 2021-07-28T07:56:27.000
-At this time, position of A compared to B is:{-7,154.0563337402; 1,540.7531445846; -1,155.5898422227}
----
-Close approach from 2021-07-29T07:07:00.000 to 2021-07-29T08:37:00.000
-Closest distance is 8529.873536, occurs at time 2021-07-29T07:51:38.000
-At this time, position of A compared to B is:{-8,245.9557996229; 1,719.9030615091; -1,343.4615560779}
----
-Close approach from 2021-07-30T07:24:00.000 to 2021-07-30T08:08:00.000
-Closest distance is 9675.890988, occurs at time 2021-07-30T07:45:58.000
-At this time, position of A compared to B is:{-9,336.135545494; 1,984.7381167561; -1,587.5308184217}
----
-
-
-First 1 Close approach(es) between ZHOU ENLAI and JILIN-01-08.
-
-Close approach from 2021-08-01T02:17:00.000 to 2021-08-01T02:19:00.000
-Closest distance is 3346.007194, occurs at time 2021-08-01T02:18:13.000
-At this time, position of A compared to B is:{-372.9759588673; -404.9292714433; 3,300.4068477526}
----
-
-
-First 1 Close approach(es) between LEMUR-2-NOGUECORREIG and DEMOSAT 2.
-
-Close approach from 2021-08-01T12:17:00.000 to 2021-08-01T12:19:00.000
-Closest distance is 5112.294037, occurs at time 2021-08-01T12:17:59.000
-At this time, position of A compared to B is:{1,373.0726479877; -4,402.4924129384; -2,206.4184511174}
----
-
-
-First 1 Close approach(es) between LEMUR-2-NOGUECORREIG and FLOCK 3P'-2.
-
-Close approach from 2021-07-31T23:43:00.000 to 2021-07-31T23:45:00.000
-Closest distance is 5071.290960, occurs at time 2021-07-31T23:43:51.000
-At this time, position of A compared to B is:{-575.5648272828; 3,564.8076658091; -3,560.7391694244}
----
-
-
-First 1 Close approach(es) between LEMUR-2-NOGUECORREIG and ICEYE-X1.
-
-Close approach from 2021-07-30T02:09:00.000 to 2021-07-30T02:11:00.000
-Closest distance is 2734.470847, occurs at time 2021-07-30T02:10:10.000
-At this time, position of A compared to B is:{87.3218440389; 46.779424767; -2,732.6758668097}
----
-
-
-First 1 Close approach(es) between GAOFEN 2 and UNIFORM 1.
-
-Close approach from 2021-07-30T01:48:00.000 to 2021-07-30T01:50:00.000
-Closest distance is 3121.253541, occurs at time 2021-07-30T01:48:58.000
-At this time, position of A compared to B is:{1,134.5256319507; -2,234.6779299047; -1,860.4541940773}
----
-
-
-First 3 Close approach(es) between FLOCK 2K-15 and FLOCK 2K-10.
-
-Close approach from 2021-08-02T11:30:00.000 to 2021-08-02T11:41:00.000
-Closest distance is 5788.129450, occurs at time 2021-08-02T11:35:46.000
-At this time, position of A compared to B is:{-2,643.7010678456; -5,002.9444800016; 1,218.1271384628}
----
-Close approach from 2021-08-02T12:15:00.000 to 2021-08-02T12:29:00.000
-Closest distance is 1078.466689, occurs at time 2021-08-02T12:22:05.000
-At this time, position of A compared to B is:{-11.8851481262; 244.9721745069; -1,050.2084437404}
----
-Close approach from 2021-08-02T13:03:00.000 to 2021-08-02T13:14:00.000
-Closest distance is 5361.803940, occurs at time 2021-08-02T13:08:23.000
-At this time, position of A compared to B is:{2,688.8332065957; 4,511.2804906631; 1,080.4933205713}
----
-
-
-First 1 Close approach(es) between TYVAK-61C and SWAYAM.
-
-Close approach from 2021-07-28T22:08:00.000 to 2021-07-28T22:10:00.000
-Closest distance is 7245.937763, occurs at time 2021-07-28T22:08:59.000
-At this time, position of A compared to B is:{-251.5740111048; 7,234.8206331184; -312.5619736752}
----
-
-
-First 1 Close approach(es) between ECHOSTAR 19 and GALAXY 19 (G-19).
-
-Close approach from 2021-07-27T23:59:00.000 to 2021-07-28T02:36:00.000
-Closest distance is 7265.495197, occurs at time 2021-07-28T00:24:16.000
-At this time, position of A compared to B is:{4,119.6518910378; -2,163.3720327467; 5,579.9381901387}
----
-
-
-First 1 Close approach(es) between NIUSAT and FLOCK 3P-2.
-
-Close approach from 2021-07-31T11:42:00.000 to 2021-07-31T11:44:00.000
-Closest distance is 8556.012295, occurs at time 2021-07-31T11:43:00.000
-At this time, position of A compared to B is:{-1,102.7513269888; -5,323.9738966922; 6,606.4050631803}
----
-
-
-First 2 Close approach(es) between LEMUR-2-MCCAFFERTY and LEMUR-2-DAVEWILSON.
-
-Close approach from 2021-07-28T17:29:00.000 to 2021-07-28T17:34:00.000
-Closest distance is 8177.624202, occurs at time 2021-07-28T17:31:22.000
-At this time, position of A compared to B is:{1,868.849262096; -7,681.3009839292; -2,092.4997543665}
----
-Close approach from 2021-07-28T18:15:00.000 to 2021-07-28T18:22:00.000
-Closest distance is 2300.676605, occurs at time 2021-07-28T18:18:18.000
-At this time, position of A compared to B is:{94.7797017255; -1,492.199754897; 1,748.5621351525}
----
-
-
-First 2 Close approach(es) between THURAYA-3 and FENGYUN 2G.
-
-Close approach from 2021-07-28T09:03:00.000 to 2021-07-28T09:05:00.000
-Closest distance is 9455.421087, occurs at time 2021-07-28T09:04:11.000
-At this time, position of A compared to B is:{5,810.8441159725; 7,458.2688959827; 115.3414851039}
----
-Close approach from 2021-07-30T20:54:00.000 to 2021-07-30T20:56:00.000
-Closest distance is 1610.440457, occurs at time 2021-07-30T20:55:02.000
-At this time, position of A compared to B is:{-263.438482523; -1,588.0012028111; -48.6909933238}
----
-
-
-First 1 Close approach(es) between NORSAT 1 and 2017-042F.
-
-Close approach from 2021-07-30T11:41:00.000 to 2021-07-30T11:43:00.000
-Closest distance is 8326.510309, occurs at time 2021-07-30T11:42:14.000
-At this time, position of A compared to B is:{-1,973.631142806; -5,570.1202420696; -5,865.945322535}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-32 and UCLSAT.
-
-Close approach from 2021-08-03T23:30:00.000 to 2021-08-03T23:32:00.000
-Closest distance is 7442.277224, occurs at time 2021-08-03T23:30:59.000
-At this time, position of A compared to B is:{1,463.5323396744; -6,771.8324332466; -2,718.0597599866}
----
-
-
-First 2 Close approach(es) between EROS B and TIANHUI 1-02.
-
-Close approach from 2021-08-03T17:16:00.000 to 2021-08-03T17:18:00.000
-Closest distance is 4896.390001, occurs at time 2021-08-03T17:16:52.000
-At this time, position of A compared to B is:{-4,096.0249567522; 1,737.2582558662; -2,044.2965411786}
----
-Close approach from 2021-08-03T22:47:00.000 to 2021-08-03T22:49:00.000
-Closest distance is 4362.901206, occurs at time 2021-08-03T22:47:50.000
-At this time, position of A compared to B is:{2,149.8378261071; -502.3071612573; -3,763.0827486599}
----
-
-
-First 1 Close approach(es) between CHUANGXIN 1-04 (CX-1-04) and ORBCOMM FM27.
-
-Close approach from 2021-07-29T07:41:00.000 to 2021-07-29T07:43:00.000
-Closest distance is 7627.910554, occurs at time 2021-07-29T07:41:59.000
-At this time, position of A compared to B is:{-6,185.945524442; -1,230.3728334513; -4,290.1375356158}
----
-
-
-First 1 Close approach(es) between ABS-7 and INTELSAT NEW DAWN.
-
-Close approach from 2021-07-31T07:10:00.000 to 2021-07-31T07:13:00.000
-Closest distance is 8730.295860, occurs at time 2021-07-31T07:11:35.000
-At this time, position of A compared to B is:{-3,002.8864334169; -8,197.5162435248; 38.2924112073}
----
-
-
-First 1 Close approach(es) between ABS-7 and GALAXY 25 (G-25).
-
-Close approach from 2021-07-28T18:29:00.000 to 2021-07-28T18:33:00.000
-Closest distance is 9499.203823, occurs at time 2021-07-28T18:31:01.000
-At this time, position of A compared to B is:{3,882.1896997429; 8,664.3144938201; -305.1733389411}
----
-
-
-First 1 Close approach(es) between CHINASAT 1A (ZX 1A) and IRNSS-1G.
-
-Close approach from 2021-08-01T19:28:00.000 to 2021-08-01T19:32:00.000
-Closest distance is 3473.846573, occurs at time 2021-08-01T19:29:40.000
-At this time, position of A compared to B is:{2,023.6046279743; 2,820.8824013826; -123.5184289087}
----
-
-
-First 5 Close approach(es) between XM-4 (BLUES) and EUTELSAT 115 WEST B.
-
-Close approach from 2021-07-30T23:36:00.000 to 2021-07-31T01:01:00.000
-Closest distance is 9053.919389, occurs at time 2021-07-31T00:18:14.000
-At this time, position of A compared to B is:{-269.1203660816; 8,877.8468932714; -1,756.3783957493}
----
-Close approach from 2021-07-31T10:31:00.000 to 2021-07-31T13:12:00.000
-Closest distance is 5902.406489, occurs at time 2021-07-31T11:52:15.000
-At this time, position of A compared to B is:{2,075.1639289409; -5,500.4950175676; -525.9768010034}
----
-Close approach from 2021-07-31T22:23:00.000 to 2021-08-01T01:29:00.000
-Closest distance is 2712.224956, occurs at time 2021-07-31T23:56:15.000
-At this time, position of A compared to B is:{2,265.6793914363; 1,477.0015122201; -203.2920123253}
----
-Close approach from 2021-08-01T10:21:00.000 to 2021-08-01T13:26:00.000
-Closest distance is 2297.374724, occurs at time 2021-08-01T11:53:39.000
-At this time, position of A compared to B is:{336.2637191415; 2,264.5180802774; 191.8728703826}
----
-Close approach from 2021-08-01T22:36:00.000 to 2021-08-02T00:40:00.000
-Closest distance is 7377.237428, occurs at time 2021-08-01T23:38:17.000
-At this time, position of A compared to B is:{3,732.627940774; -6,239.2199416123; 1,250.3020625065}
----
-
-
-First 1 Close approach(es) between SUCHAI and INS-1A.
-
-Close approach from 2021-08-01T12:28:00.000 to 2021-08-01T12:30:00.000
-Closest distance is 5445.492900, occurs at time 2021-08-01T12:28:56.000
-At this time, position of A compared to B is:{178.511846007; 1,254.3445356159; -5,296.0500590699}
----
-
-
-First 5 Close approach(es) between SES-8 and SKYNET 5A.
-
-Close approach from 2021-07-29T03:10:00.000 to 2021-07-29T03:14:00.000
-Closest distance is 7233.639744, occurs at time 2021-07-29T03:11:54.000
-At this time, position of A compared to B is:{6,498.5877626988; 3,177.0275629684; -19.9224330526}
----
-Close approach from 2021-07-30T03:06:00.000 to 2021-07-30T03:10:00.000
-Closest distance is 3283.290119, occurs at time 2021-07-30T03:08:04.000
-At this time, position of A compared to B is:{539.8688584017; 3,238.5965181738; -5.311861856}
----
-Close approach from 2021-07-30T15:05:00.000 to 2021-07-30T15:07:00.000
-Closest distance is 9384.802433, occurs at time 2021-07-30T15:06:00.000
-At this time, position of A compared to B is:{-8,179.2952110033; 4,598.8849304914; 154.6090630456}
----
-Close approach from 2021-07-31T03:02:00.000 to 2021-07-31T03:06:00.000
-Closest distance is 6317.605046, occurs at time 2021-07-31T03:04:05.000
-At this time, position of A compared to B is:{-5,384.1002341816; 3,304.7763548046; 45.2927142027}
----
-Close approach from 2021-07-31T15:00:00.000 to 2021-07-31T15:04:00.000
-Closest distance is 5073.304397, occurs at time 2021-07-31T15:01:57.000
-At this time, position of A compared to B is:{-2,282.677625129; 4,530.4287284389; 54.9171828474}
----
-
-
-First 1 Close approach(es) between LEMUR-2-MIA-GRACE and CARBONITE 2.
-
-Close approach from 2021-07-28T07:55:00.000 to 2021-07-28T07:57:00.000
-Closest distance is 1259.213339, occurs at time 2021-07-28T07:55:56.000
-At this time, position of A compared to B is:{320.565011287; 243.5661688239; -1,193.1185309188}
----
-
-
-First 1 Close approach(es) between PEGASUS and LAPAN-A3.
-
-Close approach from 2021-07-30T02:00:00.000 to 2021-07-30T02:02:00.000
-Closest distance is 6277.596990, occurs at time 2021-07-30T02:01:14.000
-At this time, position of A compared to B is:{-1,661.0742495236; -3,866.2875791236; 4,658.4199742712}
----
-
-
-First 1 Close approach(es) between PEGASUS and M3MSAT.
-
-Close approach from 2021-08-02T21:21:00.000 to 2021-08-02T21:24:00.000
-Closest distance is 4793.880053, occurs at time 2021-08-02T21:22:31.000
-At this time, position of A compared to B is:{-490.8073089729; -2,828.1340429802; 3,839.5379903428}
----
-
-
-First 1 Close approach(es) between FLOCK 2K-7 and OE (NEXTSAT).
-
-Close approach from 2021-07-29T23:40:00.000 to 2021-07-29T23:42:00.000
-Closest distance is 8725.777521, occurs at time 2021-07-29T23:41:01.000
-At this time, position of A compared to B is:{5,481.5013406305; 821.7865943178; 6,739.2138401819}
----
-
-
-First 1 Close approach(es) between APRIZESAT 6 and CARTOSAT-2A.
-
-Close approach from 2021-07-30T06:59:00.000 to 2021-07-30T07:01:00.000
-Closest distance is 3883.152173, occurs at time 2021-07-30T07:00:00.000
-At this time, position of A compared to B is:{-1,344.9895505649; 2,907.4169952348; 2,194.7210124861}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-80 and FOX-1D (AO-92).
-
-Close approach from 2021-07-30T02:53:00.000 to 2021-07-30T02:55:00.000
-Closest distance is 8759.395167, occurs at time 2021-07-30T02:53:56.000
-At this time, position of A compared to B is:{-1,901.8899819324; 8,426.3401360063; 1,451.416586292}
----
-
-
-First 1 Close approach(es) between IRIDIUM 141 and ORBCOMM FM15.
-
-Close approach from 2021-08-03T04:04:00.000 to 2021-08-03T04:06:00.000
-Closest distance is 6087.770554, occurs at time 2021-08-03T04:04:59.000
-At this time, position of A compared to B is:{-306.0245330231; 3,539.9053004032; 4,943.3156651002}
----
-
-
-First 1 Close approach(es) between POPACS 2 and CARTOSAT-2F.
-
-Close approach from 2021-07-28T09:17:00.000 to 2021-07-28T09:19:00.000
-Closest distance is 1630.394875, occurs at time 2021-07-28T09:17:56.000
-At this time, position of A compared to B is:{877.1850927779; 874.7218945744; -1,059.9978157831}
----
-
-
-First 1 Close approach(es) between TIMED and SPROUT.
-
-Close approach from 2021-07-28T07:53:00.000 to 2021-07-28T07:55:00.000
-Closest distance is 9754.568413, occurs at time 2021-07-28T07:54:00.000
-At this time, position of A compared to B is:{4,028.8179998918; -7,595.9345647262; 4,606.7351275133}
----
-
-
-First 1 Close approach(es) between LEMUR-2-SHAINAJOHL and INS-1A.
-
-Close approach from 2021-08-03T08:31:00.000 to 2021-08-03T08:33:00.000
-Closest distance is 2931.583083, occurs at time 2021-08-03T08:32:05.000
-At this time, position of A compared to B is:{905.5101495163; -1,861.7061716864; -2,075.6398700727}
----
-
-
-First 1 Close approach(es) between DMSP 5D-3 F16 (USA 172) and COSMOS 2428.
-
-Close approach from 2021-08-01T23:56:00.000 to 2021-08-01T23:58:00.000
-Closest distance is 3956.433620, occurs at time 2021-08-01T23:56:59.000
-At this time, position of A compared to B is:{-2,175.1877994905; 3,189.536663114; -865.3212706679}
----
-
-
-First 4 Close approach(es) between SES-2 and ASTRA 3A.
-
-Close approach from 2021-07-28T01:30:00.000 to 2021-07-28T01:32:00.000
-Closest distance is 4916.604709, occurs at time 2021-07-28T01:30:55.000
-At this time, position of A compared to B is:{608.5804804042; -4,867.0662338361; -338.0797878701}
----
-Close approach from 2021-07-28T13:28:00.000 to 2021-07-28T13:30:00.000
-Closest distance is 5654.183403, occurs at time 2021-07-28T13:29:10.000
-At this time, position of A compared to B is:{-189.4421483167; -5,650.9692722335; -21.1638754958}
----
-Close approach from 2021-07-29T01:26:00.000 to 2021-07-29T01:28:00.000
-Closest distance is 9299.596180, occurs at time 2021-07-29T01:27:08.000
-At this time, position of A compared to B is:{5,453.1358517669; -7,525.956632778; -325.231082738}
----
-Close approach from 2021-07-29T13:24:00.000 to 2021-07-29T13:26:00.000
-Closest distance is 5812.910250, occurs at time 2021-07-29T13:25:21.000
-At this time, position of A compared to B is:{-4,943.5164431483; -3,041.5266596973; 317.3110999917}
----
-
-
-First 2 Close approach(es) between ASTRA 1N and ASTRA 1M.
-
-Close approach from 2021-08-02T19:35:00.000 to 2021-08-02T19:59:00.000
-Closest distance is 9765.651600, occurs at time 2021-08-02T19:47:17.000
-At this time, position of A compared to B is:{-9,699.0002031883; -1,137.4751619622; -59.1311057139}
----
-Close approach from 2021-08-03T19:18:00.000 to 2021-08-03T20:02:00.000
-Closest distance is 9085.363462, occurs at time 2021-08-03T19:39:41.000
-At this time, position of A compared to B is:{-8,993.2376214419; -1,290.4939037636; -11.4805638578}
----
-
-
-First 2 Close approach(es) between METEOSAT-9 (MSG-2) and EUTELSAT 3B.
-
-Close approach from 2021-07-30T19:46:00.000 to 2021-07-30T19:49:00.000
-Closest distance is 4318.309477, occurs at time 2021-07-30T19:47:32.000
-At this time, position of A compared to B is:{3,805.2819147669; 2,037.2400577888; -131.4505134427}
----
-Close approach from 2021-07-31T19:43:00.000 to 2021-07-31T19:45:00.000
-Closest distance is 5435.475344, occurs at time 2021-07-31T19:43:33.000
-At this time, position of A compared to B is:{-2,828.8042954914; 4,631.7813236341; 298.094358248}
----
-
-
-First 1 Close approach(es) between LITUANICASAT-2 and INS-1B.
-
-Close approach from 2021-08-02T11:21:00.000 to 2021-08-02T11:23:00.000
-Closest distance is 5814.581211, occurs at time 2021-08-02T11:21:57.000
-At this time, position of A compared to B is:{712.2423274609; -1,023.4453588275; -5,679.3155510379}
----
-
-
-First 1 Close approach(es) between SJ-9B and 2017-042C.
-
-Close approach from 2021-08-01T20:42:00.000 to 2021-08-01T20:44:00.000
-Closest distance is 8275.341507, occurs at time 2021-08-01T20:43:00.000
-At this time, position of A compared to B is:{2,186.9000624933; -7,526.4227776108; -2,655.5047254965}
----
-
-
-First 1 Close approach(es) between FLOCK 3P'-2 and FLOCK 2P-9.
-
-Close approach from 2021-07-28T05:54:00.000 to 2021-07-28T05:56:00.000
-Closest distance is 9575.411533, occurs at time 2021-07-28T05:54:59.000
-At this time, position of A compared to B is:{-1,376.9651857998; 6,719.7753430137; 6,681.0996289421}
----
-
-
-First 2 Close approach(es) between BEIDOU 3 and SKY MUSTER 1 (NBN1A).
-
-Close approach from 2021-07-28T21:22:00.000 to 2021-07-28T21:26:00.000
-Closest distance is 4212.666564, occurs at time 2021-07-28T21:23:47.000
-At this time, position of A compared to B is:{3,676.4679843038; -2,056.2609651871; -43.9725434743}
----
-Close approach from 2021-07-29T21:19:00.000 to 2021-07-29T21:21:00.000
-Closest distance is 8452.711677, occurs at time 2021-07-29T21:20:03.000
-At this time, position of A compared to B is:{6,839.6007826291; -4,964.8129751012; -137.2150020743}
----
-
-
-First 2 Close approach(es) between LEMUR-2-SMITA-SHARAD and FLOCK 2P-3.
-
-Close approach from 2021-08-02T11:50:00.000 to 2021-08-02T11:52:00.000
-Closest distance is 5447.281056, occurs at time 2021-08-02T11:51:06.000
-At this time, position of A compared to B is:{-909.0682712704; 1,894.6230225718; 5,025.6212932253}
----
-Close approach from 2021-08-02T17:20:00.000 to 2021-08-02T17:22:00.000
-Closest distance is 8483.591857, occurs at time 2021-08-02T17:21:04.000
-At this time, position of A compared to B is:{-306.6348254605; -4,809.5075108378; 6,981.8295154721}
----
-
-
-First 1 Close approach(es) between CALIPSO and GEOEYE 1.
-
-Close approach from 2021-07-29T04:36:00.000 to 2021-07-29T04:38:00.000
-Closest distance is 9896.890843, occurs at time 2021-07-29T04:36:59.000
-At this time, position of A compared to B is:{-139.0575403196; 9,771.4986189362; 1,564.2653538128}
----
-
-
-First 1 Close approach(es) between LEMUR-2-SMITA-SHARAD and CNUSAIL-1.
-
-Close approach from 2021-08-02T07:07:00.000 to 2021-08-02T07:09:00.000
-Closest distance is 1635.680070, occurs at time 2021-08-02T07:08:01.000
-At this time, position of A compared to B is:{776.8412895992; -1,053.0983361613; -981.300563273}
----
-
-
-First 3 Close approach(es) between CHINASAT 2A (ZX 2A) and THURAYA-3.
-
-Close approach from 2021-07-28T22:03:00.000 to 2021-07-28T22:06:00.000
-Closest distance is 7633.959451, occurs at time 2021-07-28T22:04:31.000
-At this time, position of A compared to B is:{918.6373282224; -7,570.071228696; -357.0209296562}
----
-Close approach from 2021-07-29T21:59:00.000 to 2021-07-29T22:02:00.000
-Closest distance is 1932.191985, occurs at time 2021-07-29T22:00:39.000
-At this time, position of A compared to B is:{-704.3245200068; -1,799.1403557863; 19.6676388036}
----
-Close approach from 2021-07-30T21:56:00.000 to 2021-07-30T21:58:00.000
-Closest distance is 4635.080580, occurs at time 2021-07-30T21:56:49.000
-At this time, position of A compared to B is:{-2,332.3948733062; 4,003.6916462984; 119.8304519209}
----
-
-
-First 1 Close approach(es) between WGS F4 (USA 233) and ST-2.
-
-Close approach from 2021-08-03T12:34:00.000 to 2021-08-03T13:12:00.000
-Closest distance is 8368.542668, occurs at time 2021-08-03T12:52:57.000
-At this time, position of A compared to B is:{8,227.3442210257; 754.2262622565; 1,332.0871598556}
----
-
-
-First 1 Close approach(es) between ALOS-2 and CARBONITE 1 (CBNT-1).
-
-Close approach from 2021-07-30T14:05:00.000 to 2021-07-30T14:07:00.000
-Closest distance is 6923.497003, occurs at time 2021-07-30T14:06:00.000
-At this time, position of A compared to B is:{-2,351.3021899258; 1,641.8836366516; 6,301.6193856495}
----
-
-
-First 1 Close approach(es) between CHINASAT 2A (ZX 2A) and FENGYUN 2G.
-
-Close approach from 2021-07-31T02:47:00.000 to 2021-07-31T02:51:00.000
-Closest distance is 9190.779479, occurs at time 2021-07-31T02:48:52.000
-At this time, position of A compared to B is:{3,225.9342561751; -8,605.3673175424; -106.9062344037}
----
-
-
-First 1 Close approach(es) between IRS-P5 (CARTOSAT-1) and GAOFEN 2.
-
-Close approach from 2021-08-03T17:43:00.000 to 2021-08-03T17:45:00.000
-Closest distance is 5514.425703, occurs at time 2021-08-03T17:44:02.000
-At this time, position of A compared to B is:{-1,831.1794074343; 3,039.6891176548; 4,220.8959800545}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-24 and FLOCK 3P-2.
-
-Close approach from 2021-08-02T20:16:00.000 to 2021-08-02T20:18:00.000
-Closest distance is 5779.094834, occurs at time 2021-08-02T20:17:08.000
-At this time, position of A compared to B is:{5.5188030683; 3,384.9656836356; -4,684.006187249}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-66 and YAOGAN 21.
-
-Close approach from 2021-08-01T09:30:00.000 to 2021-08-01T09:32:00.000
-Closest distance is 8611.559842, occurs at time 2021-08-01T09:31:05.000
-At this time, position of A compared to B is:{980.3734745391; -6,377.6077130244; 5,702.9773474243}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-66 and QSS (MOZI).
-
-Close approach from 2021-07-29T21:09:00.000 to 2021-07-29T21:11:00.000
-Closest distance is 6721.595135, occurs at time 2021-07-29T21:10:00.000
-At this time, position of A compared to B is:{54.6058407677; -1,941.6683145147; 6,434.8102942519}
----
-
-
-First 1 Close approach(es) between HODOYOSHI-1 and LEMUR-2-PETERWEBSTER.
-
-Close approach from 2021-07-30T18:41:00.000 to 2021-07-30T18:43:00.000
-Closest distance is 7124.163463, occurs at time 2021-07-30T18:41:50.000
-At this time, position of A compared to B is:{1,898.885681712; -6,821.3826120904; -785.2881481238}
----
-
-
-First 1 Close approach(es) between RESURS P1 and SKYSAT-C3.
-
-Close approach from 2021-08-01T03:00:00.000 to 2021-08-01T03:02:00.000
-Closest distance is 4353.374968, occurs at time 2021-08-01T03:00:59.000
-At this time, position of A compared to B is:{11.294545974; -2,454.9157161416; 3,595.1543595586}
----
-
-
-First 1 Close approach(es) between ORBCOMM FM103 and APRIZESAT 9.
-
-Close approach from 2021-07-31T21:28:00.000 to 2021-07-31T21:30:00.000
-Closest distance is 8494.504844, occurs at time 2021-07-31T21:29:00.000
-At this time, position of A compared to B is:{-7,092.1391441487; 4,523.6761801019; 1,180.9016587557}
----
-
-
-First 1 Close approach(es) between RESURS P1 and FLOCK 3P-12.
-
-Close approach from 2021-07-31T23:05:00.000 to 2021-07-31T23:07:00.000
-Closest distance is 4160.410162, occurs at time 2021-07-31T23:05:55.000
-At this time, position of A compared to B is:{-158.1736748649; -2,859.8378993077; 3,017.5024426393}
----
-
-
-First 1 Close approach(es) between SPACEBEE-3 and FLOCK 3P-2.
-
-Close approach from 2021-08-02T10:03:00.000 to 2021-08-02T10:05:00.000
-Closest distance is 6776.461433, occurs at time 2021-08-02T10:03:59.000
-At this time, position of A compared to B is:{-2,267.0647784934; 5,117.6025000206; 3,819.8156363238}
----
-
-
-First 1 Close approach(es) between REIMEI (INDEX) and S-NET C.
-
-Close approach from 2021-08-01T07:37:00.000 to 2021-08-01T07:39:00.000
-Closest distance is 8618.123925, occurs at time 2021-08-01T07:38:00.000
-At this time, position of A compared to B is:{501.0406812172; -8,406.2797999317; -1,831.7964246152}
----
-
-
-First 1 Close approach(es) between ZIYUAN 3-1 (ZY 3-1) and FLOCK 3P'-4.
-
-Close approach from 2021-07-31T16:28:00.000 to 2021-07-31T16:36:00.000
-Closest distance is 3827.018375, occurs at time 2021-07-31T16:32:12.000
-At this time, position of A compared to B is:{-749.4127399982; 2,491.5636952795; -2,806.5210747886}
----
-
-
-First 1 Close approach(es) between HODOYOSHI-3 and UKUBE-1.
-
-Close approach from 2021-07-29T17:22:00.000 to 2021-07-29T17:24:00.000
-Closest distance is 9387.546049, occurs at time 2021-07-29T17:22:56.000
-At this time, position of A compared to B is:{-2,523.3782820015; -2,987.177538292; -8,534.363082937}
----
-
-
-First 1 Close approach(es) between YAOGAN 28 and LEMUR-2-SHAINAJOHL.
-
-Close approach from 2021-08-01T23:25:00.000 to 2021-08-01T23:27:00.000
-Closest distance is 9699.844935, occurs at time 2021-08-01T23:26:01.000
-At this time, position of A compared to B is:{-7,807.8970119748; 104.1238610208; 5,754.3804390188}
----
-
-
-First 1 Close approach(es) between YAOGAN 28 and LKW-3.
-
-Close approach from 2021-07-28T08:16:00.000 to 2021-07-28T08:18:00.000
-Closest distance is 8689.148969, occurs at time 2021-07-28T08:17:02.000
-At this time, position of A compared to B is:{7,401.3883461258; -3,813.5826094487; 2,485.4271351201}
----
-
-
-First 1 Close approach(es) between YAOGAN 28 and NUSAT-5 (MARYAM).
-
-Close approach from 2021-08-02T08:03:00.000 to 2021-08-02T08:05:00.000
-Closest distance is 8636.586111, occurs at time 2021-08-02T08:04:14.000
-At this time, position of A compared to B is:{-7,931.5267498672; 1,310.1103886892; 3,156.7568546254}
----
-
-
-First 1 Close approach(es) between DIAMOND GREEN and 2018-004AB.
-
-Close approach from 2021-07-31T18:00:00.000 to 2021-07-31T18:02:00.000
-Closest distance is 8579.837757, occurs at time 2021-07-31T18:00:59.000
-At this time, position of A compared to B is:{387.3004188741; 387.7976688193; -8,562.3143653534}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-34 and RESURS P1.
-
-Close approach from 2021-08-03T12:07:00.000 to 2021-08-03T12:09:00.000
-Closest distance is 8356.518759, occurs at time 2021-08-03T12:08:05.000
-At this time, position of A compared to B is:{-399.4312335713; 7,424.9227320491; -3,813.4476382853}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-49 and YAOGAN 21.
-
-Close approach from 2021-07-29T21:36:00.000 to 2021-07-29T21:39:00.000
-Closest distance is 7834.368674, occurs at time 2021-07-29T21:37:18.000
-At this time, position of A compared to B is:{-1,623.4607675163; 3,330.119253378; 6,903.0437789261}
----
-
-
-First 1 Close approach(es) between DIAMOND GREEN and SHAONIAN XING.
-
-Close approach from 2021-07-30T16:46:00.000 to 2021-07-30T16:48:00.000
-Closest distance is 6384.191191, occurs at time 2021-07-30T16:47:01.000
-At this time, position of A compared to B is:{-1,851.0095555843; -1,719.6932517792; -5,862.9613601277}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-49 and SPACEBEE-4.
-
-Close approach from 2021-07-31T20:46:00.000 to 2021-07-31T20:48:00.000
-Closest distance is 3358.422255, occurs at time 2021-07-31T20:47:05.000
-At this time, position of A compared to B is:{-515.3124782935; 2,068.967654303; 2,594.7689564917}
----
-
-
-First 1 Close approach(es) between S-NET D and SJ-6F.
-
-Close approach from 2021-08-03T13:25:00.000 to 2021-08-03T13:27:00.000
-Closest distance is 9098.142176, occurs at time 2021-08-03T13:26:00.000
-At this time, position of A compared to B is:{5,506.4833707949; -5,951.3632705035; -4,127.4819408106}
----
-
-
-First 1 Close approach(es) between INS-1A and SKYSAT-C5.
-
-Close approach from 2021-07-30T10:07:00.000 to 2021-07-30T10:09:00.000
-Closest distance is 5000.524543, occurs at time 2021-07-30T10:07:58.000
-At this time, position of A compared to B is:{292.0614018119; -4,980.8227571217; -333.692224741}
----
-
-
-First 1 Close approach(es) between SJ-6H and AEROCUBE 8D.
-
-Close approach from 2021-08-03T21:30:00.000 to 2021-08-03T21:32:00.000
-Closest distance is 5989.685959, occurs at time 2021-08-03T21:31:01.000
-At this time, position of A compared to B is:{5,531.5674298662; -348.67536119; 2,270.7983497996}
----
-
-
-First 1 Close approach(es) between INS-1A and FLOCK 3P-12.
-
-Close approach from 2021-07-31T21:31:00.000 to 2021-07-31T21:33:00.000
-Closest distance is 5697.084515, occurs at time 2021-07-31T21:31:55.000
-At this time, position of A compared to B is:{1,039.422086593; -3,216.0133774079; -4,586.2437417526}
----
-
-
-First 1 Close approach(es) between SJ-6H and ZACUBE-1 (TSHEPISOSAT).
-
-Close approach from 2021-07-29T03:11:00.000 to 2021-07-29T03:13:00.000
-Closest distance is 9944.937993, occurs at time 2021-07-29T03:12:04.000
-At this time, position of A compared to B is:{8,547.721502454; -3,541.5143142687; -3,646.3577934075}
+First 1 Close approach(es) between AMC-8 (GE-8) and AMC-4 (GE-4).
+
+Close approach from 2021-07-28T06:30:00.000 to 2021-07-28T06:32:00.000
+Closest distance is 9858.402620, occurs at time 2021-07-28T06:30:48.000
+At this time, position of A compared to B is:{9,795.8862759983; 1,089.5170249268; -204.1248219746}
 ---
 
 
@@ -926,355 +10,11 @@ First 2 Close approach(es) between METEOSAT-10 (MSG-3) and EUTELSAT KA-SAT 9A.
 
 Close approach from 2021-07-31T03:37:00.000 to 2021-07-31T03:43:00.000
 Closest distance is 3100.274147, occurs at time 2021-07-31T03:39:37.000
-At this time, position of A compared to B is:{-3,072.9025999606; 402.2004505675; 84.8775317964}
+At this time, position of A compared to B is:{-3,072.9025999457; 402.2004505601; 84.8775317964}
 ---
 Close approach from 2021-08-01T03:34:00.000 to 2021-08-01T03:37:00.000
 Closest distance is 9225.329864, occurs at time 2021-08-01T03:35:47.000
-At this time, position of A compared to B is:{-854.7861899212; -9,185.4495550636; 59.7339120067}
----
-
-
-First 1 Close approach(es) between CORVUS BC3 and ZIYUAN 3-2 (ZY 3-2).
-
-Close approach from 2021-07-28T13:24:00.000 to 2021-07-28T13:27:00.000
-Closest distance is 5924.163456, occurs at time 2021-07-28T13:25:17.000
-At this time, position of A compared to B is:{342.8963789226; -4,789.5950525817; 3,469.5697086211}
----
-
-
-First 2 Close approach(es) between LEMUR-2-ROCKETJONAH and LEMUR-2-BRIANDAVIE.
-
-Close approach from 2021-07-30T18:48:00.000 to 2021-07-30T18:50:00.000
-Closest distance is 5899.085534, occurs at time 2021-07-30T18:48:45.000
-At this time, position of A compared to B is:{-5,555.9171575414; 1,059.8644397869; -1,675.6139320889}
----
-Close approach from 2021-07-30T19:34:00.000 to 2021-07-30T19:36:00.000
-Closest distance is 2803.601254, occurs at time 2021-07-30T19:34:53.000
-At this time, position of A compared to B is:{653.00911322; -1,603.1738597108; 2,205.3554515066}
----
-
-
-First 1 Close approach(es) between AL-FARABI 1 and ARKYD 6A.
-
-Close approach from 2021-07-30T05:36:00.000 to 2021-07-30T05:38:00.000
-Closest distance is 4923.218001, occurs at time 2021-07-30T05:37:07.000
-At this time, position of A compared to B is:{1,287.1809628982; -4,504.8298820292; -1,512.5304595931}
----
-
-
-First 1 Close approach(es) between OPTICUBE 04 and COSMOS 2494 (SKRL-756 2).
-
-Close approach from 2021-08-03T16:33:00.000 to 2021-08-03T16:35:00.000
-Closest distance is 6472.090241, occurs at time 2021-08-03T16:34:00.000
-At this time, position of A compared to B is:{-3,100.2289249663; 1,472.3987177617; -5,487.1280940203}
----
-
-
-First 4 Close approach(es) between METEOSAT-10 (MSG-3) and EUTELSAT 9B.
-
-Close approach from 2021-07-28T03:27:00.000 to 2021-07-28T03:32:00.000
-Closest distance is 4870.145273, occurs at time 2021-07-28T03:29:34.000
-At this time, position of A compared to B is:{73.8633262143; 4,868.7738612425; 88.8834803984}
----
-Close approach from 2021-07-29T03:22:00.000 to 2021-07-29T03:28:00.000
-Closest distance is 4047.974551, occurs at time 2021-07-29T03:25:09.000
-At this time, position of A compared to B is:{1,217.5024491698; -3,860.1124006575; -57.6021231123}
----
-Close approach from 2021-08-01T15:07:00.000 to 2021-08-01T15:12:00.000
-Closest distance is 6319.166173, occurs at time 2021-08-01T15:09:37.000
-At this time, position of A compared to B is:{-303.2156273052; -6,311.6816311665; -50.9547923226}
----
-Close approach from 2021-08-02T15:02:00.000 to 2021-08-02T15:08:00.000
-Closest distance is 2831.059864, occurs at time 2021-08-02T15:05:09.000
-At this time, position of A compared to B is:{-1,338.6932470277; 2,493.3142717592; 78.640223571}
----
-
-
-First 5 Close approach(es) between AL-FARABI 1 and FLOCK 3P-74.
-
-Close approach from 2021-07-30T18:57:00.000 to 2021-07-30T19:00:00.000
-Closest distance is 8637.496826, occurs at time 2021-07-30T18:58:35.000
-At this time, position of A compared to B is:{-894.9418803508; 8,527.9856942162; -1,038.6965137003}
----
-Close approach from 2021-07-30T19:44:00.000 to 2021-07-30T19:48:00.000
-Closest distance is 3194.118306, occurs at time 2021-07-30T19:45:45.000
-At this time, position of A compared to B is:{616.8362084397; -776.6719695404; -3,036.2288283929}
----
-Close approach from 2021-07-30T20:31:00.000 to 2021-07-30T20:35:00.000
-Closest distance is 1214.053531, occurs at time 2021-07-30T20:32:55.000
-At this time, position of A compared to B is:{128.8466224617; -151.5983206336; -1,197.6403767969}
----
-Close approach from 2021-07-30T21:19:00.000 to 2021-07-30T21:21:00.000
-Closest distance is 8446.800855, occurs at time 2021-07-30T21:19:58.000
-At this time, position of A compared to B is:{-1,225.2237675131; 7,816.000367693; -2,959.2920875689}
----
-Close approach from 2021-07-30T22:06:00.000 to 2021-07-30T22:08:00.000
-Closest distance is 9005.771897, occurs at time 2021-07-30T22:07:14.000
-At this time, position of A compared to B is:{1,281.137867219; -8,819.1359806434; -1,298.2502751686}
----
-
-
-First 1 Close approach(es) between LEMUR-2-FURIAUS and QB50P2.
-
-Close approach from 2021-08-03T15:28:00.000 to 2021-08-03T15:30:00.000
-Closest distance is 8692.917707, occurs at time 2021-08-03T15:29:00.000
-At this time, position of A compared to B is:{1,528.8049139348; -5,999.1003047784; -6,102.4887810154}
----
-
-
-First 1 Close approach(es) between ORBCOMM FM23 and LUSAT (LO-19).
-
-Close approach from 2021-08-02T05:30:00.000 to 2021-08-02T05:32:00.000
-Closest distance is 4669.214547, occurs at time 2021-08-02T05:30:59.000
-At this time, position of A compared to B is:{-1,913.1784866778; 2,769.4775606827; 3,235.9398331903}
----
-
-
-First 1 Close approach(es) between LILACSAT-2 and XW-2B.
-
-Close approach from 2021-08-01T05:05:00.000 to 2021-08-01T05:07:00.000
-Closest distance is 5490.365566, occurs at time 2021-08-01T05:05:41.000
-At this time, position of A compared to B is:{1,727.7363328661; 2,032.2958735569; 4,798.8347228542}
----
-
-
-First 1 Close approach(es) between PICSAT and ICEYE-X1.
-
-Close approach from 2021-07-31T02:34:00.000 to 2021-07-31T02:36:00.000
-Closest distance is 4804.683191, occurs at time 2021-07-31T02:35:09.000
-At this time, position of A compared to B is:{-1,203.2923281013; 2,689.9795972912; 3,794.8752154419}
----
-
-
-First 1 Close approach(es) between PICSAT and LEMUR-2-PETERWEBSTER.
-
-Close approach from 2021-07-30T07:41:00.000 to 2021-07-30T07:43:00.000
-Closest distance is 5459.656718, occurs at time 2021-07-30T07:42:04.000
-At this time, position of A compared to B is:{1,167.7142314462; -2,287.5319685324; -4,817.8306786176}
----
-
-
-First 1 Close approach(es) between PICSAT and HODOYOSHI-1.
-
-Close approach from 2021-07-31T07:16:00.000 to 2021-07-31T07:18:00.000
-Closest distance is 8200.863641, occurs at time 2021-07-31T07:17:21.000
-At this time, position of A compared to B is:{-1,656.7117204987; 7,075.3636400343; -3,801.1445758771}
----
-
-
-First 1 Close approach(es) between LEMUR-2-GREENBERG and 2017-042C.
-
-Close approach from 2021-08-01T02:31:00.000 to 2021-08-01T02:33:00.000
-Closest distance is 3783.660337, occurs at time 2021-08-01T02:31:54.000
-At this time, position of A compared to B is:{301.7345557236; 3,144.9068884089; -2,081.9708130667}
----
-
-
-First 5 Close approach(es) between ANIK G1 and ANIK F1R.
-
-Close approach from 2021-07-28T17:46:00.000 to 2021-07-28T18:52:00.000
-Closest distance is 1816.906504, occurs at time 2021-07-28T18:18:48.000
-At this time, position of A compared to B is:{1,228.8688074388; -1,314.0406607985; -253.629337164}
----
-Close approach from 2021-07-29T17:44:00.000 to 2021-07-29T18:49:00.000
-Closest distance is 1846.237015, occurs at time 2021-07-29T18:16:27.000
-At this time, position of A compared to B is:{339.2769420817; -1,788.5452586859; -307.5518299027}
----
-Close approach from 2021-07-30T17:42:00.000 to 2021-07-30T18:44:00.000
-Closest distance is 2321.110601, occurs at time 2021-07-30T18:13:07.000
-At this time, position of A compared to B is:{-563.205942478; -2,223.8127990142; -353.5677045585}
----
-Close approach from 2021-07-31T17:38:00.000 to 2021-07-31T18:39:00.000
-Closest distance is 3019.396228, occurs at time 2021-07-31T18:08:39.000
-At this time, position of A compared to B is:{-1,485.5172131993; -2,599.6087169945; -389.9060256731}
----
-Close approach from 2021-08-01T17:35:00.000 to 2021-08-01T18:32:00.000
-Closest distance is 3821.547422, occurs at time 2021-08-01T18:03:25.000
-At this time, position of A compared to B is:{-2,425.0047683045; -2,925.0858988091; -409.2053932057}
----
-
-
-First 1 Close approach(es) between IRIDIUM 131 and LUSAT (LO-19).
-
-Close approach from 2021-07-30T10:17:00.000 to 2021-07-30T10:19:00.000
-Closest distance is 8282.811131, occurs at time 2021-07-30T10:18:00.000
-At this time, position of A compared to B is:{-3,987.042933844; 6,021.5511942019; 4,055.7823039273}
----
-
-
-First 5 Close approach(es) between LEMUR-2-GREENBERG and CORVUS BC2.
-
-Close approach from 2021-07-31T15:15:00.000 to 2021-07-31T15:20:00.000
-Closest distance is 9829.002488, occurs at time 2021-07-31T15:17:15.000
-At this time, position of A compared to B is:{1,024.1889810747; 9,766.732173821; 413.8471807856}
----
-Close approach from 2021-07-31T16:40:00.000 to 2021-07-31T17:08:00.000
-Closest distance is 3111.441475, occurs at time 2021-07-31T16:53:32.000
-At this time, position of A compared to B is:{201.8920394822; 3,099.7067431136; -179.2366209608}
----
-Close approach from 2021-07-31T17:37:00.000 to 2021-07-31T17:51:00.000
-Closest distance is 9259.232020, occurs at time 2021-07-31T17:44:03.000
-At this time, position of A compared to B is:{401.9262175915; -9,229.3765631472; -624.8529188577}
----
-Close approach from 2021-07-31T18:13:00.000 to 2021-07-31T18:47:00.000
-Closest distance is 3674.461506, occurs at time 2021-07-31T18:29:42.000
-At this time, position of A compared to B is:{-495.2816443749; -3,599.6588407866; -546.6440181984}
----
-Close approach from 2021-07-31T19:01:00.000 to 2021-07-31T19:35:00.000
-Closest distance is 2773.059231, occurs at time 2021-07-31T19:18:25.000
-At this time, position of A compared to B is:{-47.3762124397; -2,623.9931813958; 895.6968112653}
----
-
-
-First 1 Close approach(es) between 2018-004Z and PINA 2A.
-
-Close approach from 2021-07-28T13:53:00.000 to 2021-07-28T13:55:00.000
-Closest distance is 4892.214437, occurs at time 2021-07-28T13:54:00.000
-At this time, position of A compared to B is:{3,259.3375853227; 3,645.7597614086; -137.5367902443}
----
-
-
-First 1 Close approach(es) between 2018-004Z and LEMUR-2-PETERWEBSTER.
-
-Close approach from 2021-08-03T01:18:00.000 to 2021-08-03T01:20:00.000
-Closest distance is 6734.546664, occurs at time 2021-08-03T01:18:50.000
-At this time, position of A compared to B is:{1,505.7731075395; -2,174.1290051314; -6,193.5393097997}
----
-
-
-First 2 Close approach(es) between 2017-042AA and NORSAT 2.
-
-Close approach from 2021-08-02T23:08:00.000 to 2021-08-02T23:11:00.000
-Closest distance is 2658.904028, occurs at time 2021-08-02T23:09:33.000
-At this time, position of A compared to B is:{499.2948475126; 717.7496809302; 2,511.0377699882}
----
-Close approach from 2021-08-02T23:57:00.000 to 2021-08-02T23:59:00.000
-Closest distance is 5509.327026, occurs at time 2021-08-02T23:57:45.000
-At this time, position of A compared to B is:{54.5705176581; 4,910.0740472965; -2,498.1751711397}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-61 and YAOGAN 21.
-
-Close approach from 2021-07-28T10:56:00.000 to 2021-07-28T10:58:00.000
-Closest distance is 9212.870376, occurs at time 2021-07-28T10:57:05.000
-At this time, position of A compared to B is:{768.8320349323; -7,843.6507482948; 4,771.0607623411}
----
-
-
-First 1 Close approach(es) between LEMUR-2-ZACHARY and 2017-042M.
-
-Close approach from 2021-08-01T06:38:00.000 to 2021-08-01T06:41:00.000
-Closest distance is 3583.734167, occurs at time 2021-08-01T06:39:29.000
-At this time, position of A compared to B is:{-499.6117501635; -488.1794844673; -3,514.9992138268}
----
-
-
-First 1 Close approach(es) between 2017-042U and CORVUS BC1.
-
-Close approach from 2021-08-03T23:44:00.000 to 2021-08-03T23:47:00.000
-Closest distance is 7045.686904, occurs at time 2021-08-03T23:45:41.000
-At this time, position of A compared to B is:{599.8332973798; 6,901.3437533811; -1,285.8298327206}
----
-
-
-First 5 Close approach(es) between RASCOM-QAF 1R and EUTELSAT 3B.
-
-Close approach from 2021-07-29T12:06:00.000 to 2021-07-29T12:27:00.000
-Closest distance is 9552.862350, occurs at time 2021-07-29T12:16:41.000
-At this time, position of A compared to B is:{5,696.4613581263; 7,637.0843271688; -694.5862519575}
----
-Close approach from 2021-07-30T11:41:00.000 to 2021-07-30T12:40:00.000
-Closest distance is 5091.175270, occurs at time 2021-07-30T12:10:40.000
-At this time, position of A compared to B is:{2,572.2243547365; 4,372.2916276008; -432.1960448516}
----
-Close approach from 2021-07-31T11:31:00.000 to 2021-07-31T12:39:00.000
-Closest distance is 1328.187506, occurs at time 2021-07-31T12:04:37.000
-At this time, position of A compared to B is:{-603.6086380109; 1,165.7170313895; -202.0951918662}
----
-Close approach from 2021-08-01T11:28:00.000 to 2021-08-01T12:29:00.000
-Closest distance is 4313.204426, occurs at time 2021-08-01T11:58:25.000
-At this time, position of A compared to B is:{-3,830.3226161674; -1,983.0139301792; -4.1020267307}
----
-Close approach from 2021-08-02T11:35:00.000 to 2021-08-02T12:09:00.000
-Closest distance is 8735.341253, occurs at time 2021-08-02T11:51:59.000
-At this time, position of A compared to B is:{-7,113.5351869129; -5,067.4366509132; 157.7648110099}
----
-
-
-First 1 Close approach(es) between DEMOSAT 2 and FLOCK 3P'-2.
-
-Close approach from 2021-07-28T14:25:00.000 to 2021-07-28T16:09:00.000
-Closest distance is 1423.786190, occurs at time 2021-07-28T15:15:53.000
-At this time, position of A compared to B is:{216.32842949; 502.2081516529; -1,314.5935100308}
----
-
-
-First 1 Close approach(es) between DEMOSAT 2 and QSAT-EOS.
-
-Close approach from 2021-07-30T08:17:00.000 to 2021-07-30T08:19:00.000
-Closest distance is 7087.663501, occurs at time 2021-07-30T08:18:19.000
-At this time, position of A compared to B is:{746.2846272175; -4,497.8528565066; 5,426.541517701}
----
-
-
-First 1 Close approach(es) between DEMOSAT 2 and 2018-004Z.
-
-Close approach from 2021-08-02T22:56:00.000 to 2021-08-02T22:59:00.000
-Closest distance is 2748.281764, occurs at time 2021-08-02T22:57:10.000
-At this time, position of A compared to B is:{-222.6333089772; -424.6859818736; 2,706.1280240817}
----
-
-
-First 1 Close approach(es) between DEMOSAT 2 and LKW-2.
-
-Close approach from 2021-08-02T20:35:00.000 to 2021-08-02T20:37:00.000
-Closest distance is 6680.795682, occurs at time 2021-08-02T20:35:43.000
-At this time, position of A compared to B is:{-664.8707747454; 4,555.1340092718; -4,841.6662368514}
----
-
-
-First 1 Close approach(es) between YAOGAN 2 and DMC3-FM3.
-
-Close approach from 2021-07-30T17:17:00.000 to 2021-07-30T17:19:00.000
-Closest distance is 5411.957380, occurs at time 2021-07-30T17:18:00.000
-At this time, position of A compared to B is:{-4,192.1492803087; 3,420.0869394357; 134.8051176788}
----
-
-
-First 3 Close approach(es) between SES-9 and SES-7 (PROTOSTAR 2).
-
-Close approach from 2021-07-28T12:58:00.000 to 2021-07-28T13:33:00.000
-Closest distance is 7390.003648, occurs at time 2021-07-28T13:15:19.000
-At this time, position of A compared to B is:{-2,466.46844556; -6,945.1132410169; -542.3000923295}
----
-Close approach from 2021-07-29T12:57:00.000 to 2021-07-29T13:29:00.000
-Closest distance is 7917.890743, occurs at time 2021-07-29T13:12:41.000
-At this time, position of A compared to B is:{-4,737.7515443787; -6,276.2831293941; -924.6481515106}
----
-Close approach from 2021-07-30T12:57:00.000 to 2021-07-30T13:20:00.000
-Closest distance is 8982.647447, occurs at time 2021-07-30T13:08:16.000
-At this time, position of A compared to B is:{-6,935.7102912441; -5,564.4604091346; -1,273.0507717056}
----
-
-
-First 1 Close approach(es) between S-NET B and SKYSAT-A.
-
-Close approach from 2021-08-02T17:57:00.000 to 2021-08-02T17:59:00.000
-Closest distance is 7987.768319, occurs at time 2021-08-02T17:58:00.000
-At this time, position of A compared to B is:{-7,579.5811057906; 1,332.8141740076; -2,139.6259850119}
----
-
-
-First 2 Close approach(es) between ASTRA 3A and TKSAT-1 (TUPAC KATARI).
-
-Close approach from 2021-08-03T01:07:00.000 to 2021-08-03T01:09:00.000
-Closest distance is 5759.718874, occurs at time 2021-08-03T01:07:42.000
-At this time, position of A compared to B is:{5,506.223511599; 1,688.1028223634; -78.5684830039}
----
-Close approach from 2021-08-03T13:05:00.000 to 2021-08-03T13:07:00.000
-Closest distance is 6826.085153, occurs at time 2021-08-03T13:05:54.000
-At this time, position of A compared to B is:{5,777.8867367432; 3,614.1360304207; -386.6317799176}
+At this time, position of A compared to B is:{-854.7861899212; -9,185.4495550599; 59.7339120067}
 ---
 
 
@@ -1282,31 +22,1139 @@ First 5 Close approach(es) between NAYIF-1 (EO-88) and FLOCK 3P-32.
 
 Close approach from 2021-08-03T03:03:00.000 to 2021-08-03T03:08:00.000
 Closest distance is 8672.774094, occurs at time 2021-08-03T03:05:12.000
-At this time, position of A compared to B is:{3,114.1150282924; -7,818.3958295978; -2,095.7062614905}
+At this time, position of A compared to B is:{3,114.1150282966; -7,818.3958295962; -2,095.7062614905}
 ---
 Close approach from 2021-08-03T04:34:00.000 to 2021-08-03T04:44:00.000
 Closest distance is 2861.092065, occurs at time 2021-08-03T04:39:06.000
-At this time, position of A compared to B is:{920.2444805732; -1,352.1426569421; -2,347.4897518884}
+At this time, position of A compared to B is:{920.2444805742; -1,352.1426569413; -2,347.4897518922}
 ---
 Close approach from 2021-08-03T05:22:00.000 to 2021-08-03T05:30:00.000
 Closest distance is 4621.694428, occurs at time 2021-08-03T05:26:00.000
-At this time, position of A compared to B is:{-572.3455121469; 4,519.5332879297; -778.6519533088}
+At this time, position of A compared to B is:{-572.3455121474; 4,519.5332879297; -778.6519533088}
 ---
 Close approach from 2021-08-03T06:09:00.000 to 2021-08-03T06:17:00.000
 Closest distance is 5733.929956, occurs at time 2021-08-03T06:12:59.000
-At this time, position of A compared to B is:{-1,366.6248058031; 5,088.7903770478; -2,261.5264492882}
+At this time, position of A compared to B is:{-1,366.624805807; 5,088.790377047; -2,261.5264492882}
 ---
 Close approach from 2021-08-03T06:56:00.000 to 2021-08-03T07:05:00.000
 Closest distance is 2447.433827, occurs at time 2021-08-03T07:00:29.000
-At this time, position of A compared to B is:{392.4097867385; -2,204.6351331584; -987.6896414552}
+At this time, position of A compared to B is:{392.4097867354; -2,204.6351331589; -987.6896414552}
 ---
 
 
-First 1 Close approach(es) between COMPASS 2 and LEMUR-2-SHAINAJOHL.
+First 1 Close approach(es) between WNISAT 1R and APRIZESAT 7.
 
-Close approach from 2021-07-29T13:33:00.000 to 2021-07-29T13:35:00.000
-Closest distance is 2588.668098, occurs at time 2021-07-29T13:34:01.000
-At this time, position of A compared to B is:{197.5658050512; -121.1354544305; -2,578.2739330763}
+Close approach from 2021-08-02T06:03:00.000 to 2021-08-02T06:05:00.000
+Closest distance is 5550.872792, occurs at time 2021-08-02T06:04:00.000
+At this time, position of A compared to B is:{1,468.9471837704; -4,892.1186690335; 2,172.9145992156}
+---
+
+
+First 1 Close approach(es) between LITUANICASAT-2 and INS-1B.
+
+Close approach from 2021-08-02T11:21:00.000 to 2021-08-02T11:23:00.000
+Closest distance is 5814.581211, occurs at time 2021-08-02T11:21:57.000
+At this time, position of A compared to B is:{712.2423274609; -1,023.4453588275; -5,679.3155510398}
+---
+
+
+First 1 Close approach(es) between BSAT-3A and CHINASAT 16 (SJ-13).
+
+Close approach from 2021-07-29T10:41:00.000 to 2021-07-29T10:52:00.000
+Closest distance is 9965.263388, occurs at time 2021-07-29T10:46:27.000
+At this time, position of A compared to B is:{-6,660.6988064386; -7,406.5568717346; -290.6563364244}
+---
+
+
+First 1 Close approach(es) between GALAXY 13 (HORIZONS 1) and GOES 15.
+
+Close approach from 2021-07-28T07:56:00.000 to 2021-07-28T08:17:00.000
+Closest distance is 5631.580240, occurs at time 2021-07-28T08:06:28.000
+At this time, position of A compared to B is:{2,779.0696663; 4,897.8645534143; 48.8938474575}
+---
+
+
+First 1 Close approach(es) between 2017-042C and SJ-9B.
+
+Close approach from 2021-08-01T20:42:00.000 to 2021-08-01T20:44:00.000
+Closest distance is 8275.341507, occurs at time 2021-08-01T20:43:00.000
+At this time, position of A compared to B is:{-2,186.9000624933; 7,526.4227776127; 2,655.5047254965}
+---
+
+
+First 2 Close approach(es) between ASTRA 1M and USA 164 (MILSTAR-2 3).
+
+Close approach from 2021-08-02T03:57:00.000 to 2021-08-02T03:59:00.000
+Closest distance is 9227.511103, occurs at time 2021-08-02T03:58:04.000
+At this time, position of A compared to B is:{-3,306.8038432673; 8,593.8608767875; 597.9671703813}
+---
+Close approach from 2021-08-03T03:53:00.000 to 2021-08-03T03:55:00.000
+Closest distance is 4347.957786, occurs at time 2021-08-03T03:53:56.000
+At this time, position of A compared to B is:{-820.0376947895; 4,265.5462613739; 193.3654049497}
+---
+
+
+First 4 Close approach(es) between SES-2 and ASTRA 3A.
+
+Close approach from 2021-07-28T01:30:00.000 to 2021-07-28T01:32:00.000
+Closest distance is 4916.604709, occurs at time 2021-07-28T01:30:55.000
+At this time, position of A compared to B is:{608.5804803818; -4,867.0662338361; -338.0797878701}
+---
+Close approach from 2021-07-28T13:28:00.000 to 2021-07-28T13:30:00.000
+Closest distance is 5654.183403, occurs at time 2021-07-28T13:29:10.000
+At this time, position of A compared to B is:{-189.4421483167; -5,650.9692722037; -21.1638754957}
+---
+Close approach from 2021-07-29T01:26:00.000 to 2021-07-29T01:28:00.000
+Closest distance is 9299.596180, occurs at time 2021-07-29T01:27:08.000
+At this time, position of A compared to B is:{5,453.1358517446; -7,525.9566328228; -325.2310827379}
+---
+Close approach from 2021-07-29T13:24:00.000 to 2021-07-29T13:26:00.000
+Closest distance is 5812.910250, occurs at time 2021-07-29T13:25:21.000
+At this time, position of A compared to B is:{-4,943.5164431557; -3,041.5266596824; 317.3110999917}
+---
+
+
+First 2 Close approach(es) between LEMUR-2-BROWNCOW and FLOCK 3P-54.
+
+Close approach from 2021-07-29T10:13:00.000 to 2021-07-29T10:15:00.000
+Closest distance is 7487.760621, occurs at time 2021-07-29T10:13:58.000
+At this time, position of A compared to B is:{858.8583631618; 2,950.2431034885; -6,828.2491940791}
+---
+Close approach from 2021-07-29T11:00:00.000 to 2021-07-29T11:02:00.000
+Closest distance is 8604.135269, occurs at time 2021-07-29T11:01:04.000
+At this time, position of A compared to B is:{133.2646657649; 1,707.6611306649; -8,431.9201682117}
+---
+
+
+First 1 Close approach(es) between DMSP 5D-3 F16 (USA 172) and COSMOS 2428.
+
+Close approach from 2021-08-01T23:56:00.000 to 2021-08-01T23:58:00.000
+Closest distance is 3956.433620, occurs at time 2021-08-01T23:56:59.000
+At this time, position of A compared to B is:{-2,175.1877994915; 3,189.5366631138; -865.3212706661}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P-12 and RESURS P1.
+
+Close approach from 2021-07-31T23:05:00.000 to 2021-07-31T23:07:00.000
+Closest distance is 4160.410162, occurs at time 2021-07-31T23:05:55.000
+At this time, position of A compared to B is:{158.1736748652; 2,859.8378993077; -3,017.5024426412}
+---
+
+
+First 3 Close approach(es) between CHINASAT 2A (ZX 2A) and THURAYA-3.
+
+Close approach from 2021-07-28T22:03:00.000 to 2021-07-28T22:06:00.000
+Closest distance is 7633.959451, occurs at time 2021-07-28T22:04:31.000
+At this time, position of A compared to B is:{918.6373282522; -7,570.071228696; -357.0209296562}
+---
+Close approach from 2021-07-29T21:59:00.000 to 2021-07-29T22:02:00.000
+Closest distance is 1932.191985, occurs at time 2021-07-29T22:00:39.000
+At this time, position of A compared to B is:{-704.3245200217; -1,799.1403557863; 19.6676388036}
+---
+Close approach from 2021-07-30T21:56:00.000 to 2021-07-30T21:58:00.000
+Closest distance is 4635.080580, occurs at time 2021-07-30T21:56:49.000
+At this time, position of A compared to B is:{-2,332.3948733211; 4,003.6916463021; 119.8304519209}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P-31 and INS-1A.
+
+Close approach from 2021-07-29T02:39:00.000 to 2021-07-29T02:41:00.000
+Closest distance is 5760.710469, occurs at time 2021-07-29T02:40:00.000
+At this time, position of A compared to B is:{432.014055404; 967.6313649357; -5,662.4057167526}
+---
+
+
+First 4 Close approach(es) between BSAT-3A and JCSAT-15.
+
+Close approach from 2021-07-29T15:46:00.000 to 2021-07-29T17:31:00.000
+Closest distance is 8157.295126, occurs at time 2021-07-29T16:38:15.000
+At this time, position of A compared to B is:{-7,091.6425382383; -3,863.5894418359; -1,150.1071699759}
+---
+Close approach from 2021-07-30T15:08:00.000 to 2021-07-30T18:14:00.000
+Closest distance is 3239.423576, occurs at time 2021-07-30T16:39:43.000
+At this time, position of A compared to B is:{-2,966.6382739916; -1,165.9350504056; -577.5100962723}
+---
+Close approach from 2021-07-31T14:56:00.000 to 2021-07-31T18:31:00.000
+Closest distance is 1990.117419, occurs at time 2021-07-31T16:42:12.000
+At this time, position of A compared to B is:{1,040.5932654291; 1,686.6863266192; -181.1690673402}
+---
+Close approach from 2021-08-01T15:17:00.000 to 2021-08-01T18:22:00.000
+Closest distance is 6803.617677, occurs at time 2021-08-01T16:49:11.000
+At this time, position of A compared to B is:{4,900.8515928239; 4,719.0846555904; -33.2741459709}
+---
+
+
+First 1 Close approach(es) between NORSAT 1 and 2017-042F.
+
+Close approach from 2021-07-30T11:41:00.000 to 2021-07-30T11:43:00.000
+Closest distance is 8326.510309, occurs at time 2021-07-30T11:42:14.000
+At this time, position of A compared to B is:{-1,973.6311428067; -5,570.1202420692; -5,865.9453225331}
+---
+
+
+First 1 Close approach(es) between INS-1A and FLOCK 3P-12.
+
+Close approach from 2021-07-31T21:31:00.000 to 2021-07-31T21:33:00.000
+Closest distance is 5697.084515, occurs at time 2021-07-31T21:31:55.000
+At this time, position of A compared to B is:{1,039.4220865914; -3,216.0133774084; -4,586.2437417507}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P-24 and FLOCK 3P-2.
+
+Close approach from 2021-08-02T20:16:00.000 to 2021-08-02T20:18:00.000
+Closest distance is 5779.094834, occurs at time 2021-08-02T20:17:08.000
+At this time, position of A compared to B is:{5.5188030681; 3,384.9656836356; -4,684.006187249}
+---
+
+
+First 1 Close approach(es) between SJ-11-03 and SJ-11-01.
+
+Close approach from 2021-07-29T16:13:00.000 to 2021-07-29T16:15:00.000
+Closest distance is 6100.869677, occurs at time 2021-07-29T16:14:16.000
+At this time, position of A compared to B is:{3,288.609546788; 4,279.7895091145; -2,844.1272507478}
+---
+
+
+First 5 Close approach(es) between HORIZONS 2 and RADUGA-1M 2.
+
+Close approach from 2021-07-28T01:45:00.000 to 2021-07-28T02:55:00.000
+Closest distance is 3873.789409, occurs at time 2021-07-28T02:19:57.000
+At this time, position of A compared to B is:{-3,839.3727037534; -508.2957982793; -84.2437635361}
+---
+Close approach from 2021-07-28T13:56:00.000 to 2021-07-28T14:40:00.000
+Closest distance is 8145.113712, occurs at time 2021-07-28T14:17:35.000
+At this time, position of A compared to B is:{-7,817.8964271657; 2,266.213423565; 296.0566719545}
+---
+Close approach from 2021-07-29T01:52:00.000 to 2021-07-29T02:40:00.000
+Closest distance is 7640.193876, occurs at time 2021-07-29T02:15:47.000
+At this time, position of A compared to B is:{-7,540.5274242274; 1,185.8138920665; -326.8853700011}
+---
+Close approach from 2021-07-29T13:41:00.000 to 2021-07-29T14:48:00.000
+Closest distance is 4161.689999, occurs at time 2021-07-29T14:14:39.000
+At this time, position of A compared to B is:{-4,121.5980491526; 565.1043793708; 112.9168084528}
+---
+Close approach from 2021-07-30T13:35:00.000 to 2021-07-30T14:47:00.000
+Closest distance is 1189.901935, occurs at time 2021-07-30T14:11:11.000
+At this time, position of A compared to B is:{-409.3860102184; -1,115.5382892042; -62.0002831028}
+---
+
+
+First 1 Close approach(es) between ST-2 and WGS F4 (USA 233).
+
+Close approach from 2021-08-03T12:34:00.000 to 2021-08-03T13:12:00.000
+Closest distance is 8368.542668, occurs at time 2021-08-03T12:52:57.000
+At this time, position of A compared to B is:{-8,227.3442210332; -754.2262622416; -1,332.0871598556}
+---
+
+
+First 1 Close approach(es) between ORBCOMM FM23 and LUSAT (LO-19).
+
+Close approach from 2021-08-02T05:30:00.000 to 2021-08-02T05:32:00.000
+Closest distance is 4669.214547, occurs at time 2021-08-02T05:30:59.000
+At this time, position of A compared to B is:{-1,913.1784866797; 2,769.4775606827; 3,235.9398331922}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P-23 and FLOCK 3P-24.
+
+Close approach from 2021-07-30T20:03:00.000 to 2021-07-30T20:05:00.000
+Closest distance is 4721.923879, occurs at time 2021-07-30T20:04:12.000
+At this time, position of A compared to B is:{-631.9643914422; -573.0762017073; 4,644.2189649483}
+---
+
+
+First 1 Close approach(es) between ITUPSAT1 and PLEIADES 1A.
+
+Close approach from 2021-08-02T10:20:00.000 to 2021-08-02T10:22:00.000
+Closest distance is 9604.175499, occurs at time 2021-08-02T10:21:00.000
+At this time, position of A compared to B is:{7,170.4495160004; 6,110.7414490874; -1,866.4618136697}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-SHAINAJOHL and INS-1A.
+
+Close approach from 2021-08-03T08:31:00.000 to 2021-08-03T08:33:00.000
+Closest distance is 2931.583083, occurs at time 2021-08-03T08:32:05.000
+At this time, position of A compared to B is:{905.5101495165; -1,861.7061716863; -2,075.6398700671}
+---
+
+
+First 1 Close approach(es) between ABS-7 and GALAXY 25 (G-25).
+
+Close approach from 2021-07-28T18:29:00.000 to 2021-07-28T18:33:00.000
+Closest distance is 9499.203823, occurs at time 2021-07-28T18:31:01.000
+At this time, position of A compared to B is:{3,882.1896997727; 8,664.314493835; -305.1733389412}
+---
+
+
+First 1 Close approach(es) between IRIDIUM 141 and ORBCOMM FM15.
+
+Close approach from 2021-08-03T04:04:00.000 to 2021-08-03T04:06:00.000
+Closest distance is 6087.770554, occurs at time 2021-08-03T04:04:59.000
+At this time, position of A compared to B is:{-306.0245330175; 3,539.9053004037; 4,943.3156651021}
+---
+
+
+First 1 Close approach(es) between NIUSAT and FLOCK 3P-2.
+
+Close approach from 2021-07-31T11:42:00.000 to 2021-07-31T11:44:00.000
+Closest distance is 8556.012295, occurs at time 2021-07-31T11:43:00.000
+At this time, position of A compared to B is:{-1,102.7513269893; -5,323.9738966921; 6,606.4050631784}
+---
+
+
+First 1 Close approach(es) between FLOCK 2P-9 and FLOCK 3P'-2.
+
+Close approach from 2021-07-28T05:54:00.000 to 2021-07-28T05:56:00.000
+Closest distance is 9575.411533, occurs at time 2021-07-28T05:54:59.000
+At this time, position of A compared to B is:{1,376.9651857944; -6,719.7753430148; -6,681.0996289421}
+---
+
+
+First 1 Close approach(es) between PEASSS and FLOCK 3P-12.
+
+Close approach from 2021-07-31T16:01:00.000 to 2021-07-31T16:03:00.000
+Closest distance is 1711.310903, occurs at time 2021-07-31T16:01:49.000
+At this time, position of A compared to B is:{107.4424579254; -1,109.6402679176; 1,298.3603502437}
+---
+
+
+First 1 Close approach(es) between PEASSS and INS-1A.
+
+Close approach from 2021-08-01T06:57:00.000 to 2021-08-01T06:59:00.000
+Closest distance is 3215.137934, occurs at time 2021-08-01T06:58:22.000
+At this time, position of A compared to B is:{-129.7656531847; 3,168.2459918841; -531.4980177898}
+---
+
+
+First 2 Close approach(es) between EROS B and TIANHUI 1-02.
+
+Close approach from 2021-08-03T17:16:00.000 to 2021-08-03T17:18:00.000
+Closest distance is 4896.390001, occurs at time 2021-08-03T17:16:52.000
+At this time, position of A compared to B is:{-4,096.0249567523; 1,737.258255866; -2,044.2965411805}
+---
+Close approach from 2021-08-03T22:47:00.000 to 2021-08-03T22:49:00.000
+Closest distance is 4362.901206, occurs at time 2021-08-03T22:47:50.000
+At this time, position of A compared to B is:{2,149.8378261075; -502.3071612559; -3,763.0827486617}
+---
+
+
+First 1 Close approach(es) between APRIZESAT 6 and CARTOSAT-2A.
+
+Close approach from 2021-07-30T06:59:00.000 to 2021-07-30T07:01:00.000
+Closest distance is 3883.152173, occurs at time 2021-07-30T07:00:00.000
+At this time, position of A compared to B is:{-1,344.9895505705; 2,907.4169952329; 2,194.7210124843}
+---
+
+
+First 1 Close approach(es) between COSMOS 2439 and COSMOS 2391.
+
+Close approach from 2021-08-01T07:02:00.000 to 2021-08-01T07:04:00.000
+Closest distance is 9117.371467, occurs at time 2021-08-01T07:03:02.000
+At this time, position of A compared to B is:{-8,247.5563183608; -2,274.8152671142; 3,151.1097637322}
+---
+
+
+First 5 Close approach(es) between INTELSAT 36 (IS-36) and INTELSAT 20 (IS-20).
+
+Close approach from 2021-07-29T15:49:00.000 to 2021-07-29T16:22:00.000
+Closest distance is 9503.281578, occurs at time 2021-07-29T16:05:44.000
+At this time, position of A compared to B is:{-7,892.4894910995; -5,293.4616881832; -15.2888353367}
+---
+Close approach from 2021-07-30T15:40:00.000 to 2021-07-30T16:25:00.000
+Closest distance is 8977.912909, occurs at time 2021-07-30T16:02:34.000
+At this time, position of A compared to B is:{-7,132.1234453693; -5,448.392487295; 225.2879697348}
+---
+Close approach from 2021-07-31T15:33:00.000 to 2021-07-31T16:26:00.000
+Closest distance is 8487.199966, occurs at time 2021-07-31T15:59:43.000
+At this time, position of A compared to B is:{-6,375.6754357871; -5,584.3522514552; 445.3492223845}
+---
+Close approach from 2021-08-01T15:28:00.000 to 2021-08-01T16:26:00.000
+Closest distance is 8037.480655, occurs at time 2021-08-01T15:56:50.000
+At this time, position of A compared to B is:{-5,616.405635342; -5,712.7707125545; 649.102308053}
+---
+Close approach from 2021-08-02T15:23:00.000 to 2021-08-02T16:24:00.000
+Closest distance is 7642.203464, occurs at time 2021-08-02T15:53:40.000
+At this time, position of A compared to B is:{-4,850.8478307985; -5,845.0877258852; 841.1293463601}
+---
+
+
+First 1 Close approach(es) between 2017-042U and CORVUS BC1.
+
+Close approach from 2021-08-03T23:44:00.000 to 2021-08-03T23:47:00.000
+Closest distance is 7045.686904, occurs at time 2021-08-03T23:45:41.000
+At this time, position of A compared to B is:{599.8332973779; 6,901.3437533812; -1,285.8298327206}
+---
+
+
+First 2 Close approach(es) between LEMUR-2-MCCAFFERTY and LEMUR-2-DAVEWILSON.
+
+Close approach from 2021-07-28T17:29:00.000 to 2021-07-28T17:34:00.000
+Closest distance is 8177.624202, occurs at time 2021-07-28T17:31:22.000
+At this time, position of A compared to B is:{1,868.8492620951; -7,681.3009839295; -2,092.4997543665}
+---
+Close approach from 2021-07-28T18:15:00.000 to 2021-07-28T18:22:00.000
+Closest distance is 2300.676605, occurs at time 2021-07-28T18:18:18.000
+At this time, position of A compared to B is:{94.7797017224; -1,492.199754897; 1,748.5621351525}
+---
+
+
+First 2 Close approach(es) between FLOCK 3P-70 and LEMUR-2-NOGUECORREIG.
+
+Close approach from 2021-07-30T19:26:00.000 to 2021-07-30T19:29:00.000
+Closest distance is 1888.551645, occurs at time 2021-07-30T19:27:17.000
+At this time, position of A compared to B is:{-251.9768547455; 222.2841050791; 1,858.4199625989}
+---
+Close approach from 2021-07-30T20:13:00.000 to 2021-07-30T20:16:00.000
+Closest distance is 1174.941769, occurs at time 2021-07-30T20:14:27.000
+At this time, position of A compared to B is:{-134.6049254473; 957.871763194; -666.9717828585}
+---
+
+
+First 5 Close approach(es) between AL-FARABI 1 and FLOCK 3P-74.
+
+Close approach from 2021-07-30T18:57:00.000 to 2021-07-30T19:00:00.000
+Closest distance is 8637.496826, occurs at time 2021-07-30T18:58:35.000
+At this time, position of A compared to B is:{-894.9418803625; 8,527.985694215; -1,038.6965136984}
+---
+Close approach from 2021-07-30T19:44:00.000 to 2021-07-30T19:48:00.000
+Closest distance is 3194.118306, occurs at time 2021-07-30T19:45:45.000
+At this time, position of A compared to B is:{616.8362084392; -776.6719695408; -3,036.2288283948}
+---
+Close approach from 2021-07-30T20:31:00.000 to 2021-07-30T20:35:00.000
+Closest distance is 1214.053531, occurs at time 2021-07-30T20:32:55.000
+At this time, position of A compared to B is:{128.8466224619; -151.5983206335; -1,197.6403767969}
+---
+Close approach from 2021-07-30T21:19:00.000 to 2021-07-30T21:21:00.000
+Closest distance is 8446.800855, occurs at time 2021-07-30T21:19:58.000
+At this time, position of A compared to B is:{-1,225.2237675051; 7,816.0003676942; -2,959.2920875689}
+---
+Close approach from 2021-07-30T22:06:00.000 to 2021-07-30T22:08:00.000
+Closest distance is 9005.771897, occurs at time 2021-07-30T22:07:14.000
+At this time, position of A compared to B is:{1,281.1378672314; -8,819.1359806415; -1,298.2502751667}
+---
+
+
+First 5 Close approach(es) between FLOCK 3P-50 and FLOCK 3P-8.
+
+Close approach from 2021-08-01T02:18:00.000 to 2021-08-01T02:22:00.000
+Closest distance is 7669.208291, occurs at time 2021-08-01T02:20:20.000
+At this time, position of A compared to B is:{1,107.8068540923; -7,351.5223958114; -1,882.72096748}
+---
+Close approach from 2021-08-01T03:06:00.000 to 2021-08-01T03:09:00.000
+Closest distance is 8446.906495, occurs at time 2021-08-01T03:07:23.000
+At this time, position of A compared to B is:{-1,567.0338654669; 8,299.4540344859; -117.033890781}
+---
+Close approach from 2021-08-01T03:52:00.000 to 2021-08-01T03:57:00.000
+Closest distance is 1933.713965, occurs at time 2021-08-01T03:54:32.000
+At this time, position of A compared to B is:{146.9566536578; 590.6744456476; -1,835.4174295487}
+---
+Close approach from 2021-08-01T04:39:00.000 to 2021-08-01T04:45:00.000
+Closest distance is 493.525113, occurs at time 2021-08-01T04:41:43.000
+At this time, position of A compared to B is:{-64.8741778615; 465.6574834678; -150.0716041466}
+---
+Close approach from 2021-08-01T05:27:00.000 to 2021-08-01T05:30:00.000
+Closest distance is 8733.520127, occurs at time 2021-08-01T05:28:44.000
+At this time, position of A compared to B is:{-845.2539997317; 8,528.6578828965; -1,679.8554099249}
+---
+
+
+First 5 Close approach(es) between GOES 16 and STAR ONE C3.
+
+Close approach from 2021-07-29T16:15:00.000 to 2021-07-29T16:56:00.000
+Closest distance is 8887.102721, occurs at time 2021-07-29T16:35:20.000
+At this time, position of A compared to B is:{4,773.132861089; 7,462.6817417741; -711.4623553376}
+---
+Close approach from 2021-07-30T15:59:00.000 to 2021-07-30T17:12:00.000
+Closest distance is 5668.938478, occurs at time 2021-07-30T16:35:38.000
+At this time, position of A compared to B is:{1,509.2553355955; 5,463.5076034591; -95.375416915}
+---
+Close approach from 2021-07-31T15:55:00.000 to 2021-07-31T17:16:00.000
+Closest distance is 3783.408098, occurs at time 2021-07-31T16:35:44.000
+At this time, position of A compared to B is:{-1,692.6928247623; 3,349.0434148684; 482.5723145502}
+---
+Close approach from 2021-08-01T15:59:00.000 to 2021-08-01T17:13:00.000
+Closest distance is 5066.654293, occurs at time 2021-08-01T16:35:40.000
+At this time, position of A compared to B is:{-4,832.805416476; 1,128.582201682; 1,020.4311585828}
+---
+Close approach from 2021-08-02T16:11:00.000 to 2021-08-02T17:00:00.000
+Closest distance is 8142.037626, occurs at time 2021-08-02T16:35:29.000
+At this time, position of A compared to B is:{-7,909.430629693; -1,191.2074144334; 1,521.4166790317}
+---
+
+
+First 1 Close approach(es) between NANOACE and LEMUR-2-ZACHARY.
+
+Close approach from 2021-07-28T09:17:00.000 to 2021-07-28T11:13:00.000
+Closest distance is 2732.582279, occurs at time 2021-07-28T10:11:32.000
+At this time, position of A compared to B is:{431.7452478923; 2,692.1676151108; -181.2056371663}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-RDEATON and FLOCK 3P-32.
+
+Close approach from 2021-08-03T02:17:00.000 to 2021-08-03T02:19:00.000
+Closest distance is 4967.290453, occurs at time 2021-08-03T02:17:53.000
+At this time, position of A compared to B is:{259.6149433592; 2,197.7845714256; -4,447.0571733555}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-RDEATON and NAYIF-1 (EO-88).
+
+Close approach from 2021-08-03T03:04:00.000 to 2021-08-03T03:06:00.000
+Closest distance is 7708.781133, occurs at time 2021-08-03T03:05:04.000
+At this time, position of A compared to B is:{-64.7578616742; -4,575.3739863127; 6,203.7944725985}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-RDEATON and FLOCK 3P-49.
+
+Close approach from 2021-07-30T14:55:00.000 to 2021-07-30T14:57:00.000
+Closest distance is 5801.880361, occurs at time 2021-07-30T14:56:06.000
+At this time, position of A compared to B is:{949.1694182368; -3,427.2647512117; -4,584.1847104691}
+---
+
+
+First 1 Close approach(es) between FLOCK 2K-45 and FENGNIAO 1 (FN-1).
+
+Close approach from 2021-08-01T05:18:00.000 to 2021-08-01T05:20:00.000
+Closest distance is 9225.127104, occurs at time 2021-08-01T05:18:59.000
+At this time, position of A compared to B is:{-4,944.5660180035; 3,174.5537364185; 7,111.711858463}
+---
+
+
+First 1 Close approach(es) between ICEYE-X1 and LEMUR-2-NOGUECORREIG.
+
+Close approach from 2021-07-30T02:09:00.000 to 2021-07-30T02:11:00.000
+Closest distance is 2734.470847, occurs at time 2021-07-30T02:10:10.000
+At this time, position of A compared to B is:{-87.3218440387; -46.7794247671; 2,732.6758668097}
+---
+
+
+First 1 Close approach(es) between ECHOSTAR 19 and GALAXY 19 (G-19).
+
+Close approach from 2021-07-27T23:59:00.000 to 2021-07-28T02:36:00.000
+Closest distance is 7265.495197, occurs at time 2021-07-28T00:24:16.000
+At this time, position of A compared to B is:{4,119.6518910527; -2,163.3720327467; 5,579.9381901387}
+---
+
+
+First 3 Close approach(es) between FLOCK 2K-45 and FLOCK 2K-21.
+
+Close approach from 2021-07-30T08:37:00.000 to 2021-07-30T08:51:00.000
+Closest distance is 6589.650557, occurs at time 2021-07-30T08:43:48.000
+At this time, position of A compared to B is:{-2,369.9603124085; -6,078.7914656677; 924.7036824152}
+---
+Close approach from 2021-07-30T09:21:00.000 to 2021-07-30T09:39:00.000
+Closest distance is 1676.851214, occurs at time 2021-07-30T09:29:54.000
+At this time, position of A compared to B is:{103.9356799638; 765.3065925039; -1,488.3995385198}
+---
+Close approach from 2021-07-30T10:09:00.000 to 2021-07-30T10:23:00.000
+Closest distance is 6264.991594, occurs at time 2021-07-30T10:15:56.000
+At this time, position of A compared to B is:{2,465.6089778563; 5,672.9757556087; 994.1016637888}
+---
+
+
+First 1 Close approach(es) between ICEYE-X1 and LEMUR-2-PETERWEBSTER.
+
+Close approach from 2021-07-30T17:07:00.000 to 2021-07-30T17:09:00.000
+Closest distance is 9680.450050, occurs at time 2021-07-30T17:08:05.000
+At this time, position of A compared to B is:{-168.3066332241; 4,368.1775864692; -8,637.2339684721}
+---
+
+
+First 1 Close approach(es) between CORVUS BC3 and ZIYUAN 3-2 (ZY 3-2).
+
+Close approach from 2021-07-28T13:24:00.000 to 2021-07-28T13:27:00.000
+Closest distance is 5924.163456, occurs at time 2021-07-28T13:25:17.000
+At this time, position of A compared to B is:{342.8963789098; -4,789.5950525822; 3,469.569708623}
+---
+
+
+First 2 Close approach(es) between FLOCK 2P-3 and LEMUR-2-SMITA-SHARAD.
+
+Close approach from 2021-08-02T11:50:00.000 to 2021-08-02T11:52:00.000
+Closest distance is 5447.281056, occurs at time 2021-08-02T11:51:06.000
+At this time, position of A compared to B is:{909.0682712706; -1,894.6230225717; -5,025.6212932272}
+---
+Close approach from 2021-08-02T17:20:00.000 to 2021-08-02T17:22:00.000
+Closest distance is 8483.591857, occurs at time 2021-08-02T17:21:04.000
+At this time, position of A compared to B is:{306.6348254603; 4,809.5075108378; -6,981.8295154721}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P-34 and RESURS P1.
+
+Close approach from 2021-08-03T12:07:00.000 to 2021-08-03T12:09:00.000
+Closest distance is 8356.518759, occurs at time 2021-08-03T12:08:05.000
+At this time, position of A compared to B is:{-399.4312335771; 7,424.9227320488; -3,813.4476382891}
+---
+
+
+First 1 Close approach(es) between POLYITAN-1 and UWE-3.
+
+Close approach from 2021-08-01T00:46:00.000 to 2021-08-01T00:48:00.000
+Closest distance is 7984.334833, occurs at time 2021-08-01T00:47:01.000
+At this time, position of A compared to B is:{-7,947.9654048514; -124.5448714172; 750.9575413773}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P'-3 and FLOCK 3P-24.
+
+Close approach from 2021-08-03T22:57:00.000 to 2021-08-03T22:59:00.000
+Closest distance is 9296.711979, occurs at time 2021-08-03T22:57:54.000
+At this time, position of A compared to B is:{-2,794.3846627836; 6,393.3134133469; 6,143.7620044434}
+---
+
+
+First 1 Close approach(es) between CARTOSAT-2B and NEE-01 PEGASO.
+
+Close approach from 2021-08-01T19:55:00.000 to 2021-08-01T19:57:00.000
+Closest distance is 7768.278962, occurs at time 2021-08-01T19:56:00.000
+At this time, position of A compared to B is:{-123.1499000435; -2,585.5801638266; -7,324.3270924538}
+---
+
+
+First 1 Close approach(es) between DMC3-FM3 and YAOGAN 2.
+
+Close approach from 2021-07-30T17:17:00.000 to 2021-07-30T17:19:00.000
+Closest distance is 5411.957380, occurs at time 2021-07-30T17:18:00.000
+At this time, position of A compared to B is:{4,192.1492803087; -3,420.0869394362; -134.8051176788}
+---
+
+
+First 1 Close approach(es) between GAOFEN 2 and IRS-P5 (CARTOSAT-1).
+
+Close approach from 2021-08-03T17:43:00.000 to 2021-08-03T17:45:00.000
+Closest distance is 5514.425703, occurs at time 2021-08-03T17:44:02.000
+At this time, position of A compared to B is:{1,831.179407435; -3,039.6891176543; -4,220.8959800545}
+---
+
+
+First 2 Close approach(es) between TKSAT-1 (TUPAC KATARI) and ASTRA 3A.
+
+Close approach from 2021-08-03T01:07:00.000 to 2021-08-03T01:09:00.000
+Closest distance is 5759.718874, occurs at time 2021-08-03T01:07:42.000
+At this time, position of A compared to B is:{-5,506.2235116065; -1,688.1028223485; 78.5684830039}
+---
+Close approach from 2021-08-03T13:05:00.000 to 2021-08-03T13:07:00.000
+Closest distance is 6826.085153, occurs at time 2021-08-03T13:05:54.000
+At this time, position of A compared to B is:{-5,777.8867367506; -3,614.1360304058; 386.6317799176}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-PETERWEBSTER and FLOCK 3P-76.
+
+Close approach from 2021-08-02T11:56:00.000 to 2021-08-02T11:58:00.000
+Closest distance is 8851.058140, occurs at time 2021-08-02T11:56:57.000
+At this time, position of A compared to B is:{2,528.1062365137; -4,638.7333690276; -7,101.5534763392}
+---
+
+
+First 1 Close approach(es) between INTELSAT NEW DAWN and ABS-7.
+
+Close approach from 2021-07-31T07:10:00.000 to 2021-07-31T07:13:00.000
+Closest distance is 8730.295860, occurs at time 2021-07-31T07:11:35.000
+At this time, position of A compared to B is:{3,002.8864334078; 8,197.5162435398; -38.2924112072}
+---
+
+
+First 1 Close approach(es) between CHUANGXIN 1-04 (CX-1-04) and ORBCOMM FM27.
+
+Close approach from 2021-07-29T07:41:00.000 to 2021-07-29T07:43:00.000
+Closest distance is 7627.910554, occurs at time 2021-07-29T07:41:59.000
+At this time, position of A compared to B is:{-6,185.9455244439; -1,230.3728334433; -4,290.1375356177}
+---
+
+
+First 1 Close approach(es) between SPACEBEE-3 and FLOCK 3P-2.
+
+Close approach from 2021-08-02T10:03:00.000 to 2021-08-02T10:05:00.000
+Closest distance is 6776.461433, occurs at time 2021-08-02T10:03:59.000
+At this time, position of A compared to B is:{-2,267.0647784892; 5,117.6025000226; 3,819.8156363275}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-ZACHARY and 2017-042M.
+
+Close approach from 2021-08-01T06:38:00.000 to 2021-08-01T06:41:00.000
+Closest distance is 3583.734167, occurs at time 2021-08-01T06:39:29.000
+At this time, position of A compared to B is:{-499.611750164; -488.1794844673; -3,514.9992138268}
+---
+
+
+First 1 Close approach(es) between DIAMOND GREEN and SHAONIAN XING.
+
+Close approach from 2021-07-30T16:46:00.000 to 2021-07-30T16:48:00.000
+Closest distance is 6384.191191, occurs at time 2021-07-30T16:47:01.000
+At this time, position of A compared to B is:{-1,851.009555585; -1,719.6932517783; -5,862.9613601239}
+---
+
+
+First 1 Close approach(es) between CALIPSO and GEOEYE 1.
+
+Close approach from 2021-07-29T04:36:00.000 to 2021-07-29T04:38:00.000
+Closest distance is 9896.890843, occurs at time 2021-07-29T04:36:59.000
+At this time, position of A compared to B is:{-139.0575403043; 9,771.4986189366; 1,564.2653538128}
+---
+
+
+First 1 Close approach(es) between YAOGAN 21 and FLOCK 3P-66.
+
+Close approach from 2021-08-01T09:30:00.000 to 2021-08-01T09:32:00.000
+Closest distance is 8611.559842, occurs at time 2021-08-01T09:31:05.000
+At this time, position of A compared to B is:{-980.3734745382; 6,377.6077130244; -5,702.9773474224}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P'-2 and LEMUR-2-NOGUECORREIG.
+
+Close approach from 2021-07-31T23:43:00.000 to 2021-07-31T23:45:00.000
+Closest distance is 5071.290960, occurs at time 2021-07-31T23:43:51.000
+At this time, position of A compared to B is:{575.5648272826; -3,564.8076658089; 3,560.7391694244}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-TACHIKOMA and INS-1B.
+
+Close approach from 2021-08-03T12:31:00.000 to 2021-08-03T12:33:00.000
+Closest distance is 4397.628783, occurs at time 2021-08-03T12:32:01.000
+At this time, position of A compared to B is:{-808.0006177686; 855.8806034866; 4,237.185658345}
+---
+
+
+First 1 Close approach(es) between YAOGAN 21 and FLOCK 3P-49.
+
+Close approach from 2021-07-29T21:36:00.000 to 2021-07-29T21:39:00.000
+Closest distance is 7834.368674, occurs at time 2021-07-29T21:37:18.000
+At this time, position of A compared to B is:{1,623.4607675249; -3,330.1192533738; -6,903.043778928}
+---
+
+
+First 1 Close approach(es) between YAOGAN 21 and FLOCK 3P-61.
+
+Close approach from 2021-07-28T10:56:00.000 to 2021-07-28T10:58:00.000
+Closest distance is 9212.870376, occurs at time 2021-07-28T10:57:05.000
+At this time, position of A compared to B is:{-768.8320349272; 7,843.6507482952; -4,771.0607623411}
+---
+
+
+First 1 Close approach(es) between YAOGAN 21 and FLOCK 3P-60.
+
+Close approach from 2021-08-03T11:56:00.000 to 2021-08-03T11:59:00.000
+Closest distance is 7482.715156, occurs at time 2021-08-03T11:57:09.000
+At this time, position of A compared to B is:{1,118.8399813555; -847.0238100215; -7,349.9506028192}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-TACHIKOMA and LEMUR-2-MIA-GRACE.
+
+Close approach from 2021-08-01T07:05:00.000 to 2021-08-01T07:07:00.000
+Closest distance is 5552.520622, occurs at time 2021-08-01T07:06:16.000
+At this time, position of A compared to B is:{-275.4819125241; -3,097.1475910886; 4,600.2469252553}
+---
+
+
+First 5 Close approach(es) between SES-8 and SKYNET 5A.
+
+Close approach from 2021-07-29T03:10:00.000 to 2021-07-29T03:14:00.000
+Closest distance is 7233.639744, occurs at time 2021-07-29T03:11:54.000
+At this time, position of A compared to B is:{6,498.5877627035; 3,177.0275629684; -19.9224330526}
+---
+Close approach from 2021-07-30T03:06:00.000 to 2021-07-30T03:10:00.000
+Closest distance is 3283.290119, occurs at time 2021-07-30T03:08:04.000
+At this time, position of A compared to B is:{539.8688584046; 3,238.5965181738; -5.311861856}
+---
+Close approach from 2021-07-30T15:05:00.000 to 2021-07-30T15:07:00.000
+Closest distance is 9384.802433, occurs at time 2021-07-30T15:06:00.000
+At this time, position of A compared to B is:{-8,179.2952110003; 4,598.8849305063; 154.6090630456}
+---
+Close approach from 2021-07-31T03:02:00.000 to 2021-07-31T03:06:00.000
+Closest distance is 6317.605046, occurs at time 2021-07-31T03:04:05.000
+At this time, position of A compared to B is:{-5,384.1002341803; 3,304.7763548046; 45.2927142027}
+---
+Close approach from 2021-07-31T15:00:00.000 to 2021-07-31T15:04:00.000
+Closest distance is 5073.304397, occurs at time 2021-07-31T15:01:57.000
+At this time, position of A compared to B is:{-2,282.6776251281; 4,530.4287284091; 54.9171828474}
+---
+
+
+First 1 Close approach(es) between CARBONITE 2 and ZIYUAN 3-2 (ZY 3-2).
+
+Close approach from 2021-07-28T19:46:00.000 to 2021-07-28T19:51:00.000
+Closest distance is 8466.884225, occurs at time 2021-07-28T19:48:53.000
+At this time, position of A compared to B is:{-1,442.6364810027; 8,336.2994681555; -336.2136924248}
+---
+
+
+First 1 Close approach(es) between TIGRISAT and ASTROSAT.
+
+Close approach from 2021-07-31T16:00:00.000 to 2021-07-31T16:02:00.000
+Closest distance is 9639.784895, occurs at time 2021-07-31T16:01:00.000
+At this time, position of A compared to B is:{-4,283.4616192882; -3,868.5978943771; 7,720.8393142349}
+---
+
+
+First 1 Close approach(es) between CARBONITE 2 and LEMUR-2-MIA-GRACE.
+
+Close approach from 2021-07-28T07:55:00.000 to 2021-07-28T07:57:00.000
+Closest distance is 1259.213339, occurs at time 2021-07-28T07:55:56.000
+At this time, position of A compared to B is:{-320.565011287; -243.5661688235; 1,193.1185309207}
+---
+
+
+First 1 Close approach(es) between CARBONITE 2 and LEMUR-2-SATCHMO.
+
+Close approach from 2021-07-30T21:24:00.000 to 2021-07-30T21:26:00.000
+Closest distance is 2379.667374, occurs at time 2021-07-30T21:25:09.000
+At this time, position of A compared to B is:{-401.4866158615; 1,900.2515793802; 1,375.016088862}
+---
+
+
+First 2 Close approach(es) between CARBONITE 2 and CORVUS BC3.
+
+Close approach from 2021-07-28T02:24:00.000 to 2021-07-28T02:26:00.000
+Closest distance is 5792.956139, occurs at time 2021-07-28T02:24:57.000
+At this time, position of A compared to B is:{1,114.063509914; -4,774.2682527567; -3,086.0275398828}
+---
+Close approach from 2021-07-28T03:11:00.000 to 2021-07-28T03:13:00.000
+Closest distance is 9785.546699, occurs at time 2021-07-28T03:12:08.000
+At this time, position of A compared to B is:{711.5954704242; -9,051.5337279389; 3,649.6976939449}
+---
+
+
+First 2 Close approach(es) between CORVUS BC2 and 2017-042C.
+
+Close approach from 2021-08-01T04:56:00.000 to 2021-08-01T04:58:00.000
+Closest distance is 3363.954898, occurs at time 2021-08-01T04:56:54.000
+At this time, position of A compared to B is:{735.869246576; 2,430.1647887161; 2,206.5783705702}
+---
+Close approach from 2021-08-01T05:44:00.000 to 2021-08-01T05:46:00.000
+Closest distance is 4118.814987, occurs at time 2021-08-01T05:45:06.000
+At this time, position of A compared to B is:{219.9578197694; 3,776.5166807717; -1,629.164576632}
+---
+
+
+First 4 Close approach(es) between LEMUR-2-SPIRE-MINIONS and FLOCK 3P-4.
+
+Close approach from 2021-07-28T20:44:00.000 to 2021-07-28T20:48:00.000
+Closest distance is 6925.736179, occurs at time 2021-07-28T20:45:58.000
+At this time, position of A compared to B is:{1,168.2883605931; -6,547.1888083596; -1,932.6775814211}
+---
+Close approach from 2021-07-28T21:31:00.000 to 2021-07-28T21:35:00.000
+Closest distance is 1838.944378, occurs at time 2021-07-28T21:33:06.000
+At this time, position of A compared to B is:{-216.2769572011; 1,817.6254769714; 176.5738565037}
+---
+Close approach from 2021-07-28T22:18:00.000 to 2021-07-28T22:22:00.000
+Closest distance is 3793.563506, occurs at time 2021-07-28T22:20:11.000
+At this time, position of A compared to B is:{-266.6610607131; 3,266.0294337214; -1,911.3000004254}
+---
+Close approach from 2021-07-28T23:06:00.000 to 2021-07-28T23:09:00.000
+Closest distance is 8064.816765, occurs at time 2021-07-28T23:07:23.000
+At this time, position of A compared to B is:{854.1084273871; -8,018.7378851645; 107.7542279642}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P-54 and FLOCK 3P-24.
+
+Close approach from 2021-08-01T18:22:00.000 to 2021-08-01T18:24:00.000
+Closest distance is 9693.812534, occurs at time 2021-08-01T18:22:57.000
+At this time, position of A compared to B is:{-695.4040303889; 7,568.5952230874; -6,016.8746896116}
+---
+
+
+First 2 Close approach(es) between THOR 7 and METEOSAT-11 (MSG-4).
+
+Close approach from 2021-07-29T13:25:00.000 to 2021-07-29T14:02:00.000
+Closest distance is 7740.091815, occurs at time 2021-07-29T13:43:18.000
+At this time, position of A compared to B is:{6,991.6198177561; -3,263.0650002956; -615.3701567423}
+---
+Close approach from 2021-08-01T01:11:00.000 to 2021-08-01T01:59:00.000
+Closest distance is 5783.509281, occurs at time 2021-08-01T01:35:07.000
+At this time, position of A compared to B is:{5,448.3747424558; -1,873.2230762132; 505.2005352871}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-JOBANPUTRA and FLOCK 3P-11.
+
+Close approach from 2021-08-03T13:24:00.000 to 2021-08-03T13:26:00.000
+Closest distance is 4517.725267, occurs at time 2021-08-03T13:25:13.000
+At this time, position of A compared to B is:{28.3930927784; -2,123.1227052075; 3,987.6541228378}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-JOBANPUTRA and LEMUR-2-TACHIKOMA.
+
+Close approach from 2021-07-30T14:14:00.000 to 2021-07-30T14:16:00.000
+Closest distance is 5240.287469, occurs at time 2021-07-30T14:14:49.000
+At this time, position of A compared to B is:{952.87352382; -2,034.7987670773; -4,734.1566074025}
+---
+
+
+First 2 Close approach(es) between FIRST-MOVE and ZACUBE-1 (TSHEPISOSAT).
+
+Close approach from 2021-08-01T09:06:00.000 to 2021-08-01T09:08:00.000
+Closest distance is 5750.412690, occurs at time 2021-08-01T09:07:19.000
+At this time, position of A compared to B is:{5,062.5418492736; 1,018.4576210097; -2,529.9526092689}
+---
+Close approach from 2021-08-01T09:55:00.000 to 2021-08-01T09:57:00.000
+Closest distance is 5835.100476, occurs at time 2021-08-01T09:56:18.000
+At this time, position of A compared to B is:{-3,598.0156801094; -229.251120663; 4,588.0414838418}
+---
+
+
+First 1 Close approach(es) between UCLSAT and FLOCK 3P-32.
+
+Close approach from 2021-08-03T23:30:00.000 to 2021-08-03T23:32:00.000
+Closest distance is 7442.277224, occurs at time 2021-08-03T23:30:59.000
+At this time, position of A compared to B is:{-1,463.5323396751; 6,771.8324332465; 2,718.0597599903}
+---
+
+
+First 1 Close approach(es) between FLOCK 3P'-4 and ZIYUAN 3-1 (ZY 3-1).
+
+Close approach from 2021-07-31T16:28:00.000 to 2021-07-31T16:36:00.000
+Closest distance is 3827.018375, occurs at time 2021-07-31T16:32:12.000
+At this time, position of A compared to B is:{749.4127399973; -2,491.5636952796; 2,806.5210747886}
+---
+
+
+First 2 Close approach(es) between DIAMOND BLUE and LEMUR-2-KUNGFOO.
+
+Close approach from 2021-07-29T21:02:00.000 to 2021-07-29T21:08:00.000
+Closest distance is 6527.768696, occurs at time 2021-07-29T21:04:46.000
+At this time, position of A compared to B is:{1,489.4727021832; 6,155.1542873413; 1,583.4490588754}
+---
+Close approach from 2021-07-29T21:48:00.000 to 2021-07-29T21:56:00.000
+Closest distance is 4140.022189, occurs at time 2021-07-29T21:51:58.000
+At this time, position of A compared to B is:{331.5300240518; -963.7766500685; -4,012.6059034616}
+---
+
+
+First 3 Close approach(es) between ASTRA 1KR and ASTRA 1L.
+
+Close approach from 2021-07-28T06:58:00.000 to 2021-07-28T08:56:00.000
+Closest distance is 7408.767115, occurs at time 2021-07-28T07:56:27.000
+At this time, position of A compared to B is:{-7,154.0563337393; 1,540.7531445697; -1,155.5898422227}
+---
+Close approach from 2021-07-29T07:07:00.000 to 2021-07-29T08:37:00.000
+Closest distance is 8529.873536, occurs at time 2021-07-29T07:51:38.000
+At this time, position of A compared to B is:{-8,245.9557996239; 1,719.9030615091; -1,343.4615560779}
+---
+Close approach from 2021-07-30T07:24:00.000 to 2021-07-30T08:08:00.000
+Closest distance is 9675.890988, occurs at time 2021-07-30T07:45:58.000
+At this time, position of A compared to B is:{-9,336.1355454903; 1,984.738116771; -1,587.5308184217}
+---
+
+
+First 1 Close approach(es) between CARTOSAT-2F and POPACS 2.
+
+Close approach from 2021-07-28T09:17:00.000 to 2021-07-28T09:19:00.000
+Closest distance is 1630.394875, occurs at time 2021-07-28T09:17:56.000
+At this time, position of A compared to B is:{-877.1850927798; -874.7218945744; 1,059.997815785}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-ANDIS and SJ-6C.
+
+Close approach from 2021-07-28T22:42:00.000 to 2021-07-28T22:44:00.000
+Closest distance is 9569.262046, occurs at time 2021-07-28T22:43:00.000
+At this time, position of A compared to B is:{-4,988.4782700944; -238.4750093836; 8,162.6582874944}
+---
+
+
+First 5 Close approach(es) between EUTELSAT 115 WEST B and XM-4 (BLUES).
+
+Close approach from 2021-07-30T23:36:00.000 to 2021-07-31T01:01:00.000
+Closest distance is 9053.919389, occurs at time 2021-07-31T00:18:14.000
+At this time, position of A compared to B is:{269.1203660965; -8,877.8468932714; 1,756.3783957493}
+---
+Close approach from 2021-07-31T10:31:00.000 to 2021-07-31T13:12:00.000
+Closest distance is 5902.406489, occurs at time 2021-07-31T11:52:15.000
+At this time, position of A compared to B is:{-2,075.1639289558; 5,500.4950175714; 525.9768010034}
+---
+Close approach from 2021-07-31T22:23:00.000 to 2021-08-01T01:29:00.000
+Closest distance is 2712.224956, occurs at time 2021-07-31T23:56:15.000
+At this time, position of A compared to B is:{-2,265.6793914512; -1,477.0015122276; 203.2920123253}
+---
+Close approach from 2021-08-01T10:21:00.000 to 2021-08-01T13:26:00.000
+Closest distance is 2297.374724, occurs at time 2021-08-01T11:53:39.000
+At this time, position of A compared to B is:{-336.2637191415; -2,264.5180802774; -191.8728703826}
+---
+Close approach from 2021-08-01T22:36:00.000 to 2021-08-02T00:40:00.000
+Closest distance is 7377.237428, occurs at time 2021-08-01T23:38:17.000
+At this time, position of A compared to B is:{-3,732.6279407591; 6,239.2199416123; -1,250.3020625065}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-SATCHMO and FLOCK 3P-4.
+
+Close approach from 2021-08-02T23:20:00.000 to 2021-08-02T23:22:00.000
+Closest distance is 7188.826480, occurs at time 2021-08-02T23:20:48.000
+At this time, position of A compared to B is:{752.0089944522; -6,446.0907405456; 3,092.1873804517}
+---
+
+
+First 1 Close approach(es) between LILACSAT-2 and XW-2B.
+
+Close approach from 2021-08-01T05:05:00.000 to 2021-08-01T05:07:00.000
+Closest distance is 5490.365566, occurs at time 2021-08-01T05:05:41.000
+At this time, position of A compared to B is:{1,727.7363328661; 2,032.2958735569; 4,798.8347228523}
+---
+
+
+First 2 Close approach(es) between 2017-042AA and NORSAT 2.
+
+Close approach from 2021-08-02T23:08:00.000 to 2021-08-02T23:11:00.000
+Closest distance is 2658.904028, occurs at time 2021-08-02T23:09:33.000
+At this time, position of A compared to B is:{499.2948475129; 717.7496809302; 2,511.03776999}
+---
+Close approach from 2021-08-02T23:57:00.000 to 2021-08-02T23:59:00.000
+Closest distance is 5509.327026, occurs at time 2021-08-02T23:57:45.000
+At this time, position of A compared to B is:{54.5705176567; 4,910.0740472965; -2,498.1751711378}
+---
+
+
+First 1 Close approach(es) between NEE-02 KRYSAOR and LANDSAT 7.
+
+Close approach from 2021-08-01T01:24:00.000 to 2021-08-01T01:26:00.000
+Closest distance is 7795.895853, occurs at time 2021-08-01T01:25:00.000
+At this time, position of A compared to B is:{5,500.3946164694; 3,450.3707271134; 4,314.695013294}
+---
+
+
+First 2 Close approach(es) between SKY MUSTER 1 (NBN1A) and BEIDOU 3.
+
+Close approach from 2021-07-28T21:22:00.000 to 2021-07-28T21:26:00.000
+Closest distance is 4212.666564, occurs at time 2021-07-28T21:23:47.000
+At this time, position of A compared to B is:{-3,676.4679842889; 2,056.2609651946; 43.9725434743}
+---
+Close approach from 2021-07-29T21:19:00.000 to 2021-07-29T21:21:00.000
+Closest distance is 8452.711677, occurs at time 2021-07-29T21:20:03.000
+At this time, position of A compared to B is:{-6,839.6007826291; 4,964.8129751235; 137.2150020743}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-GREENBERG and 2017-042C.
+
+Close approach from 2021-08-01T02:31:00.000 to 2021-08-01T02:33:00.000
+Closest distance is 3783.660337, occurs at time 2021-08-01T02:31:54.000
+At this time, position of A compared to B is:{301.7345557234; 3,144.9068884089; -2,081.9708130704}
+---
+
+
+First 1 Close approach(es) between HODOYOSHI-3 and UKUBE-1.
+
+Close approach from 2021-07-29T17:22:00.000 to 2021-07-29T17:24:00.000
+Closest distance is 9387.546049, occurs at time 2021-07-29T17:22:56.000
+At this time, position of A compared to B is:{-2,523.3782820019; -2,987.1775382916; -8,534.3630829351}
+---
+
+
+First 5 Close approach(es) between LEMUR-2-GREENBERG and CORVUS BC2.
+
+Close approach from 2021-07-31T15:15:00.000 to 2021-07-31T15:20:00.000
+Closest distance is 9829.002488, occurs at time 2021-07-31T15:17:15.000
+At this time, position of A compared to B is:{1,024.1889810791; 9,766.7321738205; 413.8471807856}
+---
+Close approach from 2021-07-31T16:40:00.000 to 2021-07-31T17:08:00.000
+Closest distance is 3111.441475, occurs at time 2021-07-31T16:53:32.000
+At this time, position of A compared to B is:{201.8920394829; 3,099.7067431135; -179.2366209626}
+---
+Close approach from 2021-07-31T17:37:00.000 to 2021-07-31T17:51:00.000
+Closest distance is 9259.232020, occurs at time 2021-07-31T17:44:03.000
+At this time, position of A compared to B is:{401.9262175906; -9,229.3765631476; -624.8529188577}
+---
+Close approach from 2021-07-31T18:13:00.000 to 2021-07-31T18:47:00.000
+Closest distance is 3674.461506, occurs at time 2021-07-31T18:29:42.000
+At this time, position of A compared to B is:{-495.281644377; -3,599.6588407863; -546.6440181984}
+---
+Close approach from 2021-07-31T19:01:00.000 to 2021-07-31T19:35:00.000
+Closest distance is 2773.059231, occurs at time 2021-07-31T19:18:25.000
+At this time, position of A compared to B is:{-47.3762124379; -2,623.9931813958; 895.696811269}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-MONSON and WNISAT 1R.
+
+Close approach from 2021-07-30T17:43:00.000 to 2021-07-30T17:46:00.000
+Closest distance is 3602.550550, occurs at time 2021-07-30T17:44:34.000
+At this time, position of A compared to B is:{-781.7244362056; -2,930.7837322637; -1,943.6522540888}
+---
+
+
+First 2 Close approach(es) between SJ-11-08 and SINAH 1.
+
+Close approach from 2021-07-29T10:11:00.000 to 2021-07-29T10:13:00.000
+Closest distance is 2052.271101, occurs at time 2021-07-29T10:12:08.000
+At this time, position of A compared to B is:{1,214.6275429454; -1,109.2826803612; 1,227.1872462295}
+---
+Close approach from 2021-07-29T15:56:00.000 to 2021-07-29T15:58:00.000
+Closest distance is 3398.752121, occurs at time 2021-07-29T15:57:10.000
+At this time, position of A compared to B is:{553.9323062672; -1,094.5439301997; 3,169.6448641643}
+---
+
+
+First 2 Close approach(es) between FLOCK 3P-58 and LEMUR-2-MIA-GRACE.
+
+Close approach from 2021-07-31T13:47:00.000 to 2021-07-31T13:49:00.000
+Closest distance is 9449.120878, occurs at time 2021-07-31T13:48:05.000
+At this time, position of A compared to B is:{-1,564.8695679135; 7,785.9497624486; 5,120.1616085134}
+---
+Close approach from 2021-07-31T14:34:00.000 to 2021-07-31T14:36:00.000
+Closest distance is 5499.188181, occurs at time 2021-07-31T14:35:13.000
+At this time, position of A compared to B is:{-233.768017974; 4,222.2013578596; -3,515.5993596632}
+---
+
+
+First 2 Close approach(es) between ROBUSTA-1B and LEMUR-2-SHAINAJOHL.
+
+Close approach from 2021-08-03T17:11:00.000 to 2021-08-03T17:13:00.000
+Closest distance is 5070.798407, occurs at time 2021-08-03T17:12:11.000
+At this time, position of A compared to B is:{-785.0292491422; -4,856.5950451089; 1,228.9060685802}
+---
+Close approach from 2021-08-03T17:58:00.000 to 2021-08-03T18:00:00.000
+Closest distance is 5143.530162, occurs at time 2021-08-03T17:59:20.000
+At this time, position of A compared to B is:{973.7999040785; 4,425.3726698975; -2,433.863802935}
+---
+
+
+First 1 Close approach(es) between S-NET B and SKYSAT-A.
+
+Close approach from 2021-08-02T17:57:00.000 to 2021-08-02T17:59:00.000
+Closest distance is 7987.768319, occurs at time 2021-08-02T17:58:00.000
+At this time, position of A compared to B is:{-7,579.5811057924; 1,332.8141740095; -2,139.6259850119}
+---
+
+
+First 1 Close approach(es) between FOX-1D (AO-92) and FLOCK 3P-64.
+
+Close approach from 2021-07-31T22:58:00.000 to 2021-07-31T23:00:00.000
+Closest distance is 939.899477, occurs at time 2021-07-31T22:58:49.000
+At this time, position of A compared to B is:{-208.4795157542; 547.0180872584; -735.3356585288}
+---
+
+
+First 1 Close approach(es) between FOX-1D (AO-92) and FLOCK 3P-80.
+
+Close approach from 2021-07-30T02:53:00.000 to 2021-07-30T02:55:00.000
+Closest distance is 8759.395167, occurs at time 2021-07-30T02:53:56.000
+At this time, position of A compared to B is:{1,901.8899819289; -8,426.3401360071; -1,451.4165862901}
+---
+
+
+First 2 Close approach(es) between FENGYUN 2G and THURAYA-3.
+
+Close approach from 2021-07-28T09:03:00.000 to 2021-07-28T09:05:00.000
+Closest distance is 9455.421087, occurs at time 2021-07-28T09:04:11.000
+At this time, position of A compared to B is:{-5,810.8441160023; -7,458.2688959755; -115.3414851039}
+---
+Close approach from 2021-07-30T20:54:00.000 to 2021-07-30T20:56:00.000
+Closest distance is 1610.440457, occurs at time 2021-07-30T20:55:02.000
+At this time, position of A compared to B is:{263.4384825528; 1,588.001202811; 48.6909933243}
 ---
 
 
@@ -1314,39 +1162,291 @@ First 1 Close approach(es) between FOX-1D (AO-92) and CICERO 7.
 
 Close approach from 2021-08-01T11:34:00.000 to 2021-08-01T11:36:00.000
 Closest distance is 6083.527448, occurs at time 2021-08-01T11:34:31.000
-At this time, position of A compared to B is:{-1,590.0228999495; 2,502.8341849061; 5,311.9633316491}
+At this time, position of A compared to B is:{-1,590.0228999495; 2,502.834184906; 5,311.9633316509}
 ---
 
 
-First 1 Close approach(es) between 2018-004AA and FLOCK 3P'-4.
+First 1 Close approach(es) between FENGYUN 2G and CHINASAT 2A (ZX 2A).
 
-Close approach from 2021-07-30T05:50:00.000 to 2021-07-30T05:52:00.000
-Closest distance is 8587.740468, occurs at time 2021-07-30T05:50:51.000
-At this time, position of A compared to B is:{-847.365539297; -1,232.6588529108; 8,456.4655822469}
+Close approach from 2021-07-31T02:47:00.000 to 2021-07-31T02:51:00.000
+Closest distance is 9190.779479, occurs at time 2021-07-31T02:48:52.000
+At this time, position of A compared to B is:{-3,225.9342561734; 8,605.3673175424; 106.9062344037}
 ---
 
 
-First 1 Close approach(es) between COMPASS 2 and ICEYE-X1.
+First 2 Close approach(es) between ASTRA 1N and ASTRA 1M.
 
-Close approach from 2021-07-28T17:05:00.000 to 2021-07-28T17:07:00.000
-Closest distance is 4918.543019, occurs at time 2021-07-28T17:05:59.000
-At this time, position of A compared to B is:{1,560.0155707814; -4,273.4075042297; -1,869.8676827652}
+Close approach from 2021-08-02T19:35:00.000 to 2021-08-02T19:59:00.000
+Closest distance is 9765.651600, occurs at time 2021-08-02T19:47:17.000
+At this time, position of A compared to B is:{-9,699.0002031873; -1,137.4751619473; -59.1311057139}
+---
+Close approach from 2021-08-03T19:18:00.000 to 2021-08-03T20:02:00.000
+Closest distance is 9085.363462, occurs at time 2021-08-03T19:39:41.000
+At this time, position of A compared to B is:{-8,993.237621441; -1,290.4939037934; -11.4805638578}
 ---
 
 
-First 3 Close approach(es) between 2018-004AA and 2018-004AB.
+First 1 Close approach(es) between CNUSAIL-1 and ZIYUAN 3-1 (ZY 3-1).
 
-Close approach from 2021-07-29T14:05:00.000 to 2021-07-29T14:09:00.000
-Closest distance is 8523.054364, occurs at time 2021-07-29T14:06:57.000
-At this time, position of A compared to B is:{2,114.3787244712; -8,077.1061642629; -1,712.3709647423}
+Close approach from 2021-08-01T09:26:00.000 to 2021-08-01T10:02:00.000
+Closest distance is 6432.021864, occurs at time 2021-08-01T09:50:22.000
+At this time, position of A compared to B is:{2,537.9839037892; 2,083.0466495473; 5,530.8642743155}
 ---
-Close approach from 2021-07-29T14:51:00.000 to 2021-07-29T14:57:00.000
-Closest distance is 1905.194474, occurs at time 2021-07-29T14:54:02.000
-At this time, position of A compared to B is:{-512.4422236746; 1,205.4959938264; 1,383.4552257247}
+
+
+First 1 Close approach(es) between CNUSAIL-1 and FLOCK 3P-60.
+
+Close approach from 2021-07-28T13:44:00.000 to 2021-07-28T13:46:00.000
+Closest distance is 3152.566107, occurs at time 2021-07-28T13:45:03.000
+At this time, position of A compared to B is:{769.0003071624; -2,985.8980389131; -657.0574458018}
 ---
-Close approach from 2021-07-29T15:39:00.000 to 2021-07-29T15:43:00.000
-Closest distance is 6378.633873, occurs at time 2021-07-29T15:41:12.000
-At this time, position of A compared to B is:{-1,178.928244265; 6,057.9823564027; -1,611.8151415698}
+
+
+First 3 Close approach(es) between SES-9 and SES-7 (PROTOSTAR 2).
+
+Close approach from 2021-07-28T12:58:00.000 to 2021-07-28T13:33:00.000
+Closest distance is 7390.003648, occurs at time 2021-07-28T13:15:19.000
+At this time, position of A compared to B is:{-2,466.4684455413; -6,945.1132410318; -542.3000923296}
+---
+Close approach from 2021-07-29T12:57:00.000 to 2021-07-29T13:29:00.000
+Closest distance is 7917.890743, occurs at time 2021-07-29T13:12:41.000
+At this time, position of A compared to B is:{-4,737.7515443563; -6,276.2831293941; -924.6481515106}
+---
+Close approach from 2021-07-30T12:57:00.000 to 2021-07-30T13:20:00.000
+Closest distance is 8982.647447, occurs at time 2021-07-30T13:08:16.000
+At this time, position of A compared to B is:{-6,935.7102912292; -5,564.4604091346; -1,273.0507717056}
+---
+
+
+First 2 Close approach(es) between CNUSAIL-1 and FLOCK 3P'-4.
+
+Close approach from 2021-08-03T10:39:00.000 to 2021-08-03T10:46:00.000
+Closest distance is 7696.387649, occurs at time 2021-08-03T10:42:27.000
+At this time, position of A compared to B is:{-1,573.2590562953; 6,904.5119562437; 3,014.4574031001}
+---
+Close approach from 2021-08-03T11:25:00.000 to 2021-08-03T11:33:00.000
+Closest distance is 6334.498954, occurs at time 2021-08-03T11:28:58.000
+At this time, position of A compared to B is:{-985.6287931298; 5,810.7268061783; -2,321.6086812112}
+---
+
+
+First 1 Close approach(es) between CNUSAIL-1 and LEMUR-2-SMITA-SHARAD.
+
+Close approach from 2021-08-02T07:07:00.000 to 2021-08-02T07:09:00.000
+Closest distance is 1635.680070, occurs at time 2021-08-02T07:08:01.000
+At this time, position of A compared to B is:{-776.841289598; 1,053.0983361618; 981.3005632749}
+---
+
+
+First 1 Close approach(es) between CNUSAIL-1 and LKW-2.
+
+Close approach from 2021-07-30T23:13:00.000 to 2021-07-30T23:15:00.000
+Closest distance is 8072.814969, occurs at time 2021-07-30T23:14:13.000
+At this time, position of A compared to B is:{2,119.9326288055; -6,842.412845387; -3,722.5815818608}
+---
+
+
+First 1 Close approach(es) between YAOGAN 28 and LEMUR-2-SHAINAJOHL.
+
+Close approach from 2021-08-01T23:25:00.000 to 2021-08-01T23:27:00.000
+Closest distance is 9699.844935, occurs at time 2021-08-01T23:26:01.000
+At this time, position of A compared to B is:{-7,807.8970119748; 104.1238610203; 5,754.3804390207}
+---
+
+
+First 1 Close approach(es) between YAOGAN 28 and NUSAT-5 (MARYAM).
+
+Close approach from 2021-08-02T08:03:00.000 to 2021-08-02T08:05:00.000
+Closest distance is 8636.586111, occurs at time 2021-08-02T08:04:14.000
+At this time, position of A compared to B is:{-7,931.5267498673; 1,310.110388688; 3,156.7568546254}
+---
+
+
+First 1 Close approach(es) between YAOGAN 28 and LKW-3.
+
+Close approach from 2021-07-28T08:16:00.000 to 2021-07-28T08:18:00.000
+Closest distance is 8689.148969, occurs at time 2021-07-28T08:17:02.000
+At this time, position of A compared to B is:{7,401.3883461247; -3,813.5826094499; 2,485.4271351164}
+---
+
+
+First 4 Close approach(es) between EUTELSAT 9B and METEOSAT-10 (MSG-3).
+
+Close approach from 2021-07-28T03:27:00.000 to 2021-07-28T03:32:00.000
+Closest distance is 4870.145273, occurs at time 2021-07-28T03:29:34.000
+At this time, position of A compared to B is:{-73.863326259; -4,868.7738612425; -88.8834803984}
+---
+Close approach from 2021-07-29T03:22:00.000 to 2021-07-29T03:28:00.000
+Closest distance is 4047.974551, occurs at time 2021-07-29T03:25:09.000
+At this time, position of A compared to B is:{-1,217.5024491549; 3,860.1124006594; 57.6021231123}
+---
+Close approach from 2021-08-01T15:07:00.000 to 2021-08-01T15:12:00.000
+Closest distance is 6319.166173, occurs at time 2021-08-01T15:09:37.000
+At this time, position of A compared to B is:{303.2156273052; 6,311.6816311646; 50.9547923226}
+---
+Close approach from 2021-08-02T15:02:00.000 to 2021-08-02T15:08:00.000
+Closest distance is 2831.059864, occurs at time 2021-08-02T15:05:09.000
+At this time, position of A compared to B is:{1,338.6932470426; -2,493.3142717574; -78.640223571}
+---
+
+
+First 1 Close approach(es) between PATHFINDER 1 and ALSAT 2A.
+
+Close approach from 2021-07-30T07:04:00.000 to 2021-07-30T07:06:00.000
+Closest distance is 8342.443768, occurs at time 2021-07-30T07:05:01.000
+At this time, position of A compared to B is:{1,915.933327819; 5,210.0285957656; -6,227.452893177}
+---
+
+
+First 1 Close approach(es) between QSS (MOZI) and FLOCK 3P-66.
+
+Close approach from 2021-07-29T21:09:00.000 to 2021-07-29T21:11:00.000
+Closest distance is 6721.595135, occurs at time 2021-07-29T21:10:00.000
+At this time, position of A compared to B is:{-54.6058407645; 1,941.6683145138; -6,434.8102942538}
+---
+
+
+First 1 Close approach(es) between QSS (MOZI) and FLOCK 3P-60.
+
+Close approach from 2021-08-02T16:27:00.000 to 2021-08-02T16:29:00.000
+Closest distance is 7215.645681, occurs at time 2021-08-02T16:27:59.000
+At this time, position of A compared to B is:{-943.6137250755; 4,953.2797988313; -5,161.410172699}
+---
+
+
+First 1 Close approach(es) between OPTICUBE 04 and COSMOS 2494 (SKRL-756 2).
+
+Close approach from 2021-08-03T16:33:00.000 to 2021-08-03T16:35:00.000
+Closest distance is 6472.090241, occurs at time 2021-08-03T16:34:00.000
+At this time, position of A compared to B is:{-3,100.228924968; 1,472.3987177585; -5,487.128094024}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-LUCYBRYCE and FLOCK 3P-58.
+
+Close approach from 2021-08-01T09:26:00.000 to 2021-08-01T09:28:00.000
+Closest distance is 4935.392725, occurs at time 2021-08-01T09:26:59.000
+At this time, position of A compared to B is:{-55.3721037898; 1,637.0380322686; 4,655.6569634341}
+---
+
+
+First 1 Close approach(es) between SKYSAT-C3 and RESURS P1.
+
+Close approach from 2021-08-01T03:00:00.000 to 2021-08-01T03:02:00.000
+Closest distance is 4353.374968, occurs at time 2021-08-01T03:00:59.000
+At this time, position of A compared to B is:{-11.294545974; 2,454.9157161416; -3,595.1543595605}
+---
+
+
+First 1 Close approach(es) between IRNSS-1G and CHINASAT 1A (ZX 1A).
+
+Close approach from 2021-08-01T19:28:00.000 to 2021-08-01T19:32:00.000
+Closest distance is 3473.846573, occurs at time 2021-08-01T19:29:40.000
+At this time, position of A compared to B is:{-2,023.6046279743; -2,820.8824013826; 123.5184289088}
+---
+
+
+First 1 Close approach(es) between YAOGAN 26 and FLOCK 3P-65.
+
+Close approach from 2021-08-03T06:17:00.000 to 2021-08-03T06:19:00.000
+Closest distance is 8010.048703, occurs at time 2021-08-03T06:18:00.000
+At this time, position of A compared to B is:{483.8753246097; -7,257.4526691062; 3,355.0149989435}
+---
+
+
+First 1 Close approach(es) between IRIDIUM 131 and LUSAT (LO-19).
+
+Close approach from 2021-07-30T10:17:00.000 to 2021-07-30T10:19:00.000
+Closest distance is 8282.811131, occurs at time 2021-07-30T10:18:00.000
+At this time, position of A compared to B is:{-3,987.0429338589; 6,021.5511941921; 4,055.7823039273}
+---
+
+
+First 1 Close approach(es) between FLOCK 2K-7 and OE (NEXTSAT).
+
+Close approach from 2021-07-29T23:40:00.000 to 2021-07-29T23:42:00.000
+Closest distance is 8725.777521, occurs at time 2021-07-29T23:41:01.000
+At this time, position of A compared to B is:{5,481.5013406286; 821.7865943168; 6,739.2138401782}
+---
+
+
+First 1 Close approach(es) between SPACEBEE-4 and TIANTUO 2.
+
+Close approach from 2021-07-30T07:54:00.000 to 2021-07-30T07:56:00.000
+Closest distance is 4990.611155, occurs at time 2021-07-30T07:54:52.000
+At this time, position of A compared to B is:{-129.2424514279; -1,765.1730574469; 4,666.2254732167}
+---
+
+
+First 1 Close approach(es) between SPACEBEE-4 and FLOCK 3P-49.
+
+Close approach from 2021-07-31T20:46:00.000 to 2021-07-31T20:48:00.000
+Closest distance is 3358.422255, occurs at time 2021-07-31T20:47:05.000
+At this time, position of A compared to B is:{515.3124782938; -2,068.9676543031; -2,594.7689564917}
+---
+
+
+First 1 Close approach(es) between FLOCK 2K-19 and XW-2A.
+
+Close approach from 2021-08-02T15:45:00.000 to 2021-08-02T15:47:00.000
+Closest distance is 9912.800459, occurs at time 2021-08-02T15:46:00.000
+At this time, position of A compared to B is:{9,010.4971283089; 586.425188466; -4,090.3129387964}
+---
+
+
+First 1 Close approach(es) between 2018-004Z and PINA 2A.
+
+Close approach from 2021-07-28T13:53:00.000 to 2021-07-28T13:55:00.000
+Closest distance is 4892.214437, occurs at time 2021-07-28T13:54:00.000
+At this time, position of A compared to B is:{3,259.3375853252; 3,645.7597614059; -137.5367902424}
+---
+
+
+First 1 Close approach(es) between 2018-004Z and LEMUR-2-PETERWEBSTER.
+
+Close approach from 2021-08-03T01:18:00.000 to 2021-08-03T01:20:00.000
+Closest distance is 6734.546664, occurs at time 2021-08-03T01:18:50.000
+At this time, position of A compared to B is:{1,505.7731075425; -2,174.1290051294; -6,193.5393098015}
+---
+
+
+First 1 Close approach(es) between ZHOU ENLAI and JILIN-01-08.
+
+Close approach from 2021-08-01T02:17:00.000 to 2021-08-01T02:19:00.000
+Closest distance is 3346.007194, occurs at time 2021-08-01T02:18:13.000
+At this time, position of A compared to B is:{-372.9759588666; -404.9292714433; 3,300.4068477489}
+---
+
+
+First 1 Close approach(es) between NUDTSAT and SKCUBE.
+
+Close approach from 2021-08-03T03:09:00.000 to 2021-08-03T03:11:00.000
+Closest distance is 4523.856640, occurs at time 2021-08-03T03:10:07.000
+At this time, position of A compared to B is:{895.6039562994; 3,379.9313417492; -2,870.407040881}
+---
+
+
+First 1 Close approach(es) between NUDTSAT and TYVAK-61C.
+
+Close approach from 2021-07-30T22:51:00.000 to 2021-07-30T22:53:00.000
+Closest distance is 2820.969221, occurs at time 2021-07-30T22:51:59.000
+At this time, position of A compared to B is:{1,198.3723587409; 1,542.0898893532; -2,035.615339133}
+---
+
+
+First 1 Close approach(es) between SKYSAT-C5 and LEMUR-2-NOGUECORREIG.
+
+Close approach from 2021-07-28T18:43:00.000 to 2021-07-28T18:48:00.000
+Closest distance is 8402.164360, occurs at time 2021-07-28T18:45:25.000
+At this time, position of A compared to B is:{-1,087.926414309; -1,786.0329195424; 8,137.7434497951}
+---
+
+
+First 1 Close approach(es) between SKYSAT-C5 and INS-1A.
+
+Close approach from 2021-07-30T10:07:00.000 to 2021-07-30T10:09:00.000
+Closest distance is 5000.524543, occurs at time 2021-07-30T10:07:58.000
+At this time, position of A compared to B is:{-292.061401821; 4,980.8227571212; 333.692224741}
 ---
 
 
@@ -1358,563 +1458,103 @@ At this time, position of A compared to B is:{-350.0000789043; 5,174.5607449802;
 ---
 
 
+First 1 Close approach(es) between COMPASS 2 and LEMUR-2-SHAINAJOHL.
+
+Close approach from 2021-07-29T13:33:00.000 to 2021-07-29T13:35:00.000
+Closest distance is 2588.668098, occurs at time 2021-07-29T13:34:01.000
+At this time, position of A compared to B is:{197.565805051; -121.1354544308; -2,578.2739330782}
+---
+
+
+First 1 Close approach(es) between COMPASS 2 and ICEYE-X1.
+
+Close approach from 2021-07-28T17:05:00.000 to 2021-07-28T17:07:00.000
+Closest distance is 4918.543019, occurs at time 2021-07-28T17:05:59.000
+At this time, position of A compared to B is:{1,560.0155707798; -4,273.4075042303; -1,869.8676827634}
+---
+
+
 First 1 Close approach(es) between COMPASS 2 and LEMUR-2-LISASAURUS.
 
 Close approach from 2021-07-30T14:42:00.000 to 2021-07-30T14:47:00.000
 Closest distance is 3320.100000, occurs at time 2021-07-30T14:44:48.000
-At this time, position of A compared to B is:{780.678172431; 2,016.2181648025; -2,519.6170170689}
+At this time, position of A compared to B is:{780.6781724312; 2,016.2181648024; -2,519.6170170726}
 ---
 
 
-First 1 Close approach(es) between LEMUR-2-RDEATON and NAYIF-1 (EO-88).
+First 1 Close approach(es) between SJ-6H and ZACUBE-1 (TSHEPISOSAT).
 
-Close approach from 2021-08-03T03:04:00.000 to 2021-08-03T03:06:00.000
-Closest distance is 7708.781133, occurs at time 2021-08-03T03:05:04.000
-At this time, position of A compared to B is:{-64.7578616765; -4,575.3739863129; 6,203.7944725985}
+Close approach from 2021-07-29T03:11:00.000 to 2021-07-29T03:13:00.000
+Closest distance is 9944.937993, occurs at time 2021-07-29T03:12:04.000
+At this time, position of A compared to B is:{8,547.7215024475; -3,541.5143142815; -3,646.3577934057}
 ---
 
 
-First 1 Close approach(es) between CNUSAIL-1 and ZIYUAN 3-1 (ZY 3-1).
+First 1 Close approach(es) between SJ-6H and AEROCUBE 8D.
 
-Close approach from 2021-08-01T09:26:00.000 to 2021-08-01T10:02:00.000
-Closest distance is 6432.021864, occurs at time 2021-08-01T09:50:22.000
-At this time, position of A compared to B is:{2,537.9839037892; 2,083.0466495473; 5,530.8642743137}
+Close approach from 2021-08-03T21:30:00.000 to 2021-08-03T21:32:00.000
+Closest distance is 5989.685959, occurs at time 2021-08-03T21:31:01.000
+At this time, position of A compared to B is:{5,531.5674298671; -348.6753611798; 2,270.7983497977}
 ---
 
 
-First 1 Close approach(es) between LEMUR-2-RDEATON and FLOCK 3P-32.
+First 5 Close approach(es) between ANIK F1R and ANIK G1.
 
-Close approach from 2021-08-03T02:17:00.000 to 2021-08-03T02:19:00.000
-Closest distance is 4967.290453, occurs at time 2021-08-03T02:17:53.000
-At this time, position of A compared to B is:{259.6149433594; 2,197.7845714256; -4,447.0571733555}
+Close approach from 2021-07-28T17:46:00.000 to 2021-07-28T18:52:00.000
+Closest distance is 1816.906504, occurs at time 2021-07-28T18:18:48.000
+At this time, position of A compared to B is:{-1,228.8688074388; 1,314.0406608135; 253.629337164}
 ---
-
-
-First 1 Close approach(es) between LEMUR-2-RDEATON and FLOCK 3P-49.
-
-Close approach from 2021-07-30T14:55:00.000 to 2021-07-30T14:57:00.000
-Closest distance is 5801.880361, occurs at time 2021-07-30T14:56:06.000
-At this time, position of A compared to B is:{949.1694182382; -3,427.2647512112; -4,584.1847104691}
----
-
-
-First 2 Close approach(es) between CNUSAIL-1 and FLOCK 3P'-4.
-
-Close approach from 2021-08-03T10:39:00.000 to 2021-08-03T10:46:00.000
-Closest distance is 7696.387649, occurs at time 2021-08-03T10:42:27.000
-At this time, position of A compared to B is:{-1,573.2590562901; 6,904.5119562449; 3,014.457403102}
----
-Close approach from 2021-08-03T11:25:00.000 to 2021-08-03T11:33:00.000
-Closest distance is 6334.498954, occurs at time 2021-08-03T11:28:58.000
-At this time, position of A compared to B is:{-985.6287931293; 5,810.7268061784; -2,321.6086812094}
----
-
-
-First 1 Close approach(es) between GOES 15 and GALAXY 13 (HORIZONS 1).
-
-Close approach from 2021-07-28T07:56:00.000 to 2021-07-28T08:17:00.000
-Closest distance is 5631.580240, occurs at time 2021-07-28T08:06:28.000
-At this time, position of A compared to B is:{-2,779.0696663074; -4,897.8645534292; -48.8938474575}
----
-
-
-First 1 Close approach(es) between CNUSAIL-1 and LKW-2.
-
-Close approach from 2021-07-30T23:13:00.000 to 2021-07-30T23:15:00.000
-Closest distance is 8072.814969, occurs at time 2021-07-30T23:14:13.000
-At this time, position of A compared to B is:{2,119.9326288064; -6,842.4128453868; -3,722.5815818626}
----
-
-
-First 2 Close approach(es) between SINAH 1 and SJ-11-08.
-
-Close approach from 2021-07-29T10:11:00.000 to 2021-07-29T10:13:00.000
-Closest distance is 2052.271101, occurs at time 2021-07-29T10:12:08.000
-At this time, position of A compared to B is:{-1,214.6275429421; 1,109.2826803649; -1,227.1872462295}
----
-Close approach from 2021-07-29T15:56:00.000 to 2021-07-29T15:58:00.000
-Closest distance is 3398.752121, occurs at time 2021-07-29T15:57:10.000
-At this time, position of A compared to B is:{-553.9323062648; 1,094.5439302006; -3,169.6448641624}
----
-
-
-First 1 Close approach(es) between LEMUR-2-ANDIS and SJ-6C.
-
-Close approach from 2021-07-28T22:42:00.000 to 2021-07-28T22:44:00.000
-Closest distance is 9569.262046, occurs at time 2021-07-28T22:43:00.000
-At this time, position of A compared to B is:{-4,988.4782700944; -238.4750093902; 8,162.6582874944}
----
-
-
-First 1 Close approach(es) between ARKYD 6A and FLOCK 3P-24.
-
-Close approach from 2021-08-03T16:40:00.000 to 2021-08-03T16:42:00.000
-Closest distance is 5663.275112, occurs at time 2021-08-03T16:41:11.000
-At this time, position of A compared to B is:{-1,459.1343023932; 3,704.879120911; 4,027.0935892258}
----
-
-
-First 2 Close approach(es) between ARKYD 6A and CORVUS BC3.
-
-Close approach from 2021-07-30T15:03:00.000 to 2021-07-30T15:05:00.000
-Closest distance is 5241.027665, occurs at time 2021-07-30T15:04:02.000
-At this time, position of A compared to B is:{1,375.4156783466; -4,642.9910786893; -2,004.803366486}
----
-Close approach from 2021-07-30T15:50:00.000 to 2021-07-30T15:52:00.000
-Closest distance is 7902.845533, occurs at time 2021-07-30T15:51:18.000
-At this time, position of A compared to B is:{1,271.6288096248; -7,317.890249002; 2,699.3351033833}
----
-
-
-First 1 Close approach(es) between COSMOS 2391 and COSMOS 2439.
-
-Close approach from 2021-08-01T07:02:00.000 to 2021-08-01T07:04:00.000
-Closest distance is 9117.371467, occurs at time 2021-08-01T07:03:02.000
-At this time, position of A compared to B is:{8,247.5563183609; 2,274.8152671133; -3,151.109763734}
----
-
-
-First 2 Close approach(es) between CORVUS BC2 and 2017-042C.
-
-Close approach from 2021-08-01T04:56:00.000 to 2021-08-01T04:58:00.000
-Closest distance is 3363.954898, occurs at time 2021-08-01T04:56:54.000
-At this time, position of A compared to B is:{735.8692465757; 2,430.1647887161; 2,206.5783705702}
----
-Close approach from 2021-08-01T05:44:00.000 to 2021-08-01T05:46:00.000
-Closest distance is 4118.814987, occurs at time 2021-08-01T05:45:06.000
-At this time, position of A compared to B is:{219.9578197694; 3,776.5166807718; -1,629.1645766301}
----
-
-
-First 3 Close approach(es) between FLOCK 2K-45 and FLOCK 2K-21.
-
-Close approach from 2021-07-30T08:37:00.000 to 2021-07-30T08:51:00.000
-Closest distance is 6589.650557, occurs at time 2021-07-30T08:43:48.000
-At this time, position of A compared to B is:{-2,369.9603124073; -6,078.7914656679; 924.7036824152}
----
-Close approach from 2021-07-30T09:21:00.000 to 2021-07-30T09:39:00.000
-Closest distance is 1676.851214, occurs at time 2021-07-30T09:29:54.000
-At this time, position of A compared to B is:{103.9356799622; 765.3065925041; -1,488.3995385161}
----
-Close approach from 2021-07-30T10:09:00.000 to 2021-07-30T10:23:00.000
-Closest distance is 6264.991594, occurs at time 2021-07-30T10:15:56.000
-At this time, position of A compared to B is:{2,465.6089778689; 5,672.9757556032; 994.1016637869}
----
-
-
-First 5 Close approach(es) between STAR ONE C3 and GOES 16.
-
-Close approach from 2021-07-29T16:15:00.000 to 2021-07-29T16:56:00.000
-Closest distance is 8887.102721, occurs at time 2021-07-29T16:35:20.000
-At this time, position of A compared to B is:{-4,773.1328610815; -7,462.681741789; 711.4623553376}
----
-Close approach from 2021-07-30T15:59:00.000 to 2021-07-30T17:12:00.000
-Closest distance is 5668.938478, occurs at time 2021-07-30T16:35:38.000
-At this time, position of A compared to B is:{-1,509.255335588; -5,463.5076034591; 95.375416915}
----
-Close approach from 2021-07-31T15:55:00.000 to 2021-07-31T17:16:00.000
-Closest distance is 3783.408098, occurs at time 2021-07-31T16:35:44.000
-At this time, position of A compared to B is:{1,692.6928247623; -3,349.0434148535; -482.5723145502}
----
-Close approach from 2021-08-01T15:59:00.000 to 2021-08-01T17:13:00.000
-Closest distance is 5066.654293, occurs at time 2021-08-01T16:35:40.000
-At this time, position of A compared to B is:{4,832.805416476; -1,128.5822016969; -1,020.4311585828}
----
-Close approach from 2021-08-02T16:11:00.000 to 2021-08-02T17:00:00.000
-Closest distance is 8142.037626, occurs at time 2021-08-02T16:35:29.000
-At this time, position of A compared to B is:{7,909.430629693; 1,191.2074144185; -1,521.4166790316}
----
-
-
-First 1 Close approach(es) between LEMUR-2-SAM-AMELIA and FLOCK 3P-11.
-
-Close approach from 2021-07-31T02:07:00.000 to 2021-07-31T02:09:00.000
-Closest distance is 8944.235163, occurs at time 2021-07-31T02:07:58.000
-At this time, position of A compared to B is:{-572.9220004971; -8,873.1842500887; 968.351325552}
----
-
-
-First 2 Close approach(es) between DIAMOND BLUE and LEMUR-2-KUNGFOO.
-
-Close approach from 2021-07-29T21:02:00.000 to 2021-07-29T21:08:00.000
-Closest distance is 6527.768696, occurs at time 2021-07-29T21:04:46.000
-At this time, position of A compared to B is:{1,489.4727021781; 6,155.1542873426; 1,583.4490588773}
----
-Close approach from 2021-07-29T21:48:00.000 to 2021-07-29T21:56:00.000
-Closest distance is 4140.022189, occurs at time 2021-07-29T21:51:58.000
-At this time, position of A compared to B is:{331.5300240499; -963.7766500692; -4,012.6059034579}
----
-
-
-First 1 Close approach(es) between SPACEBEE-4 and TIANTUO 2.
-
-Close approach from 2021-07-30T07:54:00.000 to 2021-07-30T07:56:00.000
-Closest distance is 4990.611155, occurs at time 2021-07-30T07:54:52.000
-At this time, position of A compared to B is:{-129.2424514274; -1,765.1730574469; 4,666.2254732205}
----
-
-
-First 1 Close approach(es) between LEMUR-2-SAM-AMELIA and TYVAK-53B.
-
-Close approach from 2021-08-01T02:32:00.000 to 2021-08-01T02:34:00.000
-Closest distance is 7911.998228, occurs at time 2021-08-01T02:32:46.000
-At this time, position of A compared to B is:{1,081.3848160682; -1,830.9052756446; -7,620.8994687721}
----
-
-
-First 1 Close approach(es) between NANOACE and LEMUR-2-ZACHARY.
-
-Close approach from 2021-07-28T09:17:00.000 to 2021-07-28T11:13:00.000
-Closest distance is 2732.582279, occurs at time 2021-07-28T10:11:32.000
-At this time, position of A compared to B is:{431.7452479023; 2,692.1676151094; -181.2056371663}
----
-
-
-First 1 Close approach(es) between AMC-8 (GE-8) and AMC-4 (GE-4).
-
-Close approach from 2021-07-28T06:30:00.000 to 2021-07-28T06:32:00.000
-Closest distance is 9858.402620, occurs at time 2021-07-28T06:30:48.000
-At this time, position of A compared to B is:{9,795.8862759948; 1,089.5170249417; -204.1248219746}
----
-
-
-First 1 Close approach(es) between MAX VALIER SAT and LEMUR-2-KUNGFOO.
-
-Close approach from 2021-08-01T22:11:00.000 to 2021-08-01T22:24:00.000
-Closest distance is 5333.748680, occurs at time 2021-08-01T22:17:51.000
-At this time, position of A compared to B is:{2,069.169399311; 2,358.0836246343; -4,313.5663435329}
----
-
-
-First 1 Close approach(es) between ASTROSAT and TIGRISAT.
-
-Close approach from 2021-07-31T16:00:00.000 to 2021-07-31T16:02:00.000
-Closest distance is 9639.784895, occurs at time 2021-07-31T16:01:00.000
-At this time, position of A compared to B is:{4,283.461619291; 3,868.5978943696; -7,720.8393142342}
----
-
-
-First 1 Close approach(es) between LEMUR-2-JOBANPUTRA and FLOCK 3P-11.
-
-Close approach from 2021-08-03T13:24:00.000 to 2021-08-03T13:26:00.000
-Closest distance is 4517.725267, occurs at time 2021-08-03T13:25:13.000
-At this time, position of A compared to B is:{28.3930927754; -2,123.1227052076; 3,987.6541228378}
----
-
-
-First 1 Close approach(es) between LEMUR-2-JOBANPUTRA and LEMUR-2-TACHIKOMA.
-
-Close approach from 2021-07-30T14:14:00.000 to 2021-07-30T14:16:00.000
-Closest distance is 5240.287469, occurs at time 2021-07-30T14:14:49.000
-At this time, position of A compared to B is:{952.8735238202; -2,034.7987670772; -4,734.1566074006}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-31 and INS-1A.
-
-Close approach from 2021-07-29T02:39:00.000 to 2021-07-29T02:41:00.000
-Closest distance is 5760.710469, occurs at time 2021-07-29T02:40:00.000
-At this time, position of A compared to B is:{432.0140554038; 967.6313649358; -5,662.4057167526}
----
-
-
-First 1 Close approach(es) between LEMUR-2-MONSON and WNISAT 1R.
-
-Close approach from 2021-07-30T17:43:00.000 to 2021-07-30T17:46:00.000
-Closest distance is 3602.550550, occurs at time 2021-07-30T17:44:34.000
-At this time, position of A compared to B is:{-781.7244362049; -2,930.7837322639; -1,943.6522540869}
----
-
-
-First 1 Close approach(es) between FLOCK 3P'-3 and FLOCK 3P-24.
-
-Close approach from 2021-08-03T22:57:00.000 to 2021-08-03T22:59:00.000
-Closest distance is 9296.711979, occurs at time 2021-08-03T22:57:54.000
-At this time, position of A compared to B is:{-2,794.384662781; 6,393.3134133478; 6,143.7620044434}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-60 and YAOGAN 21.
-
-Close approach from 2021-08-03T11:56:00.000 to 2021-08-03T11:59:00.000
-Closest distance is 7482.715156, occurs at time 2021-08-03T11:57:09.000
-At this time, position of A compared to B is:{-1,118.839981355; 847.0238100219; 7,349.9506028173}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-65 and YAOGAN 26.
-
-Close approach from 2021-08-03T06:17:00.000 to 2021-08-03T06:19:00.000
-Closest distance is 8010.048703, occurs at time 2021-08-03T06:18:00.000
-At this time, position of A compared to B is:{-483.8753246032; 7,257.4526691067; -3,355.0149989435}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-60 and CNUSAIL-1.
-
-Close approach from 2021-07-28T13:44:00.000 to 2021-07-28T13:46:00.000
-Closest distance is 3152.566107, occurs at time 2021-07-28T13:45:03.000
-At this time, position of A compared to B is:{-769.0003071661; 2,985.8980389122; 657.0574458037}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-60 and QSS (MOZI).
-
-Close approach from 2021-08-02T16:27:00.000 to 2021-08-02T16:29:00.000
-Closest distance is 7215.645681, occurs at time 2021-08-02T16:27:59.000
-At this time, position of A compared to B is:{943.6137250713; -4,953.2797988332; 5,161.410172699}
----
-
-
-First 2 Close approach(es) between LEMUR-2-MCPEAKE and NUDTSAT.
-
-Close approach from 2021-08-03T16:30:00.000 to 2021-08-03T16:35:00.000
-Closest distance is 2965.155621, occurs at time 2021-08-03T16:32:27.000
-At this time, position of A compared to B is:{483.8003880372; 1,013.2678745963; -2,744.3347566091}
----
-Close approach from 2021-08-03T17:18:00.000 to 2021-08-03T17:21:00.000
-Closest distance is 7849.021023, occurs at time 2021-08-03T17:19:34.000
-At this time, position of A compared to B is:{-900.7578314238; -7,718.6927067103; 1,103.4261386618}
----
-
-
-First 2 Close approach(es) between LEMUR-2-MCPEAKE and SKCUBE.
-
-Close approach from 2021-08-02T15:20:00.000 to 2021-08-02T15:23:00.000
-Closest distance is 6797.460419, occurs at time 2021-08-02T15:21:41.000
-At this time, position of A compared to B is:{551.3045591341; 6,101.6182493424; 2,944.7896645451}
----
-Close approach from 2021-08-02T16:07:00.000 to 2021-08-02T16:10:00.000
-Closest distance is 6185.410933, occurs at time 2021-08-02T16:08:48.000
-At this time, position of A compared to B is:{1,015.0470041553; 5,846.6837647596; -1,745.0721882889}
----
-
-
-First 1 Close approach(es) between ITUPSAT1 and PLEIADES 1A.
-
-Close approach from 2021-08-02T10:20:00.000 to 2021-08-02T10:22:00.000
-Closest distance is 9604.175499, occurs at time 2021-08-02T10:21:00.000
-At this time, position of A compared to B is:{7,170.4495160054; 6,110.7414490827; -1,866.4618136678}
----
-
-
-First 1 Close approach(es) between APRIZESAT 7 and WNISAT 1R.
-
-Close approach from 2021-08-02T06:03:00.000 to 2021-08-02T06:05:00.000
-Closest distance is 5550.872792, occurs at time 2021-08-02T06:04:00.000
-At this time, position of A compared to B is:{-1,468.9471837694; 4,892.1186690335; -2,172.9145992156}
----
-
-
-First 1 Close approach(es) between TIANHUI 1 and FLOCK 3P-2.
-
-Close approach from 2021-08-03T09:33:00.000 to 2021-08-03T09:35:00.000
-Closest distance is 7256.037986, occurs at time 2021-08-03T09:34:00.000
-At this time, position of A compared to B is:{-2,807.9446130671; -6,689.5031638001; -126.813753346}
----
-
-
-First 2 Close approach(es) between FLOCK 3P-70 and LEMUR-2-NOGUECORREIG.
-
-Close approach from 2021-07-30T19:26:00.000 to 2021-07-30T19:29:00.000
-Closest distance is 1888.551645, occurs at time 2021-07-30T19:27:17.000
-At this time, position of A compared to B is:{-251.976854746; 222.2841050788; 1,858.4199625989}
----
-Close approach from 2021-07-30T20:13:00.000 to 2021-07-30T20:16:00.000
-Closest distance is 1174.941769, occurs at time 2021-07-30T20:14:27.000
-At this time, position of A compared to B is:{-134.6049254473; 957.8717631941; -666.9717828548}
----
-
-
-First 1 Close approach(es) between FENGNIAO 1 (FN-1) and FLOCK 2K-45.
-
-Close approach from 2021-08-01T05:18:00.000 to 2021-08-01T05:20:00.000
-Closest distance is 9225.127104, occurs at time 2021-08-01T05:18:59.000
-At this time, position of A compared to B is:{4,944.5660180026; -3,174.5537364203; -7,111.711858463}
----
-
-
-First 2 Close approach(es) between FLOCK 3P-54 and LEMUR-2-BROWNCOW.
-
-Close approach from 2021-07-29T10:13:00.000 to 2021-07-29T10:15:00.000
-Closest distance is 7487.760621, occurs at time 2021-07-29T10:13:58.000
-At this time, position of A compared to B is:{-858.8583631711; -2,950.2431034858; 6,828.2491940809}
----
-Close approach from 2021-07-29T11:00:00.000 to 2021-07-29T11:02:00.000
-Closest distance is 8604.135269, occurs at time 2021-07-29T11:01:04.000
-At this time, position of A compared to B is:{-133.2646657639; -1,707.6611306651; 8,431.9201682117}
----
-
-
-First 1 Close approach(es) between FLOCK 3P-54 and FLOCK 3P-24.
-
-Close approach from 2021-08-01T18:22:00.000 to 2021-08-01T18:24:00.000
-Closest distance is 9693.812534, occurs at time 2021-08-01T18:22:57.000
-At this time, position of A compared to B is:{-695.4040303875; 7,568.5952230876; -6,016.8746896116}
----
-
-
-First 5 Close approach(es) between FLOCK 3P-50 and FLOCK 3P-8.
-
-Close approach from 2021-08-01T02:18:00.000 to 2021-08-01T02:22:00.000
-Closest distance is 7669.208291, occurs at time 2021-08-01T02:20:20.000
-At this time, position of A compared to B is:{1,107.8068540921; -7,351.5223958115; -1,882.72096748}
----
-Close approach from 2021-08-01T03:06:00.000 to 2021-08-01T03:09:00.000
-Closest distance is 8446.906495, occurs at time 2021-08-01T03:07:23.000
-At this time, position of A compared to B is:{-1,567.0338654683; 8,299.4540344858; -117.0338907791}
----
-Close approach from 2021-08-01T03:52:00.000 to 2021-08-01T03:57:00.000
-Closest distance is 1933.713965, occurs at time 2021-08-01T03:54:32.000
-At this time, position of A compared to B is:{146.9566536576; 590.6744456475; -1,835.4174295468}
----
-Close approach from 2021-08-01T04:39:00.000 to 2021-08-01T04:45:00.000
-Closest distance is 493.525113, occurs at time 2021-08-01T04:41:43.000
-At this time, position of A compared to B is:{-64.8741778613; 465.6574834677; -150.0716041485}
----
-Close approach from 2021-08-01T05:27:00.000 to 2021-08-01T05:30:00.000
-Closest distance is 8733.520127, occurs at time 2021-08-01T05:28:44.000
-At this time, position of A compared to B is:{-845.2539997315; 8,528.6578828964; -1,679.8554099249}
----
-
-
-First 2 Close approach(es) between ZACUBE-1 (TSHEPISOSAT) and FIRST-MOVE.
-
-Close approach from 2021-08-01T09:06:00.000 to 2021-08-01T09:08:00.000
-Closest distance is 5750.412690, occurs at time 2021-08-01T09:07:19.000
-At this time, position of A compared to B is:{-5,062.5418492735; -1,018.4576210099; 2,529.9526092708}
----
-Close approach from 2021-08-01T09:55:00.000 to 2021-08-01T09:57:00.000
-Closest distance is 5835.100476, occurs at time 2021-08-01T09:56:18.000
-At this time, position of A compared to B is:{3,598.0156801094; 229.251120663; -4,588.0414838418}
----
-
-
-First 4 Close approach(es) between LEMUR-2-SPIRE-MINIONS and FLOCK 3P-4.
-
-Close approach from 2021-07-28T20:44:00.000 to 2021-07-28T20:48:00.000
-Closest distance is 6925.736179, occurs at time 2021-07-28T20:45:58.000
-At this time, position of A compared to B is:{1,168.2883605964; -6,547.188808359; -1,932.6775814211}
----
-Close approach from 2021-07-28T21:31:00.000 to 2021-07-28T21:35:00.000
-Closest distance is 1838.944378, occurs at time 2021-07-28T21:33:06.000
-At this time, position of A compared to B is:{-216.2769571943; 1,817.6254769722; 176.5738565056}
----
-Close approach from 2021-07-28T22:18:00.000 to 2021-07-28T22:22:00.000
-Closest distance is 3793.563506, occurs at time 2021-07-28T22:20:11.000
-At this time, position of A compared to B is:{-266.6610607224; 3,266.0294337206; -1,911.3000004254}
----
-Close approach from 2021-07-28T23:06:00.000 to 2021-07-28T23:09:00.000
-Closest distance is 8064.816765, occurs at time 2021-07-28T23:07:23.000
-At this time, position of A compared to B is:{854.1084273894; -8,018.7378851642; 107.7542279661}
----
-
-
-First 1 Close approach(es) between AEROCUBE 5C and IRIDIUM 125.
-
-Close approach from 2021-08-03T03:53:00.000 to 2021-08-03T03:55:00.000
-Closest distance is 8513.391777, occurs at time 2021-08-03T03:54:00.000
-At this time, position of A compared to B is:{-3,493.6962743734; 158.4749661651; -7,761.8819604795}
----
-
-
-First 1 Close approach(es) between YAOGAN 30 K and NANOSATC-BR1.
-
-Close approach from 2021-08-03T18:27:00.000 to 2021-08-03T18:29:00.000
-Closest distance is 4648.621695, occurs at time 2021-08-03T18:28:00.000
-At this time, position of A compared to B is:{-3,775.1405085558; 2,681.4948378108; -409.3693182976}
----
-
-
-First 1 Close approach(es) between URSA MAIOR and LEMUR-2-XUENITERENCE.
-
-Close approach from 2021-08-03T13:52:00.000 to 2021-08-03T13:54:00.000
-Closest distance is 7556.876240, occurs at time 2021-08-03T13:53:04.000
-At this time, position of A compared to B is:{1,521.9558611496; 3,278.7010013803; -6,636.2752053756}
+Close approach from 2021-07-29T17:44:00.000 to 2021-07-29T18:49:00.000
+Closest distance is 1846.237015, occurs at time 2021-07-29T18:16:27.000
+At this time, position of A compared to B is:{-339.2769420743; 1,788.545258671; 307.5518299027}
 ---
-
-
-First 1 Close approach(es) between URSA MAIOR and DIAMOND RED.
-
-Close approach from 2021-07-30T15:16:00.000 to 2021-07-30T15:18:00.000
-Closest distance is 5528.968826, occurs at time 2021-07-30T15:16:49.000
-At this time, position of A compared to B is:{1,447.6758507766; 4,759.0442269082; -2,413.5511095682}
+Close approach from 2021-07-30T17:42:00.000 to 2021-07-30T18:44:00.000
+Closest distance is 2321.110601, occurs at time 2021-07-30T18:13:07.000
+At this time, position of A compared to B is:{563.205942478; 2,223.812799044; 353.5677045585}
 ---
-
-
-First 1 Close approach(es) between URSA MAIOR and GHGSAT-D.
-
-Close approach from 2021-07-31T15:42:00.000 to 2021-07-31T15:44:00.000
-Closest distance is 1941.879104, occurs at time 2021-07-31T15:43:01.000
-At this time, position of A compared to B is:{15.2964259526; -1,338.2964073435; -1,406.9908313202}
+Close approach from 2021-07-31T17:38:00.000 to 2021-07-31T18:39:00.000
+Closest distance is 3019.396228, occurs at time 2021-07-31T18:08:39.000
+At this time, position of A compared to B is:{1,485.5172131918; 2,599.6087169796; 389.9060256731}
 ---
-
-
-First 1 Close approach(es) between PEASSS and FLOCK 3P-12.
-
-Close approach from 2021-07-31T16:01:00.000 to 2021-07-31T16:03:00.000
-Closest distance is 1711.310903, occurs at time 2021-07-31T16:01:49.000
-At this time, position of A compared to B is:{107.4424579242; -1,109.6402679177; 1,298.3603502419}
+Close approach from 2021-08-01T17:35:00.000 to 2021-08-01T18:32:00.000
+Closest distance is 3821.547422, occurs at time 2021-08-01T18:03:25.000
+At this time, position of A compared to B is:{2,425.004768312; 2,925.0858988091; 409.2053932057}
 ---
 
 
-First 5 Close approach(es) between INTELSAT 20 (IS-20) and INTELSAT 36 (IS-36).
+First 5 Close approach(es) between EUTELSAT 3B and RASCOM-QAF 1R.
 
-Close approach from 2021-07-29T15:49:00.000 to 2021-07-29T16:22:00.000
-Closest distance is 9503.281578, occurs at time 2021-07-29T16:05:44.000
-At this time, position of A compared to B is:{7,892.4894911069; 5,293.4616881683; 15.2888353367}
----
-Close approach from 2021-07-30T15:40:00.000 to 2021-07-30T16:25:00.000
-Closest distance is 8977.912909, occurs at time 2021-07-30T16:02:34.000
-At this time, position of A compared to B is:{7,132.1234453805; 5,448.3924872503; -225.2879697348}
+Close approach from 2021-07-29T12:06:00.000 to 2021-07-29T12:27:00.000
+Closest distance is 9552.862350, occurs at time 2021-07-29T12:16:41.000
+At this time, position of A compared to B is:{-5,696.4613581412; -7,637.0843271464; 694.5862519575}
 ---
-Close approach from 2021-07-31T15:33:00.000 to 2021-07-31T16:26:00.000
-Closest distance is 8487.199966, occurs at time 2021-07-31T15:59:43.000
-At this time, position of A compared to B is:{6,375.6754357908; 5,584.3522514701; -445.3492223845}
+Close approach from 2021-07-30T11:41:00.000 to 2021-07-30T12:40:00.000
+Closest distance is 5091.175270, occurs at time 2021-07-30T12:10:40.000
+At this time, position of A compared to B is:{-2,572.224354744; -4,372.2916275933; 432.1960448517}
 ---
-Close approach from 2021-08-01T15:28:00.000 to 2021-08-01T16:26:00.000
-Closest distance is 8037.480655, occurs at time 2021-08-01T15:56:50.000
-At this time, position of A compared to B is:{5,616.4056353495; 5,712.7707125545; -649.102308053}
+Close approach from 2021-07-31T11:31:00.000 to 2021-07-31T12:39:00.000
+Closest distance is 1328.187506, occurs at time 2021-07-31T12:04:37.000
+At this time, position of A compared to B is:{603.6086380109; -1,165.7170313895; 202.0951918663}
 ---
-Close approach from 2021-08-02T15:23:00.000 to 2021-08-02T16:24:00.000
-Closest distance is 7642.203464, occurs at time 2021-08-02T15:53:40.000
-At this time, position of A compared to B is:{4,850.8478307873; 5,845.0877259001; -841.1293463601}
----
-
-
-First 1 Close approach(es) between PEASSS and INS-1A.
-
-Close approach from 2021-08-01T06:57:00.000 to 2021-08-01T06:59:00.000
-Closest distance is 3215.137934, occurs at time 2021-08-01T06:58:22.000
-At this time, position of A compared to B is:{-129.7656531843; 3,168.2459918842; -531.4980177879}
+Close approach from 2021-08-01T11:28:00.000 to 2021-08-01T12:29:00.000
+Closest distance is 4313.204426, occurs at time 2021-08-01T11:58:25.000
+At this time, position of A compared to B is:{3,830.3226161674; 1,983.0139301717; 4.1020267307}
 ---
-
-
-First 1 Close approach(es) between FLOCK 3P-58 and LEMUR-2-LUCYBRYCE.
-
-Close approach from 2021-08-01T09:26:00.000 to 2021-08-01T09:28:00.000
-Closest distance is 4935.392725, occurs at time 2021-08-01T09:26:59.000
-At this time, position of A compared to B is:{55.3721037901; -1,637.0380322686; -4,655.6569634341}
+Close approach from 2021-08-02T11:35:00.000 to 2021-08-02T12:09:00.000
+Closest distance is 8735.341253, occurs at time 2021-08-02T11:51:59.000
+At this time, position of A compared to B is:{7,113.5351869129; 5,067.4366509132; -157.7648110099}
 ---
 
 
-First 2 Close approach(es) between FLOCK 3P-58 and LEMUR-2-MIA-GRACE.
+First 2 Close approach(es) between EUTELSAT 3B and METEOSAT-9 (MSG-2).
 
-Close approach from 2021-07-31T13:47:00.000 to 2021-07-31T13:49:00.000
-Closest distance is 9449.120878, occurs at time 2021-07-31T13:48:05.000
-At this time, position of A compared to B is:{-1,564.8695679156; 7,785.9497624483; 5,120.1616085097}
+Close approach from 2021-07-30T19:46:00.000 to 2021-07-30T19:49:00.000
+Closest distance is 4318.309477, occurs at time 2021-07-30T19:47:32.000
+At this time, position of A compared to B is:{-3,805.2819147594; -2,037.2400577739; 131.4505134427}
 ---
-Close approach from 2021-07-31T14:34:00.000 to 2021-07-31T14:36:00.000
-Closest distance is 5499.188181, occurs at time 2021-07-31T14:35:13.000
-At this time, position of A compared to B is:{-233.7680179742; 4,222.2013578595; -3,515.5993596632}
----
-
-
-First 1 Close approach(es) between LEMUR-2-TALLHAMN-ATC and LEMUR-2-LISASAURUS.
-
-Close approach from 2021-08-02T18:21:00.000 to 2021-08-02T18:23:00.000
-Closest distance is 6392.108830, occurs at time 2021-08-02T18:22:00.000
-At this time, position of A compared to B is:{2,676.1967855453; 1,713.80432958; 5,546.1609041179}
+Close approach from 2021-07-31T19:43:00.000 to 2021-07-31T19:45:00.000
+Closest distance is 5435.475344, occurs at time 2021-07-31T19:43:33.000
+At this time, position of A compared to B is:{2,828.8042954877; -4,631.7813236192; -298.094358248}
 ---
 
 
@@ -1922,23 +1562,403 @@ First 1 Close approach(es) between BGUSAT and FLOCK 3P-3.
 
 Close approach from 2021-08-02T16:52:00.000 to 2021-08-02T16:54:00.000
 Closest distance is 7914.179000, occurs at time 2021-08-02T16:53:10.000
-At this time, position of A compared to B is:{245.2421312523; -5,731.1532210211; 5,452.3360402891}
+At this time, position of A compared to B is:{245.2421312537; -5,731.1532210209; 5,452.336040291}
 ---
 
 
-First 1 Close approach(es) between LEMUR-2-SATCHMO and CARBONITE 2.
+First 1 Close approach(es) between AEROCUBE 5C and IRIDIUM 125.
 
-Close approach from 2021-07-30T21:24:00.000 to 2021-07-30T21:26:00.000
-Closest distance is 2379.667374, occurs at time 2021-07-30T21:25:09.000
-At this time, position of A compared to B is:{401.4866158641; -1,900.2515793797; -1,375.0160888657}
+Close approach from 2021-08-03T03:53:00.000 to 2021-08-03T03:55:00.000
+Closest distance is 8513.391777, occurs at time 2021-08-03T03:54:00.000
+At this time, position of A compared to B is:{-3,493.696274373; 158.4749661689; -7,761.8819604795}
 ---
 
 
-First 1 Close approach(es) between LEMUR-2-SATCHMO and FLOCK 3P-4.
+First 1 Close approach(es) between PEGASUS and M3MSAT.
 
-Close approach from 2021-08-02T23:20:00.000 to 2021-08-02T23:22:00.000
-Closest distance is 7188.826480, occurs at time 2021-08-02T23:20:48.000
-At this time, position of A compared to B is:{752.008994452; -6,446.0907405455; 3,092.1873804517}
+Close approach from 2021-08-02T21:21:00.000 to 2021-08-02T21:24:00.000
+Closest distance is 4793.880053, occurs at time 2021-08-02T21:22:31.000
+At this time, position of A compared to B is:{-490.8073089708; -2,828.1340429806; 3,839.5379903447}
+---
+
+
+First 1 Close approach(es) between PEGASUS and LAPAN-A3.
+
+Close approach from 2021-07-30T02:00:00.000 to 2021-07-30T02:02:00.000
+Closest distance is 6277.596990, occurs at time 2021-07-30T02:01:14.000
+At this time, position of A compared to B is:{-1,661.0742495252; -3,866.287579123; 4,658.4199742693}
+---
+
+
+First 1 Close approach(es) between DEMOSAT 2 and FLOCK 3P'-2.
+
+Close approach from 2021-07-28T14:25:00.000 to 2021-07-28T16:09:00.000
+Closest distance is 1423.786190, occurs at time 2021-07-28T15:15:53.000
+At this time, position of A compared to B is:{216.3284294908; 502.2081516548; -1,314.5935100326}
+---
+
+
+First 1 Close approach(es) between DEMOSAT 2 and QSAT-EOS.
+
+Close approach from 2021-07-30T08:17:00.000 to 2021-07-30T08:19:00.000
+Closest distance is 7087.663501, occurs at time 2021-07-30T08:18:19.000
+At this time, position of A compared to B is:{746.2846272172; -4,497.8528565066; 5,426.541517701}
+---
+
+
+First 1 Close approach(es) between DEMOSAT 2 and 2018-004Z.
+
+Close approach from 2021-08-02T22:56:00.000 to 2021-08-02T22:59:00.000
+Closest distance is 2748.281764, occurs at time 2021-08-02T22:57:10.000
+At this time, position of A compared to B is:{-222.6333089775; -424.6859818737; 2,706.1280240854}
+---
+
+
+First 1 Close approach(es) between DEMOSAT 2 and LKW-2.
+
+Close approach from 2021-08-02T20:35:00.000 to 2021-08-02T20:37:00.000
+Closest distance is 6680.795682, occurs at time 2021-08-02T20:35:43.000
+At this time, position of A compared to B is:{-664.8707747456; 4,555.1340092718; -4,841.6662368514}
+---
+
+
+First 1 Close approach(es) between DEMOSAT 2 and LEMUR-2-NOGUECORREIG.
+
+Close approach from 2021-08-01T12:17:00.000 to 2021-08-01T12:19:00.000
+Closest distance is 5112.294037, occurs at time 2021-08-01T12:17:59.000
+At this time, position of A compared to B is:{-1,373.0726479877; 4,402.4924129386; 2,206.4184511155}
+---
+
+
+First 4 Close approach(es) between CHEFSAT and LEMUR-2-YONGLIN.
+
+Close approach from 2021-07-29T05:49:00.000 to 2021-07-29T05:51:00.000
+Closest distance is 3901.119976, occurs at time 2021-07-29T05:50:24.000
+At this time, position of A compared to B is:{3,874.501619256; -291.5904975645; 349.2123276303}
+---
+Close approach from 2021-07-29T06:35:00.000 to 2021-07-29T06:37:00.000
+Closest distance is 3878.413412, occurs at time 2021-07-29T06:36:26.000
+At this time, position of A compared to B is:{-3,824.2187439345; 184.8406625492; -619.092500627}
+---
+Close approach from 2021-07-29T07:21:00.000 to 2021-07-29T07:23:00.000
+Closest distance is 2215.705475, occurs at time 2021-07-29T07:22:29.000
+At this time, position of A compared to B is:{-2,124.8160698864; -436.8555038758; 451.2922425251}
+---
+Close approach from 2021-07-29T08:08:00.000 to 2021-07-29T08:10:00.000
+Closest distance is 2300.802240, occurs at time 2021-07-29T08:08:32.000
+At this time, position of A compared to B is:{2,171.2231488164; 556.763715873; -519.1292214897}
+---
+
+
+First 1 Close approach(es) between S-NET D and SJ-6F.
+
+Close approach from 2021-08-03T13:25:00.000 to 2021-08-03T13:27:00.000
+Closest distance is 9098.142176, occurs at time 2021-08-03T13:26:00.000
+At this time, position of A compared to B is:{5,506.4833708031; -5,951.3632704956; -4,127.4819408087}
+---
+
+
+First 1 Close approach(es) between HODOYOSHI-1 and LEMUR-2-PETERWEBSTER.
+
+Close approach from 2021-07-30T18:41:00.000 to 2021-07-30T18:43:00.000
+Closest distance is 7124.163463, occurs at time 2021-07-30T18:41:50.000
+At this time, position of A compared to B is:{1,898.8856817231; -6,821.3826120876; -785.2881481238}
+---
+
+
+First 1 Close approach(es) between 2018-004AA and FLOCK 3P-55.
+
+Close approach from 2021-08-02T13:16:00.000 to 2021-08-02T13:18:00.000
+Closest distance is 6063.921437, occurs at time 2021-08-02T13:17:06.000
+At this time, position of A compared to B is:{-588.7311846917; 5,025.287067101; -3,342.3088848973}
+---
+
+
+First 1 Close approach(es) between 2018-004AA and FLOCK 3P'-4.
+
+Close approach from 2021-07-30T05:50:00.000 to 2021-07-30T05:52:00.000
+Closest distance is 8587.740468, occurs at time 2021-07-30T05:50:51.000
+At this time, position of A compared to B is:{-847.3655392975; -1,232.6588529105; 8,456.4655822488}
+---
+
+
+First 5 Close approach(es) between HODOYOSHI-1 and ICEYE-X1.
+
+Close approach from 2021-07-29T01:48:00.000 to 2021-07-29T01:53:00.000
+Closest distance is 7377.903232, occurs at time 2021-07-29T01:50:37.000
+At this time, position of A compared to B is:{507.7047938902; 6,857.0238301326; 2,675.2413232774}
+---
+Close approach from 2021-07-29T03:22:00.000 to 2021-07-29T03:28:00.000
+Closest distance is 5101.503998, occurs at time 2021-07-29T03:24:56.000
+At this time, position of A compared to B is:{460.299633051; 3,124.7576126913; 4,006.1648928141}
+---
+Close approach from 2021-07-29T04:56:00.000 to 2021-07-29T05:02:00.000
+Closest distance is 5302.571522, occurs at time 2021-07-29T04:59:15.000
+At this time, position of A compared to B is:{440.9365764079; -631.5689415585; 5,246.3282733094}
+---
+Close approach from 2021-07-29T06:31:00.000 to 2021-07-29T06:36:00.000
+Closest distance is 7781.108749, occurs at time 2021-07-29T06:33:32.000
+At this time, position of A compared to B is:{339.2114123513; -4,418.6082199987; 6,395.8181950431}
+---
+Close approach from 2021-07-30T00:38:00.000 to 2021-07-30T00:43:00.000
+Closest distance is 7144.960807, occurs at time 2021-07-30T00:40:23.000
+At this time, position of A compared to B is:{450.4929879787; -5,107.9168162888; 4,975.6111979131}
+---
+
+
+First 3 Close approach(es) between 2018-004AA and 2018-004AB.
+
+Close approach from 2021-07-29T14:05:00.000 to 2021-07-29T14:09:00.000
+Closest distance is 8523.054364, occurs at time 2021-07-29T14:06:57.000
+At this time, position of A compared to B is:{2,114.3787244686; -8,077.1061642634; -1,712.3709647423}
+---
+Close approach from 2021-07-29T14:51:00.000 to 2021-07-29T14:57:00.000
+Closest distance is 1905.194474, occurs at time 2021-07-29T14:54:02.000
+At this time, position of A compared to B is:{-512.4422236739; 1,205.4959938267; 1,383.4552257266}
+---
+Close approach from 2021-07-29T15:39:00.000 to 2021-07-29T15:43:00.000
+Closest distance is 6378.633873, occurs at time 2021-07-29T15:41:12.000
+At this time, position of A compared to B is:{-1,178.9282442816; 6,057.9823563996; -1,611.815141568}
+---
+
+
+First 1 Close approach(es) between ALOS-2 and CARBONITE 1 (CBNT-1).
+
+Close approach from 2021-07-30T14:05:00.000 to 2021-07-30T14:07:00.000
+Closest distance is 6923.497003, occurs at time 2021-07-30T14:06:00.000
+At this time, position of A compared to B is:{-2,351.3021899258; 1,641.8836366544; 6,301.6193856513}
+---
+
+
+First 1 Close approach(es) between SUCHAI and INS-1A.
+
+Close approach from 2021-08-01T12:28:00.000 to 2021-08-01T12:30:00.000
+Closest distance is 5445.492900, occurs at time 2021-08-01T12:28:56.000
+At this time, position of A compared to B is:{178.511846007; 1,254.3445356159; -5,296.0500590699}
+---
+
+
+First 1 Close approach(es) between TIANHUI 1 and FLOCK 3P-2.
+
+Close approach from 2021-08-03T09:33:00.000 to 2021-08-03T09:35:00.000
+Closest distance is 7256.037986, occurs at time 2021-08-03T09:34:00.000
+At this time, position of A compared to B is:{-2,807.9446130806; -6,689.5031637955; -126.813753346}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-SAM-AMELIA and FLOCK 3P-11.
+
+Close approach from 2021-07-31T02:07:00.000 to 2021-07-31T02:09:00.000
+Closest distance is 8944.235163, occurs at time 2021-07-31T02:07:58.000
+At this time, position of A compared to B is:{-572.9220004983; -8,873.1842500886; 968.3513255538}
+---
+
+
+First 1 Close approach(es) between PICSAT and LEMUR-2-PETERWEBSTER.
+
+Close approach from 2021-07-30T07:41:00.000 to 2021-07-30T07:43:00.000
+Closest distance is 5459.656718, occurs at time 2021-07-30T07:42:04.000
+At this time, position of A compared to B is:{1,167.7142314443; -2,287.5319685334; -4,817.8306786176}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-SAM-AMELIA and TYVAK-53B.
+
+Close approach from 2021-08-01T02:32:00.000 to 2021-08-01T02:34:00.000
+Closest distance is 7911.998228, occurs at time 2021-08-01T02:32:46.000
+At this time, position of A compared to B is:{1,081.3848160682; -1,830.9052756447; -7,620.8994687721}
+---
+
+
+First 1 Close approach(es) between PICSAT and HODOYOSHI-1.
+
+Close approach from 2021-07-31T07:16:00.000 to 2021-07-31T07:18:00.000
+Closest distance is 8200.863641, occurs at time 2021-07-31T07:17:21.000
+At this time, position of A compared to B is:{-1,656.7117205081; 7,075.3636400325; -3,801.1445758753}
+---
+
+
+First 1 Close approach(es) between PICSAT and ICEYE-X1.
+
+Close approach from 2021-07-31T02:34:00.000 to 2021-07-31T02:36:00.000
+Closest distance is 4804.683191, occurs at time 2021-07-31T02:35:09.000
+At this time, position of A compared to B is:{-1,203.2923281007; 2,689.9795972912; 3,794.8752154438}
+---
+
+
+First 2 Close approach(es) between LEMUR-2-BRIANDAVIE and LEMUR-2-ROCKETJONAH.
+
+Close approach from 2021-07-30T18:48:00.000 to 2021-07-30T18:50:00.000
+Closest distance is 5899.085534, occurs at time 2021-07-30T18:48:45.000
+At this time, position of A compared to B is:{5,555.9171575428; -1,059.8644397785; 1,675.6139320889}
+---
+Close approach from 2021-07-30T19:34:00.000 to 2021-07-30T19:36:00.000
+Closest distance is 2803.601254, occurs at time 2021-07-30T19:34:53.000
+At this time, position of A compared to B is:{-653.0091132187; 1,603.1738597108; -2,205.3554515066}
+---
+
+
+First 1 Close approach(es) between QB50P2 and LEMUR-2-FURIAUS.
+
+Close approach from 2021-08-03T15:28:00.000 to 2021-08-03T15:30:00.000
+Closest distance is 8692.917707, occurs at time 2021-08-03T15:29:00.000
+At this time, position of A compared to B is:{-1,528.8049139443; 5,999.100304776; 6,102.4887810173}
+---
+
+
+First 1 Close approach(es) between MAX VALIER SAT and LEMUR-2-KUNGFOO.
+
+Close approach from 2021-08-01T22:11:00.000 to 2021-08-01T22:24:00.000
+Closest distance is 5333.748680, occurs at time 2021-08-01T22:17:51.000
+At this time, position of A compared to B is:{2,069.1693993123; 2,358.0836246332; -4,313.5663435329}
+---
+
+
+First 1 Close approach(es) between YAOGAN 30 K and NANOSATC-BR1.
+
+Close approach from 2021-08-03T18:27:00.000 to 2021-08-03T18:29:00.000
+Closest distance is 4648.621695, occurs at time 2021-08-03T18:28:00.000
+At this time, position of A compared to B is:{-3,775.1405085614; 2,681.4948378033; -409.3693182976}
+---
+
+
+First 1 Close approach(es) between SPROUT and TIMED.
+
+Close approach from 2021-07-28T07:53:00.000 to 2021-07-28T07:55:00.000
+Closest distance is 9754.568413, occurs at time 2021-07-28T07:54:00.000
+At this time, position of A compared to B is:{-4,028.8179998853; 7,595.9345647299; -4,606.7351275133}
+---
+
+
+First 1 Close approach(es) between UNIFORM 1 and GAOFEN 2.
+
+Close approach from 2021-07-30T01:48:00.000 to 2021-07-30T01:50:00.000
+Closest distance is 3121.253541, occurs at time 2021-07-30T01:48:58.000
+At this time, position of A compared to B is:{-1,134.5256319491; 2,234.6779299055; 1,860.4541940792}
+---
+
+
+First 1 Close approach(es) between APRIZESAT 9 and ORBCOMM FM103.
+
+Close approach from 2021-07-31T21:28:00.000 to 2021-07-31T21:30:00.000
+Closest distance is 8494.504844, occurs at time 2021-07-31T21:29:00.000
+At this time, position of A compared to B is:{7,092.1391441431; -4,523.6761801019; -1,180.9016587553}
+---
+
+
+First 1 Close approach(es) between ARKYD 6A and FLOCK 3P-24.
+
+Close approach from 2021-08-03T16:40:00.000 to 2021-08-03T16:42:00.000
+Closest distance is 5663.275112, occurs at time 2021-08-03T16:41:11.000
+At this time, position of A compared to B is:{-1,459.1343023962; 3,704.87912091; 4,027.0935892239}
+---
+
+
+First 1 Close approach(es) between ARKYD 6A and AL-FARABI 1.
+
+Close approach from 2021-07-30T05:36:00.000 to 2021-07-30T05:38:00.000
+Closest distance is 4923.218001, occurs at time 2021-07-30T05:37:07.000
+At this time, position of A compared to B is:{-1,287.1809628975; 4,504.8298820294; 1,512.5304595949}
+---
+
+
+First 2 Close approach(es) between ARKYD 6A and CORVUS BC3.
+
+Close approach from 2021-07-30T15:03:00.000 to 2021-07-30T15:05:00.000
+Closest distance is 5241.027665, occurs at time 2021-07-30T15:04:02.000
+At this time, position of A compared to B is:{1,375.4156783434; -4,642.9910786902; -2,004.8033664878}
+---
+Close approach from 2021-07-30T15:50:00.000 to 2021-07-30T15:52:00.000
+Closest distance is 7902.845533, occurs at time 2021-07-30T15:51:18.000
+At this time, position of A compared to B is:{1,271.6288096358; -7,317.8902490001; 2,699.335103387}
+---
+
+
+First 1 Close approach(es) between 2018-004AB and DIAMOND GREEN.
+
+Close approach from 2021-07-31T18:00:00.000 to 2021-07-31T18:02:00.000
+Closest distance is 8579.837757, occurs at time 2021-07-31T18:00:59.000
+At this time, position of A compared to B is:{-387.3004188739; -387.7976688192; 8,562.3143653534}
+---
+
+
+First 1 Close approach(es) between TYVAK-61C and SWAYAM.
+
+Close approach from 2021-07-28T22:08:00.000 to 2021-07-28T22:10:00.000
+Closest distance is 7245.937763, occurs at time 2021-07-28T22:08:59.000
+At this time, position of A compared to B is:{-251.5740111283; 7,234.8206331176; -312.5619736752}
+---
+
+
+First 2 Close approach(es) between LEMUR-2-MCPEAKE and NUDTSAT.
+
+Close approach from 2021-08-03T16:30:00.000 to 2021-08-03T16:35:00.000
+Closest distance is 2965.155621, occurs at time 2021-08-03T16:32:27.000
+At this time, position of A compared to B is:{483.8003880363; 1,013.2678745969; -2,744.3347566072}
+---
+Close approach from 2021-08-03T17:18:00.000 to 2021-08-03T17:21:00.000
+Closest distance is 7849.021023, occurs at time 2021-08-03T17:19:34.000
+At this time, position of A compared to B is:{-900.7578314231; -7,718.6927067103; 1,103.4261386618}
+---
+
+
+First 1 Close approach(es) between IRIDIUM 133 and ORBCOMM FM18.
+
+Close approach from 2021-08-02T13:21:00.000 to 2021-08-02T13:23:00.000
+Closest distance is 5047.111929, occurs at time 2021-08-02T13:21:59.000
+At this time, position of A compared to B is:{4,965.9082873212; 698.3505813899; 570.4385737851}
+---
+
+
+First 2 Close approach(es) between LEMUR-2-MCPEAKE and SKCUBE.
+
+Close approach from 2021-08-02T15:20:00.000 to 2021-08-02T15:23:00.000
+Closest distance is 6797.460419, occurs at time 2021-08-02T15:21:41.000
+At this time, position of A compared to B is:{551.3045591299; 6,101.6182493428; 2,944.7896645451}
+---
+Close approach from 2021-08-02T16:07:00.000 to 2021-08-02T16:10:00.000
+Closest distance is 6185.410933, occurs at time 2021-08-02T16:08:48.000
+At this time, position of A compared to B is:{1,015.0470041619; 5,846.6837647585; -1,745.0721882889}
+---
+
+
+First 1 Close approach(es) between URSA MAIOR and LEMUR-2-XUENITERENCE.
+
+Close approach from 2021-08-03T13:52:00.000 to 2021-08-03T13:54:00.000
+Closest distance is 7556.876240, occurs at time 2021-08-03T13:53:04.000
+At this time, position of A compared to B is:{1,521.955861148; 3,278.701001381; -6,636.2752053738}
+---
+
+
+First 1 Close approach(es) between URSA MAIOR and GHGSAT-D.
+
+Close approach from 2021-07-31T15:42:00.000 to 2021-07-31T15:44:00.000
+Closest distance is 1941.879104, occurs at time 2021-07-31T15:43:01.000
+At this time, position of A compared to B is:{15.2964259533; -1,338.2964073435; -1,406.9908313202}
+---
+
+
+First 1 Close approach(es) between URSA MAIOR and DIAMOND RED.
+
+Close approach from 2021-07-30T15:16:00.000 to 2021-07-30T15:18:00.000
+Closest distance is 5528.968826, occurs at time 2021-07-30T15:16:49.000
+At this time, position of A compared to B is:{1,447.6758507815; 4,759.0442269068; -2,413.5511095682}
+---
+
+
+First 1 Close approach(es) between LEMUR-2-TALLHAMN-ATC and LEMUR-2-LISASAURUS.
+
+Close approach from 2021-08-02T18:21:00.000 to 2021-08-02T18:23:00.000
+Closest distance is 6392.108830, occurs at time 2021-08-02T18:22:00.000
+At this time, position of A compared to B is:{2,676.1967855444; 1,713.8043295821; 5,546.1609041141}
+---
+
+
+First 1 Close approach(es) between REIMEI (INDEX) and S-NET C.
+
+Close approach from 2021-08-01T07:37:00.000 to 2021-08-01T07:39:00.000
+Closest distance is 8618.123925, occurs at time 2021-08-01T07:38:00.000
+At this time, position of A compared to B is:{501.0406812165; -8,406.2797999317; -1,831.7964246152}
 ---
 
 
@@ -1946,71 +1966,51 @@ First 1 Close approach(es) between YAOGAN 11 and NEE-01 PEGASO.
 
 Close approach from 2021-07-30T23:17:00.000 to 2021-07-30T23:19:00.000
 Closest distance is 3965.663456, occurs at time 2021-07-30T23:17:57.000
-At this time, position of A compared to B is:{684.2298602947; -56.9039923361; 3,905.7749653598}
+At this time, position of A compared to B is:{684.2298602946; -56.9039923361; 3,905.7749653617}
 ---
 
 
-First 1 Close approach(es) between NEE-01 PEGASO and CARTOSAT-2B.
-
-Close approach from 2021-08-01T19:55:00.000 to 2021-08-01T19:57:00.000
-Closest distance is 7768.278962, occurs at time 2021-08-01T19:56:00.000
-At this time, position of A compared to B is:{123.1499000437; 2,585.5801638265; 7,324.3270924557}
----
-
-
-First 2 Close approach(es) between ROBUSTA-1B and LEMUR-2-SHAINAJOHL.
-
-Close approach from 2021-08-03T17:11:00.000 to 2021-08-03T17:13:00.000
-Closest distance is 5070.798407, occurs at time 2021-08-03T17:12:11.000
-At this time, position of A compared to B is:{-785.0292491429; -4,856.5950451087; 1,228.9060685802}
----
-Close approach from 2021-08-03T17:58:00.000 to 2021-08-03T18:00:00.000
-Closest distance is 5143.530162, occurs at time 2021-08-03T17:59:20.000
-At this time, position of A compared to B is:{973.7999040806; 4,425.372669897; -2,433.8638029387}
----
-
-
-First 4 Close approach(es) between ECHOSTAR 16 and ECHOSTAR 18.
+First 4 Close approach(es) between ECHOSTAR 18 and ECHOSTAR 16.
 
 Close approach from 2021-07-27T23:59:00.000 to 2021-07-28T02:38:00.000
 Closest distance is 7174.864439, occurs at time 2021-07-27T23:59:00.000
-At this time, position of A compared to B is:{-6,988.4316356257; 1,612.4945382103; 200.9088090725}
+At this time, position of A compared to B is:{6,988.4316356331; -1,612.4945382252; -200.9088090725}
 ---
 Close approach from 2021-07-28T11:49:00.000 to 2021-07-31T16:26:00.000
 Closest distance is 1772.996656, occurs at time 2021-07-28T21:12:24.000
-At this time, position of A compared to B is:{-751.0075028166; 790.0101227947; 1,398.3522010987}
+At this time, position of A compared to B is:{751.0075028166; -790.0101227872; -1,398.3522010987}
 ---
 Close approach from 2021-07-31T23:52:00.000 to 2021-08-01T13:14:00.000
 Closest distance is 4645.095624, occurs at time 2021-08-01T07:15:55.000
-At this time, position of A compared to B is:{5.5969348401; 4,194.2082827915; -1,996.3714363144}
+At this time, position of A compared to B is:{-5.596934855; -4,194.2082827915; 1,996.3714363143}
 ---
 Close approach from 2021-08-02T04:07:00.000 to 2021-08-02T09:55:00.000
 Closest distance is 8676.274086, occurs at time 2021-08-02T07:07:58.000
-At this time, position of A compared to B is:{433.8391811997; 8,415.6443874654; -2,065.5374917937}
+At this time, position of A compared to B is:{-433.8391812146; -8,415.6443874645; 2,065.5374917937}
 ---
 
 
-First 1 Close approach(es) between SJ-11-01 and SJ-11-03.
+First 1 Close approach(es) between CANX-5 and DELFI-N3XT.
 
-Close approach from 2021-07-29T16:13:00.000 to 2021-07-29T16:15:00.000
-Closest distance is 6100.869677, occurs at time 2021-07-29T16:14:16.000
-At this time, position of A compared to B is:{-3,288.6095468006; -4,279.7895091044; 2,844.1272507496}
+Close approach from 2021-07-28T00:46:00.000 to 2021-07-28T00:48:00.000
+Closest distance is 4768.329308, occurs at time 2021-07-28T00:47:00.000
+At this time, position of A compared to B is:{2,458.2051168066; 3,569.8632359465; 1,987.5282323724}
 ---
 
 
-First 1 Close approach(es) between FLOCK 3P-64 and FOX-1D (AO-92).
+First 3 Close approach(es) between FLOCK 2K-15 and FLOCK 2K-10.
 
-Close approach from 2021-07-31T22:58:00.000 to 2021-07-31T23:00:00.000
-Closest distance is 939.899477, occurs at time 2021-07-31T22:58:49.000
-At this time, position of A compared to B is:{208.4795157537; -547.0180872584; 735.3356585307}
+Close approach from 2021-08-02T11:30:00.000 to 2021-08-02T11:41:00.000
+Closest distance is 5788.129450, occurs at time 2021-08-02T11:35:46.000
+At this time, position of A compared to B is:{-2,643.7010678453; -5,002.9444800017; 1,218.127138461}
 ---
-
-
-First 1 Close approach(es) between FLOCK 3P-55 and 2018-004AA.
-
-Close approach from 2021-08-02T13:16:00.000 to 2021-08-02T13:18:00.000
-Closest distance is 6063.921437, occurs at time 2021-08-02T13:17:06.000
-At this time, position of A compared to B is:{588.7311846972; -5,025.2870671006; 3,342.3088848954}
+Close approach from 2021-08-02T12:15:00.000 to 2021-08-02T12:29:00.000
+Closest distance is 1078.466689, occurs at time 2021-08-02T12:22:05.000
+At this time, position of A compared to B is:{-11.8851481266; 244.9721745069; -1,050.2084437385}
+---
+Close approach from 2021-08-02T13:03:00.000 to 2021-08-02T13:14:00.000
+Closest distance is 5361.803940, occurs at time 2021-08-02T13:08:23.000
+At this time, position of A compared to B is:{2,688.8332065999; 4,511.2804906606; 1,080.4933205713}
 ---
 
 
