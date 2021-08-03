@@ -79,9 +79,12 @@ public class Main {
         testTLEs = TLEUtil.readTLEs(tlePaths, 1500);
 
         //this is the part that takes the longest
-        testTLEs.parallelStream().forEach(i -> {
-            testResults.add(OrbitResults.createOrbitResults(i,intervalInSeconds,durationInSeconds,startDate));
-        });
+        testTLEs.stream().parallel().map(i -> {
+            //System.out.println(i.name());
+            //System.out.println(i.TLE().getE());
+
+            return testResults.add(OrbitResults.createOrbitResults(i,intervalInSeconds,durationInSeconds,startDate));
+        }).collect(Collectors.toList());
         //this is the part that takes the longest
 
         System.out.println("Done with OrbitResults");
